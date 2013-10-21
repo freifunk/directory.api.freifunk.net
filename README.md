@@ -1,17 +1,3 @@
-Anwendungen
-===========
-
-Freifunk Community Map
-----------------------
-
-Ein Beispiel gibt es hier: http://weimarnetz.de/ffmap/map.html
-
-Freifunk Community Feed Merger
-------------------------------
-
-Blogfeeds werden hier zusammengefast: http://weimarnetz.de/fffeed/feed.php
-
-
 Entstehung
 ==========
 
