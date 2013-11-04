@@ -40,6 +40,6 @@
         "graz" : "http://ffapi.graz.funkfeuer.at/ffapi.json",
         "giessen" : "http://www.benny.de/freifunk/giessen.json",
         "kassel" : "http://www.benny.de/freifunk/kassel.json",
-        "mainz" : "http://www.familie-hallmann.info/freifunk-net.json"
-        
+        "mainz" : "http://www.familie-hallmann.info/freifunk-net.json",
+        "rheine" : "http://wiki.freifunk.net/images/f/f6/Rheine.freifunk.json"
 }
