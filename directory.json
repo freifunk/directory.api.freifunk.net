@@ -48,5 +48,6 @@
 	"kassel" : "http://www.benny.de/freifunk/kassel.json",
 	"mainz" : "http://www.familie-hallmann.info/freifunk-net.json",
 	"rheine" : "http://wiki.freifunk.net/images/f/f6/Rheine.freifunk.json",
-	"paderborn" : "http://thardes.de/ffpb.json"
+	"paderborn" : "http://thardes.de/ffpb.json",
+"flensburg" : "http://freifunk-flensburg.de/api.txt"
 }
