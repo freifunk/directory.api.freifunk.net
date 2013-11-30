@@ -1,5 +1,6 @@
 {
 	"augsburg": "http://www.wgaugsburg.de/ffapi/ffapi.json",
+	"altmark" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
 	"battlemesh" : "http://feeds.leipzig.freifunk.net/ffapi/battlemesh.json",
 	"berlin" : "http://berlin.freifunk.net/static/berlin.json",
 	"bielefeld" : "http://vpn1.freifunk-bielefeld.de/freifunk/ffapi.json",
