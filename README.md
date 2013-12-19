@@ -31,4 +31,8 @@ Based on the Hackerspaces API (http://hackerspaces.nl/spaceapi/) the idea of the
 
 The freifunk API is designed to collect metadata of communities in a decentral way and make it available to other users. It's not designated to be a freifunk node database or a directory of individual community firmware settings.
 
+Licence
+=======
 
+Please feel free to use this data in any (usefull) way you want. 
+We assume it to be in the [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
