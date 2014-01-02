@@ -48,7 +48,8 @@
 	"graz" : "http://ffapi.graz.funkfeuer.at/ffapi.json",
 	"giessen" : "http://www.benny.de/freifunk/giessen.json",
 	"kassel" : "http://www.benny.de/freifunk/kassel.json",
-	"mainz" : "http://www.familie-hallmann.info/freifunk-net.json",
+	"mainz" : "http://ffapi.freifunk-mainz.de/ffapi_mz.json",
+	"wiesbaden" : "http://ffapi.freifunk-wiesbaden.de/ffapi_wi.json",
 	"rheine" : "http://wiki.freifunk.net/images/f/f6/Rheine.freifunk.json",
 	"paderborn" : "http://thardes.de/ffpb.json",
 	"flensburg" : "http://freifunk-flensburg.de/api.txt"
