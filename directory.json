@@ -59,4 +59,5 @@
 	"esslingen" : "http://www.freifunk-esslingen.de/wp-content/uploads/2013/x+oGsSi2",
         "reihen" : "http://freifunk.reihen.de/reihen.json",
         "hannover" : "http://kreutzer-it.de/hannover-api.json"
+        "erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json"
 }
