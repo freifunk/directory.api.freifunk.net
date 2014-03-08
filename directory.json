@@ -52,6 +52,7 @@
 	"giessen" : "http://www.benny.de/freifunk/giessen.json",
 	"kassel" : "http://www.benny.de/freifunk/kassel.json",
 	"mainz" : "http://ffapi.freifunk-mainz.de/ffapi_mz.json",
+	"magdeburg" : "http://freifunkmd.github.io/community.json/ffmd.json",
 	"wiesbaden" : "http://ffapi.freifunk-wiesbaden.de/ffapi_wi.json",
 	"rheine" : "http://wiki.freifunk.net/images/f/f6/Rheine.freifunk.json",
 	"paderborn" : "http://thardes.de/ffpb.json",
