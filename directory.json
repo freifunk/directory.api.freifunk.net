@@ -60,5 +60,6 @@
 	"esslingen" : "http://www.freifunk-esslingen.de/wp-content/uploads/2013/x+oGsSi2",
         "reihen" : "http://freifunk.reihen.de/reihen.json",
         "hannover" : "http://kreutzer.biz/hannover-api.json",
-        "erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json"
+        "erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json",
+        "weil am rhein": "https://raw.github.com/kalbfuss/Freifunk-Weil-am-Rhein/master/ffapi.json"
 }
