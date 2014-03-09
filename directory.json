@@ -58,8 +58,8 @@
 	"paderborn" : "http://thardes.de/ffpb.json",
 	"flensburg" : "http://freifunk-flensburg.de/api.txt",
 	"esslingen" : "http://www.freifunk-esslingen.de/wp-content/uploads/2013/x+oGsSi2",
-        "reihen" : "http://freifunk.reihen.de/reihen.json",
-        "hannover" : "http://kreutzer.biz/hannover-api.json",
-        "erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json",
-        "weil am rhein": "https://raw.github.com/kalbfuss/Freifunk-Weil-am-Rhein/master/ffapi.json"
+	"reihen" : "http://freifunk.reihen.de/reihen.json",
+	"hannover" : "http://kreutzer.biz/hannover-api.json",
+	"erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json",
+	"weil-am-rhein" : "https://raw.github.com/kalbfuss/Freifunk-Weil-am-Rhein/master/ffapi.json"
 }
