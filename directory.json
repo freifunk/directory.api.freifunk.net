@@ -62,5 +62,6 @@
 	"hannover" : "http://kreutzer.biz/hannover-api.json",
 	"erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json",
         "weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
-	"weil-am-rhein" : "https://raw.github.com/kalbfuss/Freifunk-Weil-am-Rhein/master/ffapi.json"
+	"weil-am-rhein" : "https://raw.github.com/kalbfuss/Freifunk-Weil-am-Rhein/master/ffapi.json",
+	"euskirchen" : "http://freifunk-euskirchen.de/ffapi.json"
 }
