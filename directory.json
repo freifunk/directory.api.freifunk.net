@@ -55,7 +55,7 @@
 	"magdeburg" : "http://freifunkmd.github.io/community.json/ffmd.json",
 	"wiesbaden" : "http://ffapi.freifunk-wiesbaden.de/ffapi_wi.json",
 	"rheine" : "http://wiki.freifunk.net/images/f/f6/Rheine.freifunk.json",
-	"paderborn" : "http://thardes.de/ffpb.json",
+	"paderborn" : "http://paderborn.freifunk.net/ffapi.json",
 	"flensburg" : "http://freifunk-flensburg.de/api.txt",
 	"esslingen" : "http://www.freifunk-esslingen.de/wp-content/uploads/2013/x+oGsSi2",
 	"reihen" : "http://freifunk.reihen.de/reihen.json",
