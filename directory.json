@@ -66,5 +66,6 @@
 	"euskirchen" : "http://freifunk-euskirchen.de/ffapi.json",
 	"wittmund" : "http://wittmund-freifunk.de/scripte/ff_wtm.json",
 	"witten" : "https://raw.githubusercontent.com/FreifunkWitten/API-File/master/FreifunkWitten.json",
-	"freiburg" : "http://freiburg.freifunk.net/API-File"
+	"freiburg" : "http://freiburg.freifunk.net/API-File",
+	"gevelsberg" : "https://raw.githubusercontent.com/FreifunkGevelsberg/API-File/master/Gevelsberg.txt"
 }
