@@ -64,5 +64,6 @@
         "weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
 	"weil-am-rhein" : "https://raw.github.com/kalbfuss/Freifunk-Weil-am-Rhein/master/ffapi.json",
 	"euskirchen" : "http://freifunk-euskirchen.de/ffapi.json",
-	"wittmund" : "http://wittmund-freifunk.de/scripte/ff_wtm.json"
+	"wittmund" : "http://wittmund-freifunk.de/scripte/ff_wtm.json",
+	"witten" : "https://raw.githubusercontent.com/FreifunkWitten/API-File/master/FreifunkWitten.json"
 }
