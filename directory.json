@@ -67,5 +67,6 @@
 	"wittmund" : "http://wittmund-freifunk.de/scripte/ff_wtm.json",
 	"witten" : "https://raw.githubusercontent.com/FreifunkWitten/API-File/master/FreifunkWitten.json",
 	"freiburg" : "http://freiburg.freifunk.net/API-File",
-	"gevelsberg" : "https://raw.githubusercontent.com/FreifunkGevelsberg/API-File/master/Gevelsberg.txt"
+	"gevelsberg" : "https://raw.githubusercontent.com/FreifunkGevelsberg/API-File/master/Gevelsberg.txt",
+	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json"
 }
