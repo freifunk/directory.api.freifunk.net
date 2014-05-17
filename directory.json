@@ -70,5 +70,6 @@
 	"wentzwiller" : "http://api.s3system.net/ff-wentzwiller.json",
 	"schopfheim" : "http://api.s3system.net/ff-schopfheim.json",
 	"gevelsberg" : "https://raw.githubusercontent.com/FreifunkGevelsberg/API-File/master/Gevelsberg.txt",
-	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json"
+	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json",
+	"arnsberg" : "http://www.g-ds.de/neheim-huesten.json"
 }
