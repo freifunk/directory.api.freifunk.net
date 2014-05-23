@@ -72,6 +72,6 @@
 	"gevelsberg" : "https://raw.githubusercontent.com/FreifunkGevelsberg/API-File/master/Gevelsberg.txt",
 	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json",
         "langweid" : "http://www.freifunk-langweid.de/freifunk-api.json",
-	"arnsberg" : "http://www.g-ds.de/neheim-huesten.json"
+	"arnsberg" : "http://www.g-ds.de/neheim-huesten.json",
 	"evernet" : "http://www.evernet-eg.de/evernet.json"
 }
