@@ -74,4 +74,5 @@
         "langweid" : "http://www.freifunk-langweid.de/freifunk-api.json",
 	"arnsberg" : "http://www.g-ds.de/neheim-huesten.json",
 	"evernet" : "http://www.evernet-eg.de/evernet.json"
+	"hockenheim" : "https://github.com/Nurtic-Vibe/FF-Hockenheim-Nodes/raw/master/ff-hockenheim-api.json"
 }
