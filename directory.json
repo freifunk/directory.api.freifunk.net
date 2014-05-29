@@ -74,5 +74,6 @@
         "langweid" : "http://www.freifunk-langweid.de/freifunk-api.json",
 	"arnsberg" : "http://www.g-ds.de/neheim-huesten.json",
 	"evernet" : "http://www.evernet-eg.de/evernet.json",
-	"hockenheim" : "https://github.com/Nurtic-Vibe/FF-Hockenheim-Nodes/raw/master/ff-hockenheim-api.json"
+	"hockenheim" : "https://github.com/Nurtic-Vibe/FF-Hockenheim-Nodes/raw/master/ff-hockenheim-api.json",
+	"hemer" : "https://triplet.antares.uberspace.de/owncloud/public.php?service=files&t=b6bdbee456c6608a62ef4fa75e241c2c&download"
 }
