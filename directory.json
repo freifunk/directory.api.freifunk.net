@@ -11,7 +11,7 @@
 	"diepholz" : "http://api.freifunk-dh.de/ffnetapi.php",
 	"ansbach" : "https://raw.github.com/FreifunkFranken/freifunkfranken-community/master/ansbach.json",
 	"erlangen" : "https://raw.github.com/FreifunkFranken/freifunkfranken-community/master/erlangen.json",
-	"fuerth" : "https://raw.github.com/FreifunkFranken/freifunkfranken-community/master/fuerth.json",
+	"fuerth" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/fuerth.json",
 	"haag" : "https://raw.github.com/FreifunkFranken/freifunkfranken-community/master/haag.json",
 	"nuernberg" : "https://raw.github.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"regensburg" : "https://raw.github.com/FreifunkFranken/freifunkfranken-community/master/regensburg.json",
