@@ -69,6 +69,7 @@
 	"freiburg" : "http://freiburg.freifunk.net/API-File",
 	"wentzwiller" : "http://api.s3system.net/ff-wentzwiller.json",
 	"schopfheim" : "http://api.s3system.net/ff-schopfheim.json",
+	"stuttgart" : "http://stuttgart.albi.info/uploads/freifunk-stuttgart.txt",
 	"gevelsberg" : "https://raw.githubusercontent.com/FreifunkGevelsberg/API-File/master/Gevelsberg.txt",
 	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json",
         "langweid" : "http://www.freifunk-langweid.de/freifunk-api.json",
