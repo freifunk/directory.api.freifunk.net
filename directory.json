@@ -78,5 +78,6 @@
 	"hockenheim" : "https://github.com/Nurtic-Vibe/FF-Hockenheim-Nodes/raw/master/ff-hockenheim-api.json",
 	"rhein-neckar" : "http://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
 	"greifswald" : "http://freifunk.myriapod.de/wp-content/uploads/2014/06/full-api-file.txt",
+	"braunschweig" : "http://freifunk.stratum0.org/api/api.json",
 	"hemer" : "https://triplet.antares.uberspace.de/owncloud/public.php?service=files&t=b6bdbee456c6608a62ef4fa75e241c2c&download"
 }
