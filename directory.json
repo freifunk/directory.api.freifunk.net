@@ -79,5 +79,6 @@
 	"rhein-neckar" : "http://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
 	"greifswald" : "http://freifunk.myriapod.de/ffhgw.json",
 	"braunschweig" : "http://freifunk.stratum0.org/api/api.json",
-	"hemer" : "https://triplet.antares.uberspace.de/owncloud/public.php?service=files&t=b6bdbee456c6608a62ef4fa75e241c2c&download"
+	"hemer" : "https://triplet.antares.uberspace.de/owncloud/public.php?service=files&t=b6bdbee456c6608a62ef4fa75e241c2c&download",
+	"muenchen" : "http://muenchen.freifunk.net/freifunk.net.json"
 }
