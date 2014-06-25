@@ -56,7 +56,7 @@
 	"wiesbaden" : "http://ffapi.freifunk-wiesbaden.de/ffapi_wi.json",
 	"rheine" : "http://wiki.freifunk.net/images/f/f6/Rheine.freifunk.json",
 	"paderborn" : "http://paderborn.freifunk.net/ffapi.json",
-	"flensburg" : "http://freifunk-flensburg.de/api.txt",
+	"flensburg" : "http://freifunk-flensburg.de/api/api.json",
 	"esslingen" : "http://www.freifunk-esslingen.de/wp-content/uploads/2013/x+oGsSi2",
 	"reihen" : "http://freifunk.reihen.de/reihen.json",
 	"hannover" : "http://kreutzer.biz/hannover-api.json",
