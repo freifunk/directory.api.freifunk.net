@@ -83,5 +83,11 @@
 	"muenchen" : "http://muenchen.freifunk.net/freifunk.net.json",
 	"westpfalz" : "http://schmittendrin.de/freifunk/API/ffapi_westpfalz.json",
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
-	"guetersloh" : "http://quoth.uu.org/ffgt-api.json"
+	"guetersloh" : "http://quoth.uu.org/ffgt-api.json",
+	"ruhrgebiet" : "http://freifunk-ruhrgebiet.de/ffapi/ruhrgebiet.json",
+	"oberhausen" : "http://freifunk-ruhrgebiet.de/ffapi/oberhausen.json",
+	"bochum" : "http://freifunk-ruhrgebiet.de/ffapi/bochum.json",
+	"herne" : "http://freifunk-ruhrgebiet.de/ffapi/herne.json",
+	"muelheim" : "http://freifunk-ruhrgebiet.de/ffapi/muelheim.json",
+	"herten" : "http://freifunk-ruhrgebiet.de/ffapi/herten.json"
 }
