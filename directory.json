@@ -75,7 +75,7 @@
 	"langweid" : "http://www.freifunk-langweid.de/freifunk-api.json",
 	"arnsberg" : "http://www.g-ds.de/neheim-huesten.json",
 	"evernet" : "http://www.evernet-eg.de/evernet.json",
-	"hockenheim" : "https://github.com/Nurtic-Vibe/FF-Hockenheim-Nodes/raw/master/ff-hockenheim-api.json",
+	"hockenheim" : "https://raw.githubusercontent.com/Nurtic-Vibe/FF-Hockenheim-Nodes/master/ff-hockenheim-api.json",
 	"rhein-neckar" : "http://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
 	"greifswald" : "http://freifunk.myriapod.de/ffhgw.json",
 	"braunschweig" : "http://freifunk.stratum0.org/api/api.json",
