@@ -58,6 +58,7 @@
 	"magdeburg" : "http://freifunkmd.github.io/community.json/ffmd.json",
 	"mainz" : "http://ffapi.freifunk-mainz.de/ffapi_mz.json",
 	"muelheim" : "http://freifunk-ruhrgebiet.de/ffapi/muelheim.json",
+	"muenster" : "https://www.warpzone.ms/freifunk/FreifunkMuenster-api.json",
 	"muenchen" : "http://muenchen.freifunk.net/freifunk.net.json",
 	"nuernberg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"oberhausen" : "http://freifunk-ruhrgebiet.de/ffapi/oberhausen.json",
