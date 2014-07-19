@@ -78,6 +78,7 @@
 	"schopfheim" : "http://api.s3system.net/ff-schopfheim.json",
 	"stuttgart" : "http://stuttgart.albi.info/uploads/freifunk-stuttgart.txt",
 	"ulm" : "http://drugtestbots.info/ulm.ffapi",
+	"uelzen" : "http://freifunk-uelzen.de/api/FreifunkUelzen-api.json",
 	"wahlsdorf": "http://rensky.net/freifunk/wahlsdorf.json",
 	"weil-am-rhein" : "https://rawgit.com/kalbfuss/Freifunk-Weil-am-Rhein/master/ffapi.json",
 	"weimarnetz" : "http://weimarnetz.de/weimarnetz.json",
