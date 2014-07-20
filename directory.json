@@ -77,6 +77,7 @@
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
 	"ruhrgebiet" : "http://freifunk-ruhrgebiet.de/ffapi/ruhrgebiet.json",
 	"schopfheim" : "http://api.s3system.net/ff-schopfheim.json",
+	"steele" : "http://freifunk-ruhrgebiet.de/ffapi/steele.json",
 	"stuttgart" : "http://stuttgart.albi.info/uploads/freifunk-stuttgart.txt",
 	"ulm" : "http://drugtestbots.info/ulm.ffapi",
 	"uelzen" : "http://freifunk-uelzen.de/api/FreifunkUelzen-api.json",
