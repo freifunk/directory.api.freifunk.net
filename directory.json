@@ -40,6 +40,7 @@
 	"haag" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/haag.json",
 	"halle" : "http://www.freifunk-halle.net/freifunk-api.json",
 	"hamburg" : "http://meta.hamburg.freifunk.net/ffhh.json",
+	"hamm" : "http://freifunk-ruhrgebiet.de/ffapi/hamm.json",
 	"hannover" : "http://kreutzer.biz/hannover-api.json",
 	"hassberge" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/hassberge.json",
 	"hemer" : "https://triplet.antares.uberspace.de/owncloud/public.php?service=files&t=b6bdbee456c6608a62ef4fa75e241c2c&download",
