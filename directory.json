@@ -1,7 +1,7 @@
 {
 	"altmark" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
 	"ansbach" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/ansbach.json",
-	"arnsberg" : "http://www.g-ds.de/neheim-huesten.json",
+	"moehne" : "http://moehne-vis.freifunk-rheinland.net/api.json",
 	"augsburg": "http://www.wgaugsburg.de/ffapi/ffapi.json",
 	"battlemesh" : "http://feeds.leipzig.freifunk.net/ffapi/battlemesh.json",
 	"berlin" : "http://berlin.freifunk.net/static/berlin.json",
