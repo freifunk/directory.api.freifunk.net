@@ -82,7 +82,7 @@
 	"ulm" : "http://drugtestbots.info/ulm.ffapi",
 	"uelzen" : "http://freifunk-uelzen.de/api/FreifunkUelzen-api.json",
 	"wahlsdorf": "http://rensky.net/freifunk/wahlsdorf.json",
-	"weil-am-rhein" : "https://rawgit.com/kalbfuss/Freifunk-Weil-am-Rhein/master/ffapi.json",
+	"weil-am-rhein" : "https://raw.githubusercontent.com/kalbfuss/freifunk-dreilaendereck/master/weil-am-rhein.json",
 	"weimarnetz" : "http://weimarnetz.de/weimarnetz.json",
 	"weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
 	"wentzwiller" : "http://api.s3system.net/ff-wentzwiller.json",
