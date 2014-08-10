@@ -75,7 +75,7 @@
 	"rheinland" : "https://freifunk-rheinland.net/ffapi.json",
 	"rhein-neckar" : "http://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
 	"rostock" : "http://www.opennet-initiative.de/api.freifunk.net-status.json",
-	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
+	"rothenburg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/rothenburg.json",
 	"ruhrgebiet" : "http://freifunk-ruhrgebiet.de/ffapi/ruhrgebiet.json",
 	"schopfheim" : "http://api.s3system.net/ff-schopfheim.json",
 	"stuttgart" : "http://stuttgart.albi.info/uploads/freifunk-stuttgart.txt",
