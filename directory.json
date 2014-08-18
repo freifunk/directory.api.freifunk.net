@@ -48,6 +48,7 @@
 	"herten" : "http://freifunk-ruhrgebiet.de/ffapi/herten.json",
 	"hockenheim" : "https://raw.githubusercontent.com/Nurtic-Vibe/FF-Hockenheim-Nodes/master/ff-hockenheim-api.json",
 	"jena" : "http://freifunk-jena.de/jena.json",
+	"karlsruhe" : "http://api.freifunk-karlsruhe.de/ffka.json",
 	"kassel" : "http://www.benny.de/freifunk/kassel.json",
 	"kiel" : "http://freifunk.in-kiel.de/ffapi.json",
 	"koeln" : "http://map.kbu.freifunk.net/ffapi/koeln.json",
