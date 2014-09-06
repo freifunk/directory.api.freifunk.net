@@ -27,6 +27,7 @@
 	"frankfurt_am_main" : "http://freifunk-ffm.github.io/community.json/ff-frankfurt.json",
 	"freiburg" : "http://freiburg.freifunk.net/API-File",
 	"fuerth" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/fuerth.json",
+	"fulda" : "http://www.freifunk-fulda.de/FreifunkFulda-api.json",
 	"gadow" : "http://feeds.leipzig.freifunk.net/ffapi/gadow.json",
 	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json",
 	"gemeinsam" : "http://freifunk.net/api/foerderverein-api.json",
