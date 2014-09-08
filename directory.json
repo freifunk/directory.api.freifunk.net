@@ -40,6 +40,7 @@
 	"grossdraxdorf" : "http://feeds.leipzig.freifunk.net/ffapi/grossdraxdorf.json",
 	"guetersloh" : "http://quoth.uu.org/ffgt-api.json",
 	"haag" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/haag.json",
+	"hagen" : "http://freifunk-hagen.de/hagen-api.json",
 	"halle" : "http://www.freifunk-halle.net/freifunk-api.json",
 	"hamburg" : "http://meta.hamburg.freifunk.net/ffhh.json",
 	"hamm" : "http://freifunk-ruhrgebiet.de/ffapi/hamm.json",
