@@ -54,6 +54,7 @@
 	"jena" : "http://freifunk-jena.de/jena.json",
 	"karlsruhe" : "http://api.freifunk-karlsruhe.de/ffka.json",
 	"kassel" : "http://www.benny.de/freifunk/kassel.json",
+	"kempen" : "http://www.freifunk-kempen.net/ff-kk-api.json",
 	"kiel" : "http://freifunk.in-kiel.de/ffapi.json",
 	"koeln" : "http://map.kbu.freifunk.net/ffapi/koeln.json",
 	"langweid" : "http://www.freifunk-langweid.de/freifunk-api.json",
