@@ -53,6 +53,7 @@
 	"hannover" : "http://kreutzer.biz/hannover-api.json",
 	"hassberge" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/hassberge.json",
 	"hemer" : "https://triplet.antares.uberspace.de/owncloud/public.php?service=files&t=b6bdbee456c6608a62ef4fa75e241c2c&download",
+	"herford" : "http://herford.freifunk.net/api/herford-api.json",
 	"herne" : "http://freifunk-ruhrgebiet.de/ffapi/herne.json",
 	"herten" : "http://freifunk-ruhrgebiet.de/ffapi/herten.json",
 	"hockenheim" : "https://raw.githubusercontent.com/Nurtic-Vibe/FF-Hockenheim-Nodes/master/ff-hockenheim-api.json",
