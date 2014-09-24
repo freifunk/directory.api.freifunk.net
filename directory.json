@@ -72,6 +72,7 @@
 	"lueneburg" : "http://freifunk-lueneburg.de/lueneburg.json",
 	"magdeburg" : "http://freifunkmd.github.io/community.json/ffmd.json",
 	"mainz" : "http://ffapi.freifunk-mainz.de/ffapi_mz.json",
+	"meissen" : "http://meissen.stadtlog.com/freifunk/FreifunkMeissen-api.json",
 	"moenchengladbach" : "http://api.freifunk-moenchengladbach.de/ffmg-api.json",
 	"muelheim" : "http://freifunk-ruhrgebiet.de/ffapi/muelheim.json",
 	"muenster" : "https://freifunk-muenster.de/ressources/FreifunkMuenster-api.json",
