@@ -1,4 +1,5 @@
 {
+	"aachen" : "http://www.freifunk-aachen.de/acffapi.json",
 	"altmark" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
 	"ansbach" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/ansbach.json",
 	"moehne" : "http://moehne-vis.freifunk-rheinland.net/api.json",
