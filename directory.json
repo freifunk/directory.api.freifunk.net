@@ -77,7 +77,7 @@
 	"moenchengladbach" : "http://api.freifunk-moenchengladbach.de/ffmg-api.json",
 	"muelheim" : "http://freifunk-ruhrgebiet.de/ffapi/muelheim.json",
 	"muenster" : "https://freifunk-muenster.de/ressources/FreifunkMuenster-api.json",
-	"muenchen" : "http://muenchen.freifunk.net/freifunk.net.json",
+	"muenchen" : "https://raw.githubusercontent.com/freifunkMUC/freifunk.net-API/master/freifunk.net.json",
 	"nuernberg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"oberhausen" : "http://freifunk-ruhrgebiet.de/ffapi/oberhausen.json",
 	"oldenburg" : "https://netmon.freifunk-ol.de/scripts/ffnetapi/ffnetapi.php",
