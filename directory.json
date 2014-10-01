@@ -100,6 +100,7 @@
 	"unna" : "http://freifunk-ruhrgebiet.de/ffapi/unna.json",
 	"uelzen" : "http://freifunk-uelzen.de/api/FreifunkUelzen-api.json",
 	"wahlsdorf": "http://rensky.net/freifunk/wahlsdorf.json",
+	"warendorf" : "http://freifunk-ruhrgebiet.de/ffapi/warendorf.json",
 	"weil-am-rhein" : "https://raw.githubusercontent.com/kalbfuss/freifunk-dreilaendereck/master/weil-am-rhein.json",
 	"weimarnetz" : "http://weimarnetz.de/weimarnetz.json",
 	"weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
