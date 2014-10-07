@@ -95,6 +95,7 @@
 	"ruhrgebiet" : "http://freifunk-ruhrgebiet.de/ffapi/ruhrgebiet.json",
 	"schopfheim" : "http://api.s3system.net/ff-schopfheim.json",
 	"schwerte" : "http://freifunk-ruhrgebiet.de/ffapi/schwerte.json",
+	"straelen" : "http://freifunk.straelen.eu/freifunk_straelen.json",
 	"stuttgart" : "http://stuttgart.albi.info/uploads/freifunk-stuttgart.txt",
 	"ulm" : "http://drugtestbots.info/ulm.ffapi",
 	"unna" : "http://freifunk-ruhrgebiet.de/ffapi/unna.json",
