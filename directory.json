@@ -28,6 +28,7 @@
 	"essen" : "http://freifunk-ruhrgebiet.de/ffapi/essen.json",
 	"essen-steele" : "http://freifunk-ruhrgebiet.de/ffapi/essen-steele.json",
 	"esslingen" : "http://www.freifunk-esslingen.de/wp-content/uploads/2013/x+oGsSi2",
+	"emskirchen" : "https://cdn.rawgit.com/StilgarBF/freifunk-emskirchen/master/community/emskirchen.json",
 	"euskirchen" : "http://freifunk-euskirchen.de/ffapi.json",
 	"evernet" : "http://www.evernet-eg.de/evernet.json",
 	"flensburg" : "http://freifunk-flensburg.de/api/api.json",
