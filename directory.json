@@ -37,7 +37,7 @@
 	"fuerth" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/fuerth.json",
 	"fulda" : "http://www.freifunk-fulda.de/FreifunkFulda-api.json",
 	"gadow" : "http://feeds.leipzig.freifunk.net/ffapi/gadow.json",
-	"gardelegen" : "https://rawgit.com/FreifunkGardelegen/FreifunkGardelegenAPI/master/FreifunkGardelegen.json"
+	"gardelegen" : "https://rawgit.com/FreifunkGardelegen/FreifunkGardelegenAPI/master/FreifunkGardelegen.json",
 	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json",
 	"gemeinsam" : "http://freifunk.net/api/foerderverein-api.json",
 	"gelsenkirchen" : "http://ge.freifunk.net/api.json",
