@@ -86,7 +86,6 @@
 	"oldenburg" : "https://netmon.freifunk-ol.de/scripts/ffnetapi/ffnetapi.php",
 	"paderborn" : "http://paderborn.freifunk.net/ffapi.json",
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
-	"regensburg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/regensburg.json",
 	"reihen" : "http://freifunk.reihen.de/reihen.json",
 	"remscheid" : "http://rs.freifunk.net/api.json",
 	"rheine" : "http://wiki.freifunk.net/images/f/f6/Rheine.freifunk.json",
