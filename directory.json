@@ -110,7 +110,7 @@
 	"wermelskirchen" : "http://wk.freifunk.net/api.json",
 	"werne" : "http://freifunk-ruhrgebiet.de/ffapi/werne.json",
 	"wesel" : "http://freifunk-ruhrgebiet.de/ffapi/wesel.json",
-	"westpfalz" : "http://schmittendrin.de/freifunk/API/ffapi_westpfalz.json",
+	"westpfalz" : "http://api.freifunk-westpfalz.de/FreifunkWestpfalz-api.json",
 	"wiesbaden" : "http://ffapi.freifunk-wiesbaden.de/ffapi_wi.json",
 	"wiesenburg" : "http://wiki.freifunk.net/images/7/79/Wiesenburg_freifunk_api.json",
 	"witten" : "https://raw.githubusercontent.com/FreifunkWitten/API-File/master/FreifunkWitten.json",
