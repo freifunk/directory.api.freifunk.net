@@ -44,6 +44,7 @@
 	"gevelsberg" : "http://freifunk-ruhrgebiet.de/ffapi/gevelsberg.json",
 	"giessen" : "http://www.benny.de/freifunk/giessen.json",
 	"gladbeck" : "http://freifunk-ruhrgebiet.de/ffapi/gladbeck.json",
+	"goettingen" : "https://cccgoe.de/freifunk-goe.json",
 	"graz" : "http://ffapi.graz.funkfeuer.at/ffapi.json",
 	"greifswald" : "http://freifunk.myriapod.de/ffhgw.json",
 	"gronau" : "http://freifunk.liztv.net/ffapi/gronau.json",
