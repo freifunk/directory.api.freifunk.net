@@ -85,6 +85,7 @@
 	"oberhausen" : "http://freifunk-ruhrgebiet.de/ffapi/oberhausen.json",
 	"oldenburg" : "https://netmon.freifunk-ol.de/scripts/ffnetapi/ffnetapi.php",
 	"osnabrueck" : "http://osnabrueck.freifunk.net/Freifunk-api.json",
+	"ostholstein" : "http://ostholstein.freifunk.net/ffapi.json",
 	"paderborn" : "http://paderborn.freifunk.net/ffapi.json",
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
 	"reihen" : "http://freifunk.reihen.de/reihen.json",
