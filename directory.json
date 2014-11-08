@@ -22,6 +22,7 @@
 	"dorsten" : "http://freifunk-ruhrgebiet.de/ffapi/dorsten.json",
 	"dortmund" : "http://freifunk-ruhrgebiet.de/ffapi/dortmund.json",
 	"dresden" : "http://info.ddmesh.de/info/freifunk.json",
+	"ehingen" : "http://freifunk-ehingen.de/FreifunkEhingen-api.json",
 	"eifel" : "http://map.kbu.freifunk.net/ffapi/eifel.json",
 	"erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json",
 	"erlangen" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/erlangen.json",
