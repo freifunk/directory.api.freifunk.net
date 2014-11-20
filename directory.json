@@ -7,6 +7,7 @@
 	"battlemesh" : "http://feeds.leipzig.freifunk.net/ffapi/battlemesh.json",
 	"berlin" : "http://berlin.freifunk.net/static/berlin.json",
 	"bielefeld" : "http://vpn1.freifunk-bielefeld.de/freifunk/ffapi.json",
+	"biggesee" : "http://www.freifunk-biggesee.de/wp-content/uploads/FreifunkBiggesee-api.json",
 	"bochum" : "http://freifunk-ruhrgebiet.de/ffapi/bochum.json",
 	"bonn" : "http://map.kbu.freifunk.net/ffapi/bonn.json",
 	"bottrop" : "http://freifunk-ruhrgebiet.de/ffapi/bottrop.json",
