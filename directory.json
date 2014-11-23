@@ -86,6 +86,7 @@
 	"neuendettelsau" : "https://raw.githubusercontent.com/ffansbach/community-files/master/neuendettelsau.json",
 	"nuernberg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"oberhausen" : "http://freifunk-ruhrgebiet.de/ffapi/oberhausen.json",
+	"obernkirchen" : "http://freifunk-obernkirchen.de/FreifunkObernkirchen-api.json",
 	"oldenburg" : "https://netmon.freifunk-ol.de/scripts/ffnetapi/ffnetapi.php",
 	"osnabrueck" : "http://osnabrueck.freifunk.net/Freifunk-api.json",
 	"ostholstein" : "http://ostholstein.freifunk.net/ffapi.json",
