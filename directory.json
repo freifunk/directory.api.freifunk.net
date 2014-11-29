@@ -106,7 +106,7 @@
 	"reihen" : "http://freifunk.reihen.de/reihen.json",
 	"remscheid" : "http://rs.freifunk.net/api.json",
 	"rheinfelden" : "http://gw2.freifunk-rheinfelden.de/ff3l.json",
-	"rheinland" : "https://freifunk-rheinland.net/ffapi.json",
+	"rheinufer" : "https://freifunk-rheinland.net/ffapi.json",
 	"rhein-neckar" : "http://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
 	"rostock" : "http://www.opennet-initiative.de/api.freifunk.net-status.json",
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
