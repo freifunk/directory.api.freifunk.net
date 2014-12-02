@@ -31,6 +31,7 @@
 	"erlangen" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/erlangen.json",
 	"essen" : "http://freifunk-ruhrgebiet.de/ffapi/essen.json",
 	"essen-steele" : "http://freifunk-ruhrgebiet.de/ffapi/essen-steele.json",
+	"essingen" : "http://www.freifunk-essingen.de/wp-content/uploads/FreifunkEssingen-api.json",
 	"esslingen" : "http://www.freifunk-esslingen.de/wp-content/uploads/2013/x+oGsSi2",
 	"emskirchen" : "https://raw.githubusercontent.com/ffansbach/community-files/master/emskirchen.json",
 	"euskirchen" : "http://freifunk-euskirchen.de/ffapi.json",
