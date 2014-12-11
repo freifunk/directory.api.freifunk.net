@@ -137,5 +137,6 @@
 	"wuerzburg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/wuerzburg.json",
 	"wuppertal" : "http://api.freifunk-wuppertal.net/ffnet/ffwtal.json",
 	"xanten" : "http://freifunk-ruhrgebiet.de/ffapi/xanten.json",
-	"zootzen" : "http://feeds.leipzig.freifunk.net/ffapi/zootzen.json"
+	"zootzen" : "http://feeds.leipzig.freifunk.net/ffapi/zootzen.json",
+	"troisdorf" : "http://freifunk-troisdorf.de/ffapi.json"
 }
