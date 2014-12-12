@@ -116,7 +116,7 @@
 	"schwerte" : "http://freifunk-ruhrgebiet.de/ffapi/schwerte.json",
 	"siegen" : "http://freifunk-ruhrgebiet.de/ffapi/siegen.json",
 	"straelen" : "http://freifunk.straelen.eu/freifunk_straelen.json",
-	"stuttgart" : "http://stuttgart.albi.info/uploads/freifunk-stuttgart.txt",
+	"stuttgart" : "http://gw01.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
 	"troisdorf" : "http://freifunk-troisdorf.de/ffapi.json",
 	"uelzen" : "http://freifunk-uelzen.de/api/FreifunkUelzen-api.json",
 	"ulm" : "http://drugtestbots.info/ulm.ffapi",
