@@ -54,7 +54,6 @@
 	"gronau" : "http://freifunk.liztv.net/ffapi/gronau.json",
 	"grossdraxdorf" : "http://feeds.leipzig.freifunk.net/ffapi/grossdraxdorf.json",
 	"guetersloh" : "http://quoth.uu.org/ffgt-api.json",
-	"gummersbach" : "http://freifunk-ruhrgebiet.de/ffapi/gummersbach.json",
 	"hagen" : "http://freifunk-hagen.de/hagen-api.json",
 	"halle" : "http://www.freifunk-halle.net/freifunk-api.json",
 	"hamburg" : "http://meta.hamburg.freifunk.net/ffhh.json",
