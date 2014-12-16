@@ -103,6 +103,7 @@
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
 	"radevormwald" : "http://freifunk-ruhrgebiet.de/ffapi/radevormwald.json",
 	"raesfeld" : "http://freifunk-ruhrgebiet.de/ffapi/raesfeld.json",
+	"regensburg" : "http://regensburg.freifunk.net/api.json",
 	"reihen" : "http://freifunk.reihen.de/reihen.json",
 	"remscheid" : "http://rs.freifunk.net/api.json",
 	"rhein-neckar" : "http://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
