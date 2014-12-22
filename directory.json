@@ -86,6 +86,7 @@
 	"meinerzhagen" : "http://freifunk-ruhrgebiet.de/ffapi/meinerzhagen.json",
 	"meissen" : "http://meissen.stadtlog.com/freifunk/FreifunkMeissen-api.json",
 	"menden" : "http://freifunk-ruhrgebiet.de/ffapi/menden.json",
+	"minden" : "http://www.freifunk-minden.de/api.json",
 	"moehne" : "http://moehne-vis.freifunk-rheinland.net/api.json",
 	"moenchengladbach" : "http://api.freifunk-moenchengladbach.de/ffmg-api.json",
 	"muelheim" : "http://freifunk-ruhrgebiet.de/ffapi/muelheim.json",
