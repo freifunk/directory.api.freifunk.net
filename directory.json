@@ -43,7 +43,6 @@
 	"gardelegen" : "https://rawgit.com/FreifunkGardelegen/FreifunkGardelegenAPI/master/FreifunkGardelegen.json",
 	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json",
 	"gelsenkirchen" : "http://ge.freifunk.net/api.json",
-	"gemeinsam" : "http://freifunk.net/api/foerderverein-api.json",
 	"gevelsberg" : "http://freifunk-ruhrgebiet.de/ffapi/gevelsberg.json",
 	"giessen" : "http://www.benny.de/freifunk/giessen.json",
 	"gladbeck" : "http://freifunk-ruhrgebiet.de/ffapi/gladbeck.json",
