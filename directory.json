@@ -50,7 +50,7 @@
 	"gevelsberg" : "http://freifunk-ruhrgebiet.de/ffapi/gevelsberg.json",
 	"giessen" : "http://www.benny.de/freifunk/giessen.json",
 	"gladbeck" : "http://freifunk-ruhrgebiet.de/ffapi/gladbeck.json",
-	"goeldenitz" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-goeldenitz.json"
+	"goeldenitz" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-goeldenitz.json",
 	"goettingen" : "https://cccgoe.de/freifunk-goe.json",
 	"graz" : "http://ffapi.graz.funkfeuer.at/ffapi.json",
 	"greifswald" : "http://freifunk.myriapod.de/ffhgw.json",
