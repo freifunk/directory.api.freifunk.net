@@ -21,6 +21,7 @@
 	"darmstadt" : "http://freifunk.linuxlounge.net/ffapi/ffda.json",
 	"datteln" : "http://freifunk-ruhrgebiet.de/ffapi/datteln.json",
 	"diepholz" : "http://api.freifunk-dh.de/ffnetapi.php",
+	"dillingen" : "http://freifunk-saar.de/ffs.json",
 	"dorsten" : "http://freifunk-ruhrgebiet.de/ffapi/dorsten.json",
 	"dortmund" : "http://freifunk-ruhrgebiet.de/ffapi/dortmund.json",
 	"dreilaendereck" : "https://raw.githubusercontent.com/kalbfuss/freifunk-dreilaendereck/master/ffapi.json",
