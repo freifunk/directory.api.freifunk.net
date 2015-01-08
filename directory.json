@@ -26,6 +26,7 @@
 	"dortmund" : "http://freifunk-ruhrgebiet.de/ffapi/dortmund.json",
 	"dreilaendereck" : "https://raw.githubusercontent.com/kalbfuss/freifunk-dreilaendereck/master/ffapi.json",
 	"dresden" : "http://info.ddmesh.de/info/freifunk.json",
+	"duesseldorf" : "http://freifunk-ruhrgebiet.de/ffapi/duesseldorf.json",
 	"ehingen" : "http://freifunk-ehingen.de/FreifunkEhingen-api.json",
 	"eifel" : "http://map.kbu.freifunk.net/ffapi/eifel.json",
 	"emskirchen" : "https://raw.githubusercontent.com/ffansbach/community-files/master/emskirchen.json",
