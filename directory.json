@@ -102,6 +102,7 @@
 	"muenster" : "https://freifunk-muenster.de/ressources/FreifunkMuenster-api.json",
 	"muensterland" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/muensterland.json",
 	"neuendettelsau" : "https://raw.githubusercontent.com/ffansbach/community-files/master/neuendettelsau.json",
+	"neuss" : "https://raw.githubusercontent.com/ffrl/FF-API-Rheinufer/master/neuss.json",
 	"niex" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-niex.json",
 	"nuernberg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"oberhausen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/oberhausen.json",
