@@ -130,7 +130,7 @@
 	"stuttgart" : "http://gw01.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
 	"troisdorf" : "http://freifunk-troisdorf.de/ffapi.json",
 	"uelzen" : "http://freifunk-uelzen.de/api/FreifunkUelzen-api.json",
-	"ulm" : "http://drugtestbots.info/ulm.ffapi",
+	"ulm" : "https://raw.githubusercontent.com/ffulm/api/master/api.json",
 	"unna" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/unna.json",
 	"voerde" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/voerde.json",
 	"wahlsdorf": "http://rensky.net/freifunk/wahlsdorf.json",
