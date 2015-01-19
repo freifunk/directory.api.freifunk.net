@@ -99,7 +99,7 @@
 	"moenchengladbach" : "http://api.freifunk-moenchengladbach.de/ffmg-api.json",
 	"muelheim" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/muelheim.json",
 	"muenchen" : "https://raw.githubusercontent.com/freifunkMUC/freifunk.net-API/master/freifunk.net.json",
-	"muenster" : "https://freifunk-muenster.de/ressources/FreifunkMuenster-api.json",
+	"muenster" : "https://freifunk-muenster.de/freifunk/ffapi.json",
 	"muensterland" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/muensterland.json",
 	"neuendettelsau" : "https://raw.githubusercontent.com/ffansbach/community-files/master/neuendettelsau.json",
 	"neuss" : "https://raw.githubusercontent.com/ffrl/FF-API-Rheinufer/master/neuss.json",
