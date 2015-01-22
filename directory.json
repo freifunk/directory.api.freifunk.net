@@ -122,6 +122,7 @@
 	"rheinfelden" : "http://gw2.freifunk-rheinfelden.de/ff3l.json",
 	"rostock" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-rostock.json",
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
+	"saar" : "https://saar.freifunk.net/static/FreifunkSaar-api.json",
 	"schopfheim" : "http://api.s3system.net/ff-schopfheim.json",
 	"schwerin" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-schwerin.json",
 	"schwerte" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/schwerte.json",
