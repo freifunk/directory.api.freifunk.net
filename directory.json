@@ -35,7 +35,6 @@
 	"essen-steele" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/essen-steele.json",
 	"essen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/essen.json",
 	"essingen" : "http://www.freifunk-essingen.de/wp-content/uploads/FreifunkEssingen-api.json",
-	"esslingen" : "http://www.freifunk-esslingen.de/wp-content/uploads/2013/x+oGsSi2",
 	"euskirchen" : "http://freifunk-euskirchen.de/ffapi.json",
 	"evernet" : "http://www.evernet-eg.de/evernet.json",
 	"flensburg" : "http://freifunk-flensburg.de/api/api.json",
