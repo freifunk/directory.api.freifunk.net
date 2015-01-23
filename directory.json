@@ -86,7 +86,7 @@
 	"lueneburg" : "http://freifunk-lueneburg.de/lueneburg.json",
 	"luenen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/luenen.json",
 	"potrems" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-potrems.json",
-	"magdeburg" : "http://freifunkmd.github.io/community.json/ffmd.json",
+	"magdeburg" : "http://md.freifunk.net/community.json",
 	"mainz" : "http://ffapi.freifunk-mainz.de/ffapi_mz.json",
 	"mayen-koblenz" : "http://status.freifunk-myk.de/api.json",
 	"meinerzhagen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/meinerzhagen.json",
