@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/freifunk/directory.api.freifunk.net.svg?branch=master)](https://travis-ci.org/freifunk/directory.api.freifunk.net)
+
 Entstehung
 ==========
 
