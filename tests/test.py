@@ -18,7 +18,7 @@ def read_url(url, queue):
     except urllib2.HTTPError as e:
         print 'HTTPError %s: %s' % (e.code, url)
         queue.put(url)
-    except URLError as e:
+    except urllib2.URLError as e:
         print 'URLError: %s: %s' % (e.reason, url)
         queue.put(url)
     #else:
