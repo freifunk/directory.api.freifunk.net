@@ -69,6 +69,7 @@
 	"herne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herne.json",
 	"herten" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herten.json",
 	"hockenheim" : "https://raw.githubusercontent.com/Nurtic-Vibe/FF-Hockenheim-Nodes/master/ff-hockenheim-api.json",
+	"ingolstadt" : "http://ingolstadt.freifunk.net/ffapi.json",
 	"iserlohn" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/iserlohn.json",
 	"jena" : "http://freifunk-jena.de/jena.json",
 	"karlsruhe" : "http://api.freifunk-karlsruhe.de/ffka.json",
