@@ -105,7 +105,7 @@
 	"nuernberg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"oberhausen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/oberhausen.json",
 	"obernkirchen" : "http://freifunk-obernkirchen.de/FreifunkObernkirchen-api.json",
-	"oldenburg" : "https://netmon.freifunk-ol.de/scripts/ffnetapi/ffnetapi.php",
+	"oldenburg" : "http://netmon.nordwest.freifunk.net/scripts/ffnetapi/ffnetapi.php",
 	"osnabrueck" : "http://osnabrueck.freifunk.net/Freifunk-api.json",
 	"ostholstein" : "http://ostholstein.freifunk.net/ffapi.json",
 	"paderborn" : "http://paderborn.freifunk.net/ffapi.json",
