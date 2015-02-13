@@ -29,7 +29,7 @@
 	"duesseldorf" : "https://raw.githubusercontent.com/ffrl/FF-API-Rheinufer/master/duesseldorf.json",
 	"ehingen" : "http://freifunk-ehingen.de/FreifunkEhingen-api.json",
 	"eifel" : "http://map.kbu.freifunk.net/ffapi/eifel.json",
-	"emskirchen" : "https://raw.githubusercontent.com/ffansbach/community-files/master/emskirchen.json",
+	"emskirchen" : "https://netmon.freifunk-emskirchen.de/api/community.php",
 	"erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json",
 	"erlangen" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/erlangen.json",
 	"essen-steele" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/essen-steele.json",
