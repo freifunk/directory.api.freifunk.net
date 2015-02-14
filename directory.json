@@ -60,7 +60,7 @@
 	"gummersbach" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/gummersbach.json",
 	"hagen" : "http://freifunk-hagen.de/hagen-api.json",
 	"halle" : "http://www.freifunk-halle.net/freifunk-api.json",
-	"hamburg" : "http://meta.hamburg.freifunk.net/ffhh.json",
+	"hamburg" : "https://meta.hamburg.freifunk.net/ffhh.json",
 	"hamm" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/hamm.json",
 	"hannover" : "http://kreutzer.biz/hannover-api.json",
 	"hassberge" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/hassberge.json",
