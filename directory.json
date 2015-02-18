@@ -125,6 +125,7 @@
 	"siegen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/siegen.json",
 	"straelen" : "http://freifunk.straelen.eu/freifunk_straelen.json",
 	"stuttgart" : "http://gw01.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
+	"trier" : "https://freifunktrier.github.io/ffapi.json",
 	"troisdorf" : "http://freifunk-troisdorf.de/ffapi.json",
 	"uelzen" : "http://freifunk-uelzen.de/api/FreifunkUelzen-api.json",
 	"ulm" : "https://raw.githubusercontent.com/ffulm/api/master/api.json",
