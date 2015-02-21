@@ -135,7 +135,7 @@
 	"warendorf" : "https://raw.githubusercontent.com/ffmus/ffapi/master/warendorf.json",
 	"weimarnetz" : "http://weimarnetz.de/weimarnetz.json",
 	"weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
-	"wermelskirchen" : "http://wk.freifunk.net/api.json",
+	"wermelskirchen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/3/format/ffapi",
 	"werne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/werne.json",
 	"wesel" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/wesel.json",
 	"westpfalz" : "http://api.freifunk-westpfalz.de/FreifunkWestpfalz-api.json",
