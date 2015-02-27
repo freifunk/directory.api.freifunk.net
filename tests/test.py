@@ -40,6 +40,7 @@ def read_url(url, queue):
             text_result = '%s\t Error in %s: %s\n' % (text_result, '->'.join(str(path) for path in error.path), error.message)
 
         if has_error:
+            text_result = '%s\t Url: %s' %(text_result, url)
             print(text_result)
             queue.put(url)
 
