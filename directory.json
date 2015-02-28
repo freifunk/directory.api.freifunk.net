@@ -70,7 +70,7 @@
 	"herten" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herten.json",
 	"hockenheim" : "https://raw.githubusercontent.com/Nurtic-Vibe/FF-Hockenheim-Nodes/master/ff-hockenheim-api.json",
 	"hueckeswagen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/21/format/ffapi",
-	"ingolstadt" : "http://ingolstadt.freifunk.net/ffapi.json",
+	"ingolstadt" : "https://freifunk-ingolstadt.de/ffapi.json",
 	"iserlohn" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/iserlohn.json",
 	"jena" : "http://freifunk-jena.de/jena.json",
 	"karlsruhe" : "http://api.freifunk-karlsruhe.de/ffka.json",
