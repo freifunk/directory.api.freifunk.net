@@ -24,10 +24,6 @@ def read_url(url, queue):
         res = urllib2.urlopen(req, None, 10)
         api_content = {}
         api_content = json.loads(res.read())
-        if 'jsondraft' in ff_api_specs[api_content['api']]:
-            json_draft = ff_api_specs[api_content['api']]['jsondraft']
-        else:
-            json_draft = 'http://json-schema.org/draft-03/schema#'
         jsonschema.Draft3Validator.check_schema(ff_api_specs[api_content['api']]['schema'])
         v = jsonschema.Draft3Validator(ff_api_specs[api_content['api']]['schema'])
         result = v.iter_errors(api_content)
@@ -40,7 +36,7 @@ def read_url(url, queue):
             text_result = '%s\t Error in %s: %s\n' % (text_result, '->'.join(str(path) for path in error.path), error.message)
 
         if has_error:
-            text_result = '%s\t Url: %s' %(text_result, url)
+            text_result = '%s\t Url: %s\n' %(text_result, url)
             print(text_result)
             queue.put(url)
 
