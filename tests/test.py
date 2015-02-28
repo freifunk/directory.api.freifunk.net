@@ -24,8 +24,9 @@ def read_url(url, queue):
         res = urllib2.urlopen(req, None, 10)
         api_content = {}
         api_content = json.loads(res.read())
-        jsonschema.Draft3Validator.check_schema(ff_api_specs[api_content['api']]['schema'])
-        v = jsonschema.Draft3Validator(ff_api_specs[api_content['api']]['schema'])
+        validator = jsonschema.validators.validator_for(ff_api_specs[api_content['api']]['schema']) 
+        validator.check_schema(ff_api_specs[api_content['api']]['schema'])
+        v = validator(ff_api_specs[api_content['api']]['schema'])
         result = v.iter_errors(api_content)
         has_error = False
         text_result = ''
