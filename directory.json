@@ -1,5 +1,6 @@
 {
 	"aachen" : "http://www.freifunk-aachen.de/acffapi.json",
+	"altdorf" : "http://freifunk-altdorf.de/FreifunkAltdorf-api.json",
 	"altmark" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
 	"ansbach" : "https://raw.githubusercontent.com/ffansbach/community-files/master/ansbach.json",
 	"augsburg": "http://www.wgaugsburg.de/ffapi/ffapi.json",
