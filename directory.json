@@ -114,6 +114,7 @@
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
 	"radevormwald" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/radevormwald.json",
 	"raesfeld" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/raesfeld.json",
+	"ratingen" : "http://paas.com-paas.com/FreifunkRatingen-api.json",
 	"regensburg" : "http://regensburg.freifunk.net/api.json",
 	"reihen" : "http://freifunk.reihen.de/reihen.json",
 	"reinshagen" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-reinshagen.json",
