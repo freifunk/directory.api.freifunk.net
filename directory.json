@@ -6,6 +6,7 @@
 	"augsburg": "http://www.wgaugsburg.de/ffapi/ffapi.json",
 	"badgandersheim" : "http://argarh.de/FFGAN/FreifunkBadGandersheim-api.json",
 	"badoeynhausen" : "http://www.freifunk-badoeynhausen.de/ffapi/FreifunkBadOeynhausen-api.json",
+	"bamberg" : "http://vpn1.freifunk-bamberg.de/ffapi/ffba-api.json",
 	"battlemesh" : "http://feeds.leipzig.freifunk.net/ffapi/battlemesh.json",
 	"berlin" : "http://berlin.freifunk.net/static/berlin.json",
 	"bielefeld" : "http://vpn1.freifunk-bielefeld.de/freifunk/ffapi.json",
