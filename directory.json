@@ -65,6 +65,7 @@
 	"hamburg" : "https://meta.hamburg.freifunk.net/ffhh.json",
 	"hamm" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/hamm.json",
 	"hannover" : "http://kreutzer.biz/hannover-api.json",
+	"harz" : "http://harz.freifunk.net/api.json",
 	"hassberge" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/hassberge.json",
 	"hattingen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/hattingen.json",
 	"herford" : "http://herford.freifunk.net/api/herford-api.json",
