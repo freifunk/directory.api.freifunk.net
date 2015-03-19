@@ -54,6 +54,7 @@
 	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json",
 	"gevelsberg" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/gevelsberg.json",
 	"giessen" : "http://www.benny.de/freifunk/giessen.json",
+	"gl" : "http://api.wupper.freifunk-rheinland.net/ffnet/gl.json",
 	"gladbeck" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/gladbeck.json",
 	"goeldenitz" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-goeldenitz.json",
 	"goettingen" : "https://cccgoe.de/freifunk-goe.json",
