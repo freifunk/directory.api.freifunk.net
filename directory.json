@@ -72,6 +72,7 @@
 	"harz" : "http://harz.freifunk.net/api.json",
 	"hassberge" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/hassberge.json",
 	"hattingen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/hattingen.json",
+	"hennef" : "http://www.freifunk-hennef.de/wp-content/api/ff-hennef-api.json",
 	"herford" : "http://herford.freifunk.net/api/herford-api.json",
 	"herne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herne.json",
 	"herten" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herten.json",
