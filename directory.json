@@ -152,7 +152,7 @@
 	"werne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/werne.json",
 	"wesel" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/wesel.json",
 	"westpfalz" : "http://api.freifunk-westpfalz.de/FreifunkWestpfalz-api.json",
-	"wiesbaden" : "http://ffapi.freifunk-wiesbaden.de/ffapi_wi.json",
+	"wiesbaden" : "http://api.wiesbaden.freifunk.net/ffapi_wi.json",
 	"wiesenburg" : "http://wiki.freifunk.net/images/7/79/Wiesenburg_freifunk_api.json",
 	"wipperfuerth" : "http://nodeapi.vfn-nrw.de/index.php/get/community/30/format/ffapi",
 	"witten" : "https://raw.githubusercontent.com/FreifunkWitten/API-File/master/FreifunkWitten.json",
