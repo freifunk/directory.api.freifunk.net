@@ -33,7 +33,6 @@
 	"dresden" : "http://info.ddmesh.de/info/freifunk.json",
 	"dueren" : "https://wiki.freifunk.net/images/6/69/Dnffapi.json",
 	"duesseldorf" : "https://raw.githubusercontent.com/ffrl/FF-API-Rheinufer/master/duesseldorf.json",
-	"ehingen" : "http://freifunk-ehingen.de/FreifunkEhingen-api.json",
 	"eifel" : "http://map.kbu.freifunk.net/ffapi/eifel.json",
 	"emskirchen" : "https://netmon.freifunk-emskirchen.de/api/community.php",
 	"erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json",
