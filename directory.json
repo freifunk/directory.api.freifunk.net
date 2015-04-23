@@ -107,6 +107,7 @@
 	"meinerzhagen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/meinerzhagen.json",
 	"meissen" : "http://meissen.stadtlog.com/freifunk/FreifunkMeissen-api.json",
 	"menden" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/menden.json",
+	"meschede" : "http://www.freifunk-meschede.net/FreifunkMeschede-api.json",
 	"mettmann" : "http://oberstadt-mettmann.de/fileadmin/FreifunkMettmann-api.json",
 	"minden" : "http://www.freifunk-minden.de/api.json",
 	"moehne" : "http://moehne-vis.freifunk-rheinland.net/api.json",
