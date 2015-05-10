@@ -8,6 +8,7 @@
 	"augsburg": "http://www.wgaugsburg.de/ffapi/ffapi.json",
 	"badgandersheim" : "http://argarh.de/FFGAN/FreifunkBadGandersheim-api.json",
 	"badoeynhausen" : "http://www.freifunk-badoeynhausen.de/ffapi/FreifunkBadOeynhausen-api.json",
+	"badoldesloe" : "http://mirror1.stormarn.freifunk.net/api/StormarnFreifunk-BadOldesloe+Land-api.json",
 	"bamberg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/bamberg.json",
 	"battlemesh" : "http://feeds.leipzig.freifunk.net/ffapi/battlemesh.json",
 	"berlin" : "http://berlin.freifunk.net/static/berlin.json",
