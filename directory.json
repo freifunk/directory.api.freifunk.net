@@ -129,7 +129,7 @@
 	"ostholstein" : "http://ostholstein.freifunk.net/ffapi.json",
 	"paderborn" : "http://paderborn.freifunk.net/ffapi.json",
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
-	"radevormwald" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/radevormwald.json",
+	"radevormwald" : "http://api.freifunk-radevormwald.de/ffrade-api.json",
 	"raesfeld" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/raesfeld.json",
 	"ratingen" : "http://paas.com-paas.com/FreifunkRatingen-api.json",
 	"regensburg" : "http://regensburg.freifunk.net/api.json",
