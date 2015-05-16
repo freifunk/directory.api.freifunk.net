@@ -12,7 +12,7 @@
 	"bamberg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/bamberg.json",
 	"battlemesh" : "http://feeds.leipzig.freifunk.net/ffapi/battlemesh.json",
 	"berlin" : "http://berlin.freifunk.net/static/berlin.json",
-	"bielefeld" : "http://vpn1.freifunk-bielefeld.de/freifunk/ffapi.json",
+	"bielefeld" : "http://freifunk-bielefeld.de/freifunk/ffapi.json",
 	"biggesee" : "http://www.freifunk-biggesee.de/wp-content/uploads/FreifunkBiggesee-api.json",
 	"bochum" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/bochum.json",
 	"bonn" : "http://map.kbu.freifunk.net/ffapi/bonn.json",
