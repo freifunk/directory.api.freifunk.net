@@ -154,6 +154,7 @@
 	"ulm" : "https://raw.githubusercontent.com/ffulm/api/master/api.json",
 	"unna" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/unna.json",
 	"voerde" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/voerde.json",
+	"wahlsdorf" : "http://wahlsdorf.freifunk.net/wahlsdorf.json",
 	"waren-mueritz" : "http://map.4830.org/mueritz/Waren_Mueritz_-api.json",
 	"warendorf" : "https://raw.githubusercontent.com/ffmus/ffapi/master/warendorf.json",
 	"weimarnetz" : "http://weimarnetz.de/weimarnetz.json",
