@@ -80,7 +80,6 @@
 	"herne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herne.json",
 	"herten" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herten.json",
 	"hildesheim" : "http://freifunkapi.freifunk-hi.de/freifunkapi.json",
-	"hockenheim" : "https://raw.githubusercontent.com/Nurtic-Vibe/FF-Hockenheim-Nodes/master/ff-hockenheim-api.json",
 	"hof" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/hof.json",
 	"hueckeswagen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/21/format/ffapi",
 	"ibbenbueren" : "https://raw.githubusercontent.com/ff-ibb/ff-api/master/FreifunkIbbenbueren.json",
