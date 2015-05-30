@@ -11,6 +11,7 @@
 	"badoldesloe" : "http://mirror1.stormarn.freifunk.net/api/StormarnFreifunk-BadOldesloe+Land-api.json",
 	"bamberg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/bamberg.json",
 	"battlemesh" : "http://feeds.leipzig.freifunk.net/ffapi/battlemesh.json",
+	"bergischgladbach" : "http://api.gl.wupper.freifunk-rheinland.net/bgl.json",
 	"berlin" : "http://berlin.freifunk.net/static/berlin.json",
 	"bielefeld" : "http://freifunk-bielefeld.de/freifunk/ffapi.json",
 	"biggesee" : "http://www.freifunk-biggesee.de/wp-content/uploads/FreifunkBiggesee-api.json",
