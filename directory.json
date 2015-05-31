@@ -147,6 +147,7 @@
 	"schwerin" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-schwerin.json",
 	"schwerte" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/schwerte.json",
 	"siegen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/siegen.json",
+	"stormarn" : "https://freifunk.myfriends.bz/api/FreifunkStormarn-api.json",
 	"straelen" : "http://freifunk.straelen.eu/freifunk_straelen.json",
 	"stuttgart" : "http://gw01.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
 	"tressow" : "http://map.4830.org/mueritz/Tressow-api.json",
