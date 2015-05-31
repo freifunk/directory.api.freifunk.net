@@ -33,7 +33,6 @@ Qualitätssicherung
 * Eine Freifunk-Community besteht aus einer Gruppe von min. 2-3 Personen, die auch bereits einige Freifunk-Knoten vor Ort betreibten.
 * Die Dateien müssen UTF8 codiert sein und so auch von [Webserver ausgeliefert](http://serverfault.com/questions/581760/how-do-i-set-proper-headers-for-json-in-apache) werden.
 * Die API-Datei sollte möglichst aktuell gehalten werden. Stark veraltete oder ungültige Dateien werden nach Rückfrage wieder entfernt.
-* Es gibt kein Recht auf Eintragung.
 
 History
 =======
