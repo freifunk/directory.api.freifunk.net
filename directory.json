@@ -9,6 +9,7 @@
 	"badgandersheim" : "http://argarh.de/FFGAN/FreifunkBadGandersheim-api.json",
 	"badoeynhausen" : "http://www.freifunk-badoeynhausen.de/ffapi/FreifunkBadOeynhausen-api.json",
 	"badoldesloe" : "http://mirror1.stormarn.freifunk.net/api/StormarnFreifunk-BadOldesloe+Land-api.json",
+	"badreichenhall" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/badreichenhall.json",
 	"bamberg" : "https://rawgit.com/FreifunkFranken/freifunkfranken-community/master/bamberg.json",
 	"battlemesh" : "http://feeds.leipzig.freifunk.net/ffapi/battlemesh.json",
 	"bergischgladbach" : "http://api.gl.wupper.freifunk-rheinland.net/bgl.json",
