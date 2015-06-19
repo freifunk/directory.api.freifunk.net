@@ -173,6 +173,7 @@
 	"wiesbaden" : "http://api.wiesbaden.freifunk.net/ffapi_wi.json",
 	"wiesenburg" : "http://wiki.freifunk.net/images/7/79/Wiesenburg_freifunk_api.json",
 	"wipperfuerth" : "http://nodeapi.vfn-nrw.de/index.php/get/community/30/format/ffapi",
+	"wismar" : "http://www.opennet-initiative.de/freifunk/api.freifunk.net-wismar.json",
 	"witten" : "https://raw.githubusercontent.com/FreifunkWitten/API-File/master/FreifunkWitten.json",
 	"wittmund" : "http://wittmund-freifunk.de/scripte/ff_wtm.json",
 	"wokern" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-wokern.json",
