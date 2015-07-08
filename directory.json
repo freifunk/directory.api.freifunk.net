@@ -100,7 +100,7 @@
 	"krefeld" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/krefeld.json",
 	"lauf_an_der_pegnitz" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/lauf_an_der_pegnitz.json",
 	"leer" : "http://www.leeraner-freifunk.de/LeeranerFreifunk-api.json",
-	"leichlingen" : "http://api.gl.wupper.freifunk-rheinland.net/lln.json",	
+	"leichlingen" : "http://fflln.net/api.json",	
 	"leipzig" : "http://feeds.leipzig.freifunk.net/ffapi/leipzig.json",
 	"leisnig" : "http://feeds.leipzig.freifunk.net/ffapi/leisnig.json",
 	"leverkusen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/5/format/ffapi",
