@@ -173,6 +173,7 @@
 	"wermelskirchen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/3/format/ffapi",
 	"werne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/werne.json",
 	"wesel" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/wesel.json",
+	"westkueste" : "http://freifunk-westkueste.de/westkueste.json",
 	"westpfalz" : "http://api.freifunk-westpfalz.de/FreifunkWestpfalz-api.json",
 	"weyher" : "http://gw01.freifunk-weyher.de/weyher/FreifunkWeyher-api.json",
 	"wien" : "http://wien.funkfeuer.at/ffapi.json",
