@@ -2,6 +2,7 @@
 	"aachen" : "https://raw.githubusercontent.com/ffac/api-file/master/acffapi.json",
 	"altdorf" : "http://freifunk-altdorf.de/FreifunkAltdorf-api.json",
 	"altmark" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
+	"Altera" : "http://freifunk-mk.de/api/FreifunkAltena-api.json"
 	"ansbach" : "https://raw.githubusercontent.com/ffansbach/community-files/master/ansbach.json",
 	"aschaffenburg": "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/aschaffenburg.json",
 	"ascheberg": "http://freifunk-ascheberg.de/FreifunkAscheberg-api.json",
@@ -80,6 +81,7 @@
 	"hassberge" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/hassberge.json",
 	"hattingen" : "http://freifunk-hattingen.de/hattingen.json",
 	"helgoland" : "https://meta.hamburg.freifunk.net/Helgoland-api.json",
+	"hemer" : " http://freifunk-mk.de/api/FreifunkHemer-api.json"
 	"hennef" : "http://www.freifunk-hennef.de/wp-content/api/ff-hennef-api.json",
 	"herford" : "http://herford.freifunk.net/api/herford-api.json",
 	"herne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herne.json",
@@ -108,6 +110,7 @@
 	"leisnig" : "http://feeds.leipzig.freifunk.net/ffapi/leisnig.json",
 	"leverkusen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/5/format/ffapi",
 	"luebeck" : "http://luebeck.freifunk.net/ffapi.json",
+	"luedenscehid" : "http://freifunk-mk.de/api/FreifunkPlettenberg-api.json",
 	"lueneburg" : "http://freifunk-lueneburg.de/lueneburg.json",
 	"luenen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/luenen.json",
 	"potrems" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-potrems.json",
@@ -135,6 +138,7 @@
 	"osnabrueck" : "http://osnabrueck.freifunk.net/Freifunk-api.json",
 	"ostholstein" : "http://ostholstein.freifunk.net/ffapi.json",
 	"paderborn" : "http://paderborn.freifunk.net/ffapi.json",
+	"plettenberg" : "http://freifunk-mk.de/api/FreifunkPlettenberg-api.json",
 	"pinneberg" : "http://pinneberg.freifunk.net/ffapi.json",
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
 	"radevormwald" : "http://api.freifunk-radevormwald.de/ffrade-api.json",
