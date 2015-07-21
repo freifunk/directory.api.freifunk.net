@@ -54,7 +54,7 @@
 	"frankfurt_am_main" : "http://api.ffm.freifunk.net/ff-frankfurt.json",
 	"freiburg" : "http://freiburg.freifunk.net/API-File",
 	"fuerth" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/fuerth.json",
-	"fulda" : "http://www.freifunk-fulda.de/FreifunkFulda-api.json",
+	"fulda" : "https://fulda.freifunk.net/FreifunkFulda-api.json",
 	"daendorf" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-daendorf.json",
 	"gadow" : "http://feeds.leipzig.freifunk.net/ffapi/gadow.json",
 	"gardelegen" : "https://rawgit.com/FreifunkGardelegen/FreifunkGardelegenAPI/master/FreifunkGardelegen.json",
