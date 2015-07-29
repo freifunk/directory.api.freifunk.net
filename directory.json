@@ -74,6 +74,7 @@
 	"hagen" : "http://freifunk-hagen.de/hagen-api.json",
 	"halle" : "http://www.freifunk-halle.net/freifunk-api.json",
 	"hamburg" : "https://meta.hamburg.freifunk.net/ffhh.json",
+	"hameln" : "http://freifunk-hameln.de/hameln.json",
 	"hamm" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/hamm.json",
 	"hannmuenden" : "http://www.freifunk-hannmuenden.de/FreifunkHann.Muenden-api.json",
 	"hannover" : "http://kreutzer.biz/hannover-api.json",
