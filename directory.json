@@ -121,7 +121,7 @@
 	"meschede" : "http://www.freifunk-meschede.net/FreifunkMeschede-api.json",
 	"mettmann" : "http://oberstadt-mettmann.de/fileadmin/FreifunkMettmann-api.json",
 	"minden" : "http://www.freifunk-minden.de/api.json",
-	"mittelsachsen" : "https://raw.githubusercontent.com/marvin/ffmtl-community-files/master/FreifunkMittelsachsenTupya-api.json",
+	"waldheim" : "https://raw.githubusercontent.com/marvin/ffwdh-community-files/master/FreifunkWaldheim-api.json",
 	"moehne" : "http://moehne-vis.freifunk-rheinland.net/api.json",
 	"moenchengladbach" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/moenchengladbach.json",
 	"muelheim" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/muelheim.json",
