@@ -90,6 +90,7 @@
 	"hueckeswagen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/21/format/ffapi",
 	"ibbenbueren" : "https://raw.githubusercontent.com/ff-ibb/ff-api/master/FreifunkIbbenbueren.json",
 	"ingolstadt" : "https://freifunk-ingolstadt.de/ffapi.json",
+	"ippensen" : "http://ippensen-freifunk.net/FreifunkIppensen-api.json",
 	"iserlohn" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/iserlohn.json",
 	"jena" : "http://freifunk-jena.de/jena.json",
 	"juelich" : "http://freifunk-juelich.de/FreifunkJuelich-api.json",
