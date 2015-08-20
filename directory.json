@@ -61,6 +61,7 @@
 	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json",
 	"gelsenkirchen": "http://freifunk-gelsenkirchen.de/api.json",
 	"gera" : "http://freifunk-gera-greiz.de/FreifunkGera-api.json",
+	"gerolzhofen" : "http://www.eisold-edv.de/media/content/Hacker-ClubSchweinfurt-Gerolzhofen-api.json",
 	"gevelsberg" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/gevelsberg.json",
 	"giessen" : "http://www.benny.de/freifunk/giessen.json",
 	"gladbeck" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/gladbeck.json",
