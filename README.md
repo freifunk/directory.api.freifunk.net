@@ -28,7 +28,7 @@ Qualitätssicherung
 ==================
 
 * Die API-Datei sollten mit dem [API-Generator](freifunk.net/api-generator/) erstellt bzw. validiert worden sein.
-* Eine Community muss immer ortsbezogen sein. Ist eine Community überregional oder in mehreren Orten aktiv müssen für die verschiedenen Städte und Ortschaften mehrere Einträge erstellt werden. Um deutlich zu machen, das diese Ortgruppen zusammen gehören sollte im Feld `metacommunity` ein gemeinsamer Namen eingetragen werden.
+* Eine Community muss immer ortsbezogen sein. Ist eine Community überregional oder in mehreren Orten aktiv müssen für die verschiedenen Städte und Ortschaften mehrere Einträge erstellt werden. Um deutlich zu machen, das diese Ortgruppen zusammen gehören sollte im Feld `metacommunity` ein gemeinsamer Namen eingetragen werden. Alternativ kann der Communityname auch in allen Orten identisch sein.
 * Jede Community muss mindestens Kontaktdaten und eine Möglichkeit zur Teilnahme bereitstellen. Je mehr Daten desto besser.
 * Eine Freifunk-Community besteht aus einer Gruppe von min. 2-3 Personen, die auch bereits einige Freifunk-Knoten vor Ort betreibten.
 * Die Dateien müssen UTF8 codiert sein und so auch von [Webserver ausgeliefert](http://serverfault.com/questions/581760/how-do-i-set-proper-headers-for-json-in-apache) werden.
