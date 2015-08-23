@@ -81,6 +81,7 @@
 	"harz" : "http://harz.freifunk.net/api.json",
 	"hassberge" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/hassberge.json",
 	"hattingen" : "http://freifunk-hattingen.de/hattingen.json",
+	"heiligkreuztal" : "https://wiki.freifunk.net/images/0/04/FreifunkHeiligkreuztal-api-3.json",
 	"helgoland" : "https://meta.hamburg.freifunk.net/Helgoland-api.json",
 	"hennef" : "http://www.freifunk-hennef.de/wp-content/api/ff-hennef-api.json",
 	"herford" : "http://herford.freifunk.net/api/herford-api.json",
