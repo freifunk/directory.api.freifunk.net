@@ -113,6 +113,7 @@
 	"leipzig" : "http://feeds.leipzig.freifunk.net/ffapi/leipzig.json",
 	"leisnig" : "http://feeds.leipzig.freifunk.net/ffapi/leisnig.json",
 	"leverkusen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/5/format/ffapi",
+	"lindlar" : "http://nodeapi.vfn-nrw.de/index.php/get/community/40/format/ffapi",
 	"luebeck" : "http://luebeck.freifunk.net/ffapi.json",
 	"lueneburg" : "http://freifunk-lueneburg.de/lueneburg.json",
 	"luenen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/luenen.json",
