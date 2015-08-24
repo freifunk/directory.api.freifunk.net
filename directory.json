@@ -39,7 +39,7 @@
 	"dreilaendereck" : "https://raw.githubusercontent.com/kalbfuss/freifunk-dreilaendereck/master/ffapi.json",
 	"dresden" : "http://api.freifunk-dresden.de/freifunk.json",
 	"dueren" : "https://wiki.freifunk.net/images/6/69/Dnffapi.json",
-	"duesseldorf" : "https://raw.githubusercontent.com/ffrl/FF-API-Rheinufer/master/duesseldorf.json",
+	"duesseldorf" : "https://freifunk-duesseldorf.de/api.json",
 	"duisburg" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/duisburg.json",	
 	"eifel" : "http://map.kbu.freifunk.net/ffapi/eifel.json",
 	"emskirchen" : "https://netmon.freifunk-emskirchen.de/api/community.php",
