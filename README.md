@@ -32,7 +32,8 @@ Qualitätssicherung
 * Jede Community muss mindestens Kontaktdaten und eine Möglichkeit zur Teilnahme bereitstellen. Je mehr Daten desto besser.
 * Eine Freifunk-Community besteht aus einer Gruppe von min. 2-3 Personen, die auch bereits einige Freifunk-Knoten vor Ort betreibten.
 * Die Dateien müssen UTF8 codiert sein und so auch von [Webserver ausgeliefert](http://serverfault.com/questions/581760/how-do-i-set-proper-headers-for-json-in-apache) werden.
-* Die API-Datei sollte möglichst aktuell gehalten werden. Stark veraltete oder ungültige Dateien werden nach Rückfrage wieder entfernt.
+* Die API-Datei sollte möglichst aktuell gehalten werden. Stark veraltete oder ungültige Dateien werden nach Rückfrage wieder entfernt. 
+* Damit die API-Dateien verarbeitet werden können müssen diese in der [`directory.json`](directory.json) eingetragen werden.
 
 History
 =======
