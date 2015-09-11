@@ -42,6 +42,7 @@
 	"dresden" : "http://api.freifunk-dresden.de/freifunk.json",
 	"dueren" : "https://wiki.freifunk.net/images/6/69/Dnffapi.json",
 	"duesseldorf" : "https://freifunk-duesseldorf.de/api.json",
+	"duesseldorf-flingern" : "http://api.ffdus.de/FreifunkDuesseldorfFlingernApi.json",
 	"duisburg" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/duisburg.json",	
 	"eifel" : "http://map.kbu.freifunk.net/ffapi/eifel.json",
 	"emskirchen" : "https://netmon.freifunk-emskirchen.de/api/community.php",
