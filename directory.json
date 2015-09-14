@@ -51,6 +51,7 @@
 	"essingen" : "http://www.freifunk-essingen.de/wp-content/uploads/FreifunkEssingen-api.json",
 	"euskirchen" : "http://freifunk-euskirchen.de/ffapi.json",
 	"evernet" : "http://www.evernet-eg.de/evernet.json",
+	"feucht" : "https://tretkowski.de/Freifunk/api.json",
 	"flensburg" : "http://freifunk-flensburg.de/api/api.json",
 	"forchheim" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/forchheim.json",
 	"frankfurt_am_main" : "http://api.ffm.freifunk.net/ff-frankfurt.json",
