@@ -166,7 +166,7 @@
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
 	"saar" : "https://saar.freifunk.net/static/FreifunkSaar-api.json",
 	"sanktaugustin" : "http://www.freifunk-sankt-augustin.de/FreifunkSanktAugustin-api.json",
-	"schwabach" : "https://raw.githubusercontent.com/Freifunk-Schwabach/ffapi/master/schwabach.json",
+	"schwabach" : "https://netmon.freifunk-schwabach.de/api/community.php",
 	"schwerin" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-schwerin.json",
 	"schwerte" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/schwerte.json",
 	"siegen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/siegen.json",
