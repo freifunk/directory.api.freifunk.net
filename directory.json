@@ -34,7 +34,7 @@
 	"coburg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/coburg.json",
 	"cottbus" : "https://freifunk-cottbus.de/FreifunkCottbus-api.json",
 	"crailsheim": "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/crailsheim.json",
-	"darmstadt" : "http://freifunk.linuxlounge.net/ffapi/ffda.json",
+	"darmstadt" : "https://api.darmstadt.freifunk.net/ffapi.json",
 	"datteln" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/datteln.json",
 	"diepholz" : "http://api.freifunk-dh.de/ffnetapi.php",
 	"dillingen" : "http://freifunk-saar.de/ffs.json",
