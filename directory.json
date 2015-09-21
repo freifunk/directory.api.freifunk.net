@@ -43,6 +43,7 @@
 	"dueren" : "https://wiki.freifunk.net/images/6/69/Dnffapi.json",
 	"duesseldorf" : "https://freifunk-duesseldorf.de/api.json",
 	"duisburg" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/duisburg.json",	
+	"eberswalde" : "http://ewifi.de/FreifunkEberswalde-api.json",
 	"eifel" : "http://map.kbu.freifunk.net/ffapi/eifel.json",
 	"emskirchen" : "https://netmon.freifunk-emskirchen.de/api/community.php",
 	"erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json",
