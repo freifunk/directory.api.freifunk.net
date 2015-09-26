@@ -119,6 +119,7 @@
 	"leisnig" : "http://feeds.leipzig.freifunk.net/ffapi/leisnig.json",
 	"leverkusen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/5/format/ffapi",
 	"lindlar" : "http://nodeapi.vfn-nrw.de/index.php/get/community/40/format/ffapi",
+	"lippe" : "https://wiki.freifunk.net/images/b/be/Lippe-api.json",
 	"luebeck" : "http://luebeck.freifunk.net/ffapi.json",
 	"lueneburg" : "http://freifunk-lueneburg.de/lueneburg.json",
 	"luenen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/luenen.json",
