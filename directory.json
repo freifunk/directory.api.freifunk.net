@@ -160,7 +160,7 @@
 	"raesfeld" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/raesfeld.json",
 	"ratingen" : "http://paas.com-paas.com/FreifunkRatingen-api.json",
 	"recklinghausen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/recklinghausen.json",
-	"regensburg" : "http://regensburg.freifunk.net/api.json",
+	"regensburg" : "https://regensburg.freifunk.net/api.json",
 	"reihen" : "http://freifunk.reihen.de/reihen.json",
 	"reinshagen" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-reinshagen.json",
 	"remscheid" : "http://nodeapi.vfn-nrw.de/index.php/get/community/9/format/ffapi",
