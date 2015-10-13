@@ -53,6 +53,7 @@
 	"eberswalde" : "http://ewifi.de/FreifunkEberswalde-api.json",
 	"eifel" : "http://map.kbu.freifunk.net/ffapi/eifel.json",
 	"emskirchen" : "https://netmon.freifunk-emskirchen.de/api/community.php",
+	"engelskirchen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/41/format/ffapi",
 	"erfurt" : "http://sj.weimarnetz.de/freifunk/ff-erfurt.json",
 	"erlangen" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/erlangen.json",
 	"essen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/essen.json",
