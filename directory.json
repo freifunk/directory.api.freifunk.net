@@ -77,6 +77,7 @@
 	"goeldenitz" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-goeldenitz.json",
 	"goettingen" : "https://cccgoe.de/freifunk-goe.json",
 	"graz" : "http://ffapi.graz.funkfeuer.at/ffapi.json",
+	"grefrath" : "http://freifunk-grefrath.de/FreifunkGrefrath-api.json",
 	"greifswald" : "https://raw.githubusercontent.com/Freifunk-Greifswald/api/master/FreifunkGreifswald-api.json",
 	"greiz" : "http://freifunk-gera-greiz.de/FreifunkGreiz-api.json",
 	"gronau" : "http://nodeapi.vfn-nrw.de/index.php/get/community/1/format/ffapi",
