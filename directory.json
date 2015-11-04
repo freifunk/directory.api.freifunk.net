@@ -1,6 +1,6 @@
 {
 	"aachen" : "https://raw.githubusercontent.com/ffac/api-file/master/acffapi.json",
-	"altdorf" : "http://freifunk-altdorf.de/FreifunkAltdorf-api.json",
+	"altdorf" : "http://api.tecff.de/FreifunkAltdorf-api.json",
 	"altmark" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
 	"ansbach" : "https://netmon.freifunk-ansbach.de/api/community.php",
 	"arnsberg" : "http://map.freifunk-moehne.de/images/arnsberg/arnsberg-api.json",
@@ -120,6 +120,7 @@
 	"koenigsee" : "http://freifunk.schwarzburg-rudolstadt.de/Koenigsee.Freifunk.net-api.json",
 	"krefeld" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/krefeld.json",
 	"kuerten" : "http://nodeapi.vfn-nrw.de/index.php/get/community/37/format/ffapi",
+	"landshut" : "http://api.tecff.de/FreifunkLandshut-api.json",
 	"lauf_an_der_pegnitz" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/lauf_an_der_pegnitz.json",
 	"leer" : "http://www.leeraner-freifunk.de/LeeranerFreifunk-api.json",
 	"leichlingen" : "http://fflln.net/api.json",	
