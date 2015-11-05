@@ -183,7 +183,7 @@
 	"roebel-mueritz" : "http://map.4830.org/mueritz/Roebel_Mueritz-api.json",
 	"rostock" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-rostock.json",
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
-	"saar" : "https://saar.freifunk.net/static/FreifunkSaar-api.json",
+	"saar" : "https://mgmt.saar.freifunk.net/data/freifunk-api.json",
 	"sanktaugustin" : "http://www.freifunk-sankt-augustin.de/FreifunkSanktAugustin-api.json",
 	"schwabach" : "https://netmon.freifunk-schwabach.de/api/community.php",
 	"schwerin" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-schwerin.json",
