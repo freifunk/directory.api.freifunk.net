@@ -135,6 +135,7 @@
 	"luebeck" : "http://luebeck.freifunk.net/ffapi.json",
 	"lueneburg" : "http://freifunk-lueneburg.de/lueneburg.json",
 	"luenen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/luenen.json",
+	"lohmar" : "http://freifunk-lohmar.de/api.json",
 	"luxembourg" : "http://api.freifunk.lu/fflux_api.json",
 	"potrems" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-potrems.json",
 	"magdeburg" : "http://md.freifunk.net/community.json",
