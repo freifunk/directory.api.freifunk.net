@@ -112,7 +112,7 @@
 	"jena" : "http://freifunk-jena.de/jena.json",
 	"juelich" : "http://freifunk-juelich.de/FreifunkJuelich-api.json",
 	"juechen" : "http://api.freifunk-juechen.de/api.json",
-	"karlsruhe" : "http://api.freifunk-karlsruhe.de/ffka.json",
+	"karlsruhe" : "https://karlsruhe.freifunk.net/ffka.json",
 	"kassel" : "http://api.ffks.de/api.json",
 	"kavelstorf" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-kavelstorf.json",
 	"kempen" : "http://www.freifunk-kempen.net/ff-kk-api.json",
