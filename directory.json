@@ -142,6 +142,7 @@
 	"mainz" : "http://api.freifunk-mainz.de/ffapi_mz.json",
 	"mayen-koblenz" : "http://status.freifunk-myk.de/api.json",
 	"meinerzhagen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/meinerzhagen.json",
+	"meiningen" : "http://www.freifunk-meiningen.de/FreifunkMeiningen-api.json",
 	"meissen" : "http://meissen.stadtlog.com/freifunk/FreifunkMeissen-api.json",
 	"menden" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/menden.json",
 	"meschede" : "http://www.freifunk-meschede.net/FreifunkMeschede-api.json",
