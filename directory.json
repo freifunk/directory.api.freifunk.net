@@ -99,7 +99,7 @@
 	"helgoland" : "https://meta.hamburg.freifunk.net/Helgoland-api.json",
 	"hemer": "http://freifunk-hemer.de/wp-content/uploads/2015/11/FreifunkHemer-api.json_.txt", 
 	"hennef" : "http://www.freifunk-hennef.de/wp-content/api/ff-hennef-api.json",
-	"herford" : "http://herford.freifunk.net/api/herford-api.json",
+	"herford" : "http://map.herford.freifunk.net/freifunk-api/herford.json",
 	"herne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herne.json",
 	"herten" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herten.json",
 	"hildesheim" : "http://freifunkapi.freifunk-hi.de/freifunkapi.json",
