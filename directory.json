@@ -224,4 +224,5 @@
 	"wuppertal" : "http://api.freifunk-wuppertal.net/ffnet/ffwtal.json",
 	"xanten" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/xanten.json",
 	"zootzen" : "http://feeds.leipzig.freifunk.net/ffapi/zootzen.json"
+	"nord" : "https://raw.githubusercontent.com/ffnord/community-api/master/FreifunkNord-api.json"
 }
