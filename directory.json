@@ -1,5 +1,6 @@
 {
 	"aachen" : "https://raw.githubusercontent.com/ffac/api-file/master/acffapi.json",
+	"ahrensburg" : "http://mirror1.stormarn.freifunk.net/api/StormarnFreifunk-Ahrensburg+Land-api.json",
 	"altdorf" : "http://api.tecff.de/FreifunkAltdorf-api.json",
 	"altmark" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
 	"ansbach" : "https://netmon.freifunk-ansbach.de/api/community.php",
