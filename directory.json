@@ -161,7 +161,7 @@
 	"neustadt-aisch" : "https://netmon.freifunk-neustadt-aisch.de/api/community.php",
 	"niex" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-niex.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
-	"nord" : "https://raw.githubusercontent.com/ffnord/community-api/master/FreifunkNord-api.json",
+	"nord" : "https://raw.githubusercontent.com/ffnord/nord-community-api/master/FreifunkNord-api.json",
 	"nordwest" : "https://netmon.nordwest.freifunk.net/scripts/ffnetapi/ffnetapi.php",
 	"oberhausen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/oberhausen.json",
 	"obernkirchen" : "http://freifunk-obernkirchen.de/FreifunkObernkirchen-api.json",
