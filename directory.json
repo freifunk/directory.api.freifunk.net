@@ -96,7 +96,7 @@
 	"hassloch" : "https://www.freifunk-hassloch.de/freifunk-hassloch.json",
 	"hattingen" : "http://freifunk-hattingen.de/hattingen.json",
 	"heilsbronn": "https://netmon.freifunk-heilsbronn.de/api/community.php",
-	"helgoland" : "https://meta.hamburg.freifunk.net/Helgoland-api.json",
+	"helgoland" : "https://meta.helgoland.freifunk.net/Helgoland-api.json",
 	"hemer": "http://freifunk-hemer.de/wp-content/uploads/2015/11/FreifunkHemer-api.json_.txt", 
 	"hennef" : "http://www.freifunk-hennef.de/wp-content/api/ff-hennef-api.json",
 	"herford" : "http://map.herford.freifunk.net/freifunk-api/herford.json",
