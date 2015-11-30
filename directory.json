@@ -192,6 +192,7 @@
 	"siegen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/siegen.json",
 	"straelen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/straelen.json",
 	"stuttgart" : "http://gw01.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
+	"suedpfalz" : "https://www.freifunk-suedpfalz.de/FreifunkSuedpfalz-api.json",
 	"tressow" : "http://map.4830.org/mueritz/Tressow-api.json",
 	"trier" : "https://freifunktrier.github.io/ffapi.json",
 	"troisdorf" : "http://freifunk-troisdorf.de/ffapi.json",
