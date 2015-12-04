@@ -21,7 +21,7 @@ ff_api_specs = {}
 def read_url(url, queue):
     req = urllib2.Request(url, headers=hdr)
     try:
-        res = urllib2.urlopen(req, None, 10)
+        res = urllib2.urlopen(req, None, 12)
         api_content = {}
         api_content = json.loads(res.read())
         validator = jsonschema.validators.validator_for(ff_api_specs[api_content['api']]['schema']) 
@@ -49,6 +49,7 @@ def read_url(url, queue):
         queue.put(url)
     except ValueError as e:
         print('Value error while paring JSON: %s' % (url))
+        print(e)
         queue.put(url)
     except KeyError as e:
         print('Invalid or unknown API version %s: %s' % (api_content['api'], url))
