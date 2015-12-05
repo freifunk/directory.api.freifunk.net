@@ -158,7 +158,7 @@
 	"nettetal" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/nettetal.json",
 	"neuendettelsau" : "https://netmon.freifunk-neuendettelsau.de/api/community.php",
 	"neukirchen-vluyn" : "http://freifunk-nv.de/ff-api/neukirchen-vluyn.json",
-	"neuss" : "https://raw.githubusercontent.com/ffrl/FF-API-Rheinufer/master/neuss.json",
+	"neuss" : "https://raw.githubusercontent.com/Plaete/FF-API-Rheinufer/master/neuss.json",
 	"neustadt-aisch" : "https://netmon.freifunk-neustadt-aisch.de/api/community.php",
 	"niex" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-niex.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
