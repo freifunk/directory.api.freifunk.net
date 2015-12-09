@@ -9,7 +9,7 @@
 	"augsburg": "http://www.wgaugsburg.de/ffapi/ffapi.json",
 	"badgandersheim" : "http://argarh.de/FFGAN/FreifunkBadGandersheim-api.json",
 	"badoeynhausen" : "http://www.freifunk-badoeynhausen.de/ffapi/FreifunkBadOeynhausen-api.json",
-	"badoldesloe" : "http://mirror1.stormarn.freifunk.net/api/StormarnFreifunk-BadOldesloe+Land-api.json",
+	"badoldesloe" : "https://raw.githubusercontent.com/ffod/api/master/badoldesloe.json",
 	"badpyrmont": "http://update.freifunk-nordlippe.de/ffapi_badpyrmont.json",
 	"badreichenhall" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/badreichenhall.json",
 	"badsalzuflen": "http://update.freifunk-nordlippe.de/ffapi_badsalzuflen.json",
