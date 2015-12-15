@@ -166,6 +166,7 @@
 	"neumuenster" : "http://mesh.ffnord.net/api/Neumuenster-api.json",
 	"neuss" : "http://www.freifunk-neuss.de/api/neuss.json",
 	"neustadt-aisch" : "https://netmon.freifunk-neustadt-aisch.de/api/community.php",
+	"neustadt-weinstrasse" : "http://svc.freifunk-weinstrasse.de/FreifunkNeustadtWS-api.json",
 	"niex" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-niex.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"nordwest" : "https://netmon.nordwest.freifunk.net/scripts/ffnetapi/ffnetapi.php",
