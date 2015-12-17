@@ -1,7 +1,6 @@
 {
 	"aachen" : "https://raw.githubusercontent.com/ffac/api-file/master/acffapi.json",
 	"altdorf" : "https://raw.githubusercontent.com/tecff/freifunk.net-API/master/altdorf.freifunk.net.json",
-	"altmark" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
 	"alzey" : "http://svc.freifunk-weinstrasse.de/FreifunkAlzey-api.json",
 	"ansbach" : "https://netmon.freifunk-ansbach.de/api/community.php",
 	"arnsberg" : "http://map.freifunk-moehne.de/images/arnsberg/arnsberg-api.json",
@@ -199,6 +198,7 @@
 	"rostock" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-rostock.json",
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
 	"saar" : "https://saar.freifunk.net/static/FreifunkSaar-api.json",
+	"salzwedel" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
 	"sanktaugustin" : "http://www.freifunk-sankt-augustin.de/FreifunkSanktAugustin-api.json",
 	"schleswig" : "http://mesh.ffnord.net/api/Schleswig-api.json",
 	"schwabach" : "https://netmon.freifunk-schwabach.de/api/community.php",
