@@ -191,6 +191,7 @@
 	"regensburg" : "https://regensburg.freifunk.net/api.json",
 	"rendsburg" : "http://mesh.ffnord.net/api/Rendsburg-api.json",
 	"reihen" : "http://freifunk.reihen.de/reihen.json",
+	"reinbek" : "https://raw.githubusercontent.com/ffod/api/master/reinbek.json",
 	"reinshagen" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-reinshagen.json",
 	"remscheid" : "http://nodeapi.vfn-nrw.de/index.php/get/community/9/format/ffapi",
 	"rhein-neckar" : "http://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
