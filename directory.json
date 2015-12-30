@@ -215,7 +215,7 @@
 	"sundern" : "http://map.freifunk-moehne.de/images/sundern/sundern-api.json",
 	"tressow" : "http://map.4830.org/mueritz/Tressow-api.json",
 	"trier" : "https://freifunktrier.github.io/ffapi.json",
-	"troisdorf" : "http://freifunk-troisdorf.de/ffapi.json",
+	"troisdorf" : "https://raw.githubusercontent.com/Freifunk-Troisdorf/ff-api/master/ffapi.json",
 	"uelzen" : "http://freifunk-uelzen.de/api/FreifunkUelzen-api.json",
 	"ulm" : "https://raw.githubusercontent.com/ffulm/api/master/api.json",
 	"unna" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/unna.json",
