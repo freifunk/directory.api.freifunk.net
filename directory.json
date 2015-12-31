@@ -215,6 +215,7 @@
 	"stuttgart" : "http://gw01.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
 	"sundern" : "http://map.freifunk-moehne.de/images/sundern/sundern-api.json",
 	"tressow" : "http://map.4830.org/mueritz/Tressow-api.json",
+	"treuchtlingen" : "https://netmon.freifunk-treuchtlingen.de/api/community.php",
 	"trier" : "https://freifunktrier.github.io/ffapi.json",
 	"troisdorf" : "https://raw.githubusercontent.com/Freifunk-Troisdorf/ff-api/master/ffapi.json",
 	"uelzen" : "http://freifunk-uelzen.de/api/FreifunkUelzen-api.json",
