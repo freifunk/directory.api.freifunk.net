@@ -158,7 +158,6 @@
 	"meschede" : "http://www.freifunk-meschede.net/FreifunkMeschede-api.json",
 	"mettmann" : "http://freifunk-mettmann.de/fileadmin/FreifunkMettmann-api.json",
 	"minden" : "http://www.freifunk-minden.de/api.json",
-	"moehne" : "http://moehne-vis.freifunk-rheinland.net/api.json",
 	"moehnesee" : "http://map.freifunk-moehne.de/api/moehnesee.json",
 	"moenchengladbach" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/moenchengladbach.json",
 	"moers" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/moers.json",
