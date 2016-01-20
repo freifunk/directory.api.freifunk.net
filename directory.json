@@ -199,6 +199,7 @@
 	"reinshagen" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-reinshagen.json",
 	"remscheid" : "http://nodeapi.vfn-nrw.de/index.php/get/community/9/format/ffapi",
 	"rheinfelden" : "http://map.freifunk-3laendereck.net/api/ff3l-rheinfelden.json",
+	"rheinsieg" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/api.json",
 	"roebel-mueritz" : "http://map.4830.org/mueritz/Roebel_Mueritz-api.json",
 	"rostock" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-rostock.json",
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
