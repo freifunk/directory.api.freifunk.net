@@ -150,6 +150,7 @@
 	"mainz" : "http://api.freifunk-mainz.de/ffapi_mz.json",
 	"mannheim" : "http://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
 	"marburg" : "https://api.marburg.freifunk.net/freifunk-marburg.json",
+	"markdorf" : "https://raw.githubusercontent.com/ffbsee/api/master/ffmarkdorf.json",
 	"marktoberdorf" : "http://www.freifunk-ostallgaeu.de/FreifunkOstallgaeu-api.json",
 	"maulburg" : "http://map.freifunk-3laendereck.net/api/ff3l-maulburg.json",
 	"mayen-koblenz" : "http://status.freifunk-myk.de/api.json",
