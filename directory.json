@@ -139,6 +139,7 @@
 	"leisnig" : "http://feeds.leipzig.freifunk.net/ffapi/leisnig.json",
 	"lemgo": "http://update.freifunk-nordlippe.de/ffapi_lemgo.json",
 	"leverkusen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/5/format/ffapi",
+	"limburg" : "http://freifunk-limburg.de/FreifunkLimburg-api.json",
 	"lindlar" : "http://nodeapi.vfn-nrw.de/index.php/get/community/40/format/ffapi",
 	"loerrach" : "http://map.freifunk-3laendereck.net/api/ff3l-loerrach.json",
 	"luebeck" : "http://luebeck.freifunk.net/ffapi.json",
