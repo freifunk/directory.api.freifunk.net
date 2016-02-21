@@ -196,6 +196,7 @@
 	"pinneberg" : "https://pinneberg.freifunk.net/ffapi.json",
 	"ploen" : "http://mesh.ffnord.net/api/Ploen-api.json",
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
+	"pulheim" : "http://api.freifunk-rhein-erft.de/FreifunkRhein-Erft-api.json",
 	"radevormwald" : "http://api.freifunk-radevormwald.de/ffrade-api.json",
 	"raesfeld" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/raesfeld.json",
 	"ratingen" : "http://paas.com-paas.com/FreifunkRatingen-api.json",
