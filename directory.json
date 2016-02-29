@@ -187,7 +187,6 @@
 	"offenbach/queich" : "http://freifunk-suedpfalz.de/FreifunkSuedpfalz-offenbach-api.json",
 	"oldenburg" : "https://blog.nordwest.freifunk.net/api_files/Freifunk-Oldenburg-Api.json",
 	"osnabrueck" : "http://osnabrueck.freifunk.net/Freifunk-api.json",
-	"ostholstein" : "http://ostholstein.freifunk.net/ffapi.json",
 	"overath" : "http://api.gl.wupper.freifunk-rheinland.net/ovr.json",
 	"quedlinburg" : "http://harz.freifunk.net/api.qlb.json",
 	"paderborn" : "http://paderborn.freifunk.net/ffapi.json",
