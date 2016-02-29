@@ -64,7 +64,7 @@
 	"evernet" : "http://www.evernet-eg.de/evernet.json",
 	"flensburg" : "http://freifunk-flensburg.de/api/api.json",
 	"forchheim" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/forchheim.json",
-	"frankfurt_am_main" : "http://api.ffm.freifunk.net/ff-frankfurt.json",
+	"frankfurt_am_main" : "https://api.ffm.freifunk.net/ff-frankfurt.json",
 	"freiburg" : "https://freiburg.freifunk.net/API-File",
 	"fuerth" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/fuerth.json",
 	"fulda" : "https://fulda.freifunk.net/FreifunkFulda-api.json",
