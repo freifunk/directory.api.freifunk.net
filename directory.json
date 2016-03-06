@@ -182,6 +182,7 @@
 	"niederkassel" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/niederkassel.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"oberhausen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/oberhausen.json",
+	"oberlausitz" : "https://raw.githubusercontent.com/ff-oberlausitz/api/master/oberlausitz.freifunk.net.json",
 	"obernkirchen" : "http://freifunk-obernkirchen.de/FreifunkObernkirchen-api.json",
 	"odenthal" : "http://api.gl.wupper.freifunk-rheinland.net/ode.json",
 	"offenbach/queich" : "http://freifunk-suedpfalz.de/FreifunkSuedpfalz-offenbach-api.json",
