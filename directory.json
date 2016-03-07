@@ -109,6 +109,7 @@
 	"himmelpfort" : "https://hksc.de/freifunk.himmelpfort.json",
 	"hof" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/hof.json",
 	"hueckeswagen" : "http://nodeapi.vfn-nrw.de/index.php/get/community/21/format/ffapi",
+	"huenxe" : "http://freifunk-huenxe.de/api/FreifunkHuenxe-api.json",
 	"husum" : "http://mesh.ffnord.net/api/Husum-api.json",
 	"ibbenbueren" : "https://raw.githubusercontent.com/ff-ibb/ff-api/master/FreifunkIbbenbueren.json",
 	"ingolstadt" : "https://freifunk-ingolstadt.de/ffapi.json",
