@@ -7,7 +7,7 @@
 	"aschaffenburg": "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/aschaffenburg.json",
 	"ascheberg": "http://freifunk-ascheberg.de/FreifunkAscheberg-api.json",
 	"augsburg": "http://www.wgaugsburg.de/ffapi/ffapi.json",
-	"badgandersheim" : "http://argarh.de/FFGAN/FreifunkBadGandersheim-api.json",
+	"badgandersheim" : "http://argarh.de/ffgan/FreifunkBadGandersheim-api.json",
 	"badoeynhausen" : "http://www.freifunk-badoeynhausen.de/ffapi/FreifunkBadOeynhausen-api.json",
 	"badoldesloe" : "https://raw.githubusercontent.com/ffod/api/master/badoldesloe.json",
 	"badpyrmont": "http://update.freifunk-nordlippe.de/ffapi_badpyrmont.json",
