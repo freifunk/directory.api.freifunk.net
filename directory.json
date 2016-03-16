@@ -192,6 +192,7 @@
 	"odenthal" : "http://api.gl.wupper.freifunk-rheinland.net/ode.json",
 	"offenbach/queich" : "http://freifunk-suedpfalz.de/FreifunkSuedpfalz-offenbach-api.json",
 	"oldenburg" : "https://blog.nordwest.freifunk.net/api_files/Freifunk-Oldenburg-Api.json",
+	"oschatz": "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkOschatz-api.json",
 	"osnabrueck" : "http://osnabrueck.freifunk.net/Freifunk-api.json",
 	"overath" : "http://api.gl.wupper.freifunk-rheinland.net/ovr.json",
 	"quedlinburg" : "http://harz.freifunk.net/api.qlb.json",
