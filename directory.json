@@ -94,6 +94,7 @@
 	"hannmuenden" : "http://www.freifunk-hannmuenden.de/FreifunkHann.Muenden-api.json",
 	"hannover" : "http://hannover.freifunk.net/api/hannover-api.json",
 	"harburg" : "http://mesh.ffnord.net/api/Harburg-api.json",
+	"hartha" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkHartha-Api.json",
 	"hassberge" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/hassberge.json",
 	"hassloch" : "https://www.freifunk-hassloch.de/freifunk-hassloch.json",
 	"hattingen" : "http://freifunk-hattingen.de/hattingen.json",
