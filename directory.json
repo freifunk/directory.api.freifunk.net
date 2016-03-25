@@ -25,6 +25,7 @@
 	"biggesee" : "http://www.freifunk-biggesee.de/wp-content/uploads/FreifunkBiggesee-api.json",
 	"bingen" : "https://www.freifunk-bingen.de/ffapi.json",
 	"bochum" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/bochum.json",
+	"boenen" : "https://raw.githubusercontent.com/hohlkl/FF_Boenen/master/B%C3%B6nen%2CeineGemeindevernetztsich!-api.json",
 	"bottrop" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/bottrop.json",
 	"brandenburg" : "https://freifunk-brandenburg.de/api/brandenburg.json",
 	"braunlage" : "http://harz.freifunk.net/api.brl.json",
