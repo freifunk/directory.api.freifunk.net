@@ -253,7 +253,7 @@
 	"treuchtlingen" : "https://netmon.freifunk-treuchtlingen.de/api/community.php",
 	"trier" : "https://freifunktrier.github.io/ffapi.json",
 	"troisdorf" : "https://raw.githubusercontent.com/Freifunk-Troisdorf/ff-api/master/ffapi.json",
-	"uelzen" : "http://freifunk-uelzen.de/api/FreifunkUelzen-api.json",
+	"uelzen" : "https://www.freifunk-uelzen.de/api/FreifunkUelzen-api.json",
 	"ulm" : "https://raw.githubusercontent.com/ffulm/api/master/api.json",
 	"unna" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/unna.json",
 	"velbert" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Velbert-api.json",
