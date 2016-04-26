@@ -88,7 +88,7 @@
 	"grenzach" : "http://map.freifunk-3laendereck.net/api/ff3l-grenzach.json",
 	"gronau" : "http://nodeapi.vfn-nrw.de/index.php/get/community/1/format/ffapi",
 	"guetersloh" : "https://stats.guetersloh.freifunk.net/ffgt-api.json",
-	"gummersbach" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/gummersbach.json",
+	"gummersbach" : "http://nodeapi.vfn-nrw.de/index.php/get/community/43/format/ffapi",
 	"hagen" : "http://freifunk-hagen.de/hagen-api.json",
 	"halle" : "http://www.freifunk-halle.net/freifunk-api.json",
 	"halle_westfalen" : "https://stats.guetersloh.freifunk.net/ffapi-Halle.json",
