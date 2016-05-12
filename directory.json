@@ -224,6 +224,7 @@
 	"remscheid" : "http://nodeapi.vfn-nrw.de/index.php/get/community/9/format/ffapi",
 	"rheinfelden" : "http://map.freifunk-3laendereck.net/api/ff3l-rheinfelden.json",
 	"rheinbach" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/rheinbach.json",
+	"eltville" : "https://www.freifunk-rheingau.de/ffapi_rheingau.json",
 	"roebel-mueritz" : "http://map.4830.org/mueritz/Roebel_Mueritz-api.json",
 	"rostock" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-rostock.json",
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
