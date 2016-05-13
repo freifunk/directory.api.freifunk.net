@@ -95,6 +95,7 @@
 	"hagen" : "http://freifunk-hagen.de/hagen-api.json",
 	"halle" : "http://www.freifunk-halle.net/freifunk-api.json",
 	"halle_westfalen" : "https://stats.guetersloh.freifunk.net/ffapi-Halle.json",
+	"halver" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/halver.json",
 	"hamburg" : "https://meta.hamburg.freifunk.net/ffhh.json",
 	"hamm" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/hamm.json",
 	"hannmuenden" : "http://www.freifunk-hannmuenden.de/FreifunkHann.Muenden-api.json",
