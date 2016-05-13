@@ -1,6 +1,7 @@
 {
 	"aachen" : "https://raw.githubusercontent.com/ffac/api-file/master/acffapi.json",
 	"altdorf" : "https://raw.githubusercontent.com/tecff/freifunk.net-API/master/altdorf.freifunk.net.json",
+	"altena" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/altena.json",
 	"alzey" : "http://svc.freifunk-weinstrasse.de/FreifunkAlzey-api.json",
 	"ansbach" : "https://netmon.freifunk-ansbach.de/api/community.php",
 	"arnsberg" : "http://map.freifunk-moehne.de/images/arnsberg/arnsberg-api.json",
