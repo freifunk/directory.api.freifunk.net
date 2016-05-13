@@ -108,7 +108,7 @@
 	"heilsbronn": "https://netmon.freifunk-heilsbronn.de/api/community.php",
 	"helgoland" : "https://meta.helgoland.freifunk.net/Helgoland-api.json",
 	"helmstedt" : "http://freifunk-elm-lappwald.de/api/helmstedt.json",
-	"hemer": "http://freifunk-hemer.de/wp-content/uploads/2015/11/FreifunkHemer-api.json_.txt",
+	"hemer": "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/altena.json",
 	"hennef" : "http://www.freifunk-hennef.de/wp-content/api/ff-hennef-api.json",
 	"herford" : "http://map.herford.freifunk.net/freifunk-api/herford.json",
 	"herne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herne.json",
