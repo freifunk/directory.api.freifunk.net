@@ -123,7 +123,7 @@
 	"ibbenbueren" : "https://raw.githubusercontent.com/ff-ibb/ff-api/master/FreifunkIbbenbueren.json",
 	"ingolstadt" : "https://freifunk-ingolstadt.de/ffapi.json",
 	"ippensen" : "http://ippensen-freifunk.net/FreifunkIppensen-api.json",
-	"iserlohn" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/iserlohn.json",
+	"iserlohn" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/iserlohn.json",
 	"itzehoe" : "http://mesh.ffnord.net/api/Itzehoe-api.json",
 	"jena" : "https://freifunk-jena.de/jena.json",
 	"juechen" : "http://api.freifunk-juechen.de/api.json",
