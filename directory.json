@@ -210,6 +210,7 @@
 	"paderborn" : "http://paderborn.freifunk.net/ffapi.json",
 	"pinneberg" : "https://pinneberg.freifunk.net/ffapi.json",
 	"plauen" : "http://storage.freifunk-vogtland.net/ffapi-plauen.json",
+	"plettenberg" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/plettenberg.json",
 	"ploen" : "http://mesh.ffnord.net/api/Ploen-api.json",
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
 	"pulheim" : "http://api.freifunk-rhein-erft.de/FreifunkRhein-Erft-api.json",
