@@ -186,7 +186,7 @@
 	"muensterland" : "https://freifunk-muensterland.de/freifunk/ffapi.json",
 	"nettetal" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/nettetal.json",
 	"neuendettelsau" : "https://netmon.freifunk-neuendettelsau.de/api/community.php",
-	"neuenrade" : "https://github.com/freifunk-mk/ff-api/blob/master/neuenrade.json",
+	"neuenrade" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/neuenrade.json",
 	"neukirchen-vluyn" : "http://freifunk-nv.de/ff-api/neukirchen-vluyn.json",
 	"neunkirchen" : "http://knoten.freifunk.saarland/ffsl_nk.json",
 	"neunkirchen-seelscheid" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/neunkirchen.json",
