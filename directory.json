@@ -114,6 +114,7 @@
 	"herford" : "http://map.herford.freifunk.net/freifunk-api/herford.json",
 	"herne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herne.json",
 	"herten" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herten.json",
+	"hilchenbach" : "https://raw.githubusercontent.com/Freifunk-Siegerland/ff-api/master/hilchenbach.json";
 	"hildesheim" : "http://freifunkapi.freifunk-hi.de/freifunkapi.json",
 	"hilden" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Hilden-api.json",
 	"himmelpfort" : "https://hksc.de/freifunk.himmelpfort.json",
