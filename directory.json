@@ -229,7 +229,7 @@
 	"rostock" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-rostock.json",
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
 	"ruppichteroth" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/ruppichteroth.json",
-	"saarbruecken" : "https://mgmt.saar.freifunk.net/data/freifunk-api.json",
+	"saarbruecken" : "https://mgmt.saar.freifunk.net/data/api-saarbruecken.json",
 	"saarlouis" : "http://knoten.freifunk.saarland/ffsl_sls.json",
 	"sankt andreasberg" : "http://harz.freifunk.net/api.sta.json",
 	"bad-saeckingen" : "http://map.freifunk-3laendereck.net/api/ff3l-saeckingen.json",
