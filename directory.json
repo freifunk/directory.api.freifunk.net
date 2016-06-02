@@ -211,7 +211,7 @@
 	"osnabrueck" : "http://osnabrueck.freifunk.net/Freifunk-api.json",
 	"overath" : "http://api.gl.wupper.freifunk-rheinland.net/ovr.json",
 	"quedlinburg" : "http://harz.freifunk.net/api.qlb.json",
-	"paderborn" : "http://paderborn.freifunk.net/ffapi.json",
+	"paderborn" : "https://hochstift.freifunk.net/ffapi-pad.json",
 	"pinneberg" : "https://pinneberg.freifunk.net/ffapi.json",
 	"plauen" : "http://storage.freifunk-vogtland.net/ffapi-plauen.json",
 	"ploen" : "http://mesh.ffnord.net/api/Ploen-api.json",
