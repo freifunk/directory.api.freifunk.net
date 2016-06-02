@@ -30,6 +30,7 @@
 	"bonn" : "https://kbu.freifunk.net/api/bonn.json",
 	"borken" : "http://ff-bor-api.hellmann.me/FreifunkBorken-api.json",
 	"bottrop" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/bottrop.json",
+	"brakel" : "https://hochstift.freifunk.net/ffapi-bkk.json",
 	"brandenburg" : "https://freifunk-brandenburg.de/api/brandenburg.json",
 	"braunlage" : "http://harz.freifunk.net/api.brl.json",
 	"braunschweig" : "http://freifunk-bs.de/api.json",
