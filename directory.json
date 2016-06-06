@@ -197,7 +197,7 @@
 	"neustadt-aisch" : "https://netmon.freifunk-neustadt-aisch.de/api/community.php",
 	"neustadt-weinstrasse" : "http://svc.freifunk-weinstrasse.de/FreifunkNeustadtWS-api.json",
 	"neuwied" : "https://freifunk-westerwald.de/api_neuwied.json",
-	"nordheide" : "https://raw.githubusercontent.com/ffnord/nord-community-api/master/nordheide-api.json";
+	"nordheide" : "https://raw.githubusercontent.com/ffnord/nord-community-api/master/nordheide-api.json",
 	"niex" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-niex.json",
 	"niederkassel" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/niederkassel.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
@@ -214,7 +214,7 @@
 	"paderborn" : "https://hochstift.freifunk.net/ffapi-pad.json",
 	"pinneberg" : "https://pinneberg.freifunk.net/ffapi.json",
 	"plauen" : "http://storage.freifunk-vogtland.net/ffapi-plauen.json",
-	"ploen" : "https://raw.githubusercontent.com/ffnord/nord-community-api/master/ploen-api.json";
+	"ploen" : "https://raw.githubusercontent.com/ffnord/nord-community-api/master/ploen-api.json",
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
 	"pulheim" : "http://api.freifunk-rhein-erft.de/FreifunkRhein-Erft-api.json",
 	"radevormwald" : "http://api.freifunk-radevormwald.de/ffrade-api.json",
@@ -250,7 +250,7 @@
 	"siegen" : "https://raw.githubusercontent.com/Freifunk-Siegerland/ff-api/master/siegen.json",
 	"siegburg" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/siegburg.json",
 	"soest" : "http://map.freifunk-moehne.de/api/soest.json",
-	"stade" : "https://raw.githubusercontent.com/ffnord/nord-community-api/master/stade-api.json";
+	"stade" : "https://raw.githubusercontent.com/ffnord/nord-community-api/master/stade-api.json",
 	"st-wendel" : "https://mgmt.saar.freifunk.net/data/api-st-wendel.json",
 	"straelen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/straelen.json",
 	"stuttgart" : "http://gw01.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
