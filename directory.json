@@ -207,6 +207,7 @@
 	"obernkirchen" : "http://freifunk-obernkirchen.de/FreifunkObernkirchen-api.json",
 	"odenthal" : "http://api.gl.wupper.freifunk-rheinland.net/ode.json",
 	"offenbach/queich" : "http://freifunk-suedpfalz.de/FreifunkSuedpfalz-offenbach-api.json",
+	"offenburg" : "https://ortenau.freifunk.net/ffortenau-api.json",
 	"oldenburg" : "https://ffnw.de/api_files/Freifunk-Oldenburg-Api.json",
 	"oschatz": "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkOschatz-api.json",
 	"osnabrueck" : "https://ffnw.de/Freifunk-Osnabrueck-Api.json",
