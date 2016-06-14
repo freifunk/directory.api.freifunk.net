@@ -197,7 +197,6 @@
 	"neustadt-aisch" : "https://netmon.freifunk-neustadt-aisch.de/api/community.php",
 	"neustadt-weinstrasse" : "http://svc.freifunk-weinstrasse.de/FreifunkNeustadtWS-api.json",
 	"neuwied" : "https://freifunk-westerwald.de/api_neuwied.json",
-	"nordheide" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/nordheide-api.json",
 	"niex" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-niex.json",
 	"niederkassel" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/niederkassel.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
