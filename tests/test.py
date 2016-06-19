@@ -94,14 +94,19 @@ def main():
     invalid_urls = []
 
     if "$insert" in directory_diff:
+        print("check inserted entries")
         for x in directory_diff["$insert"]:
-            print("check inserted entries")
             urls_to_load.append(directory_diff["$insert"][x])
     
     if "$update" in directory_diff:
+        print("check updated entries")
         for x in directory_diff["$update"]:
-            print("check updated entries")
             urls_to_load.append(directory_diff["$update"][x])
+
+    if urls_to_load == []:
+        print("check all files, as nothing else changed")
+        for x in directory_master:
+            urls_to_load.append(directory_master[x])
 
     result = fetch_parallel(urls_to_load)
 
