@@ -122,6 +122,7 @@
 	"huenxe" : "http://freifunk-huenxe.de/api/FreifunkHuenxe-api.json",
 	"ibbenbueren" : "https://raw.githubusercontent.com/ff-ibb/ff-api/master/FreifunkIbbenbueren.json",
 	"ingolstadt" : "https://freifunk-ingolstadt.de/ffapi.json",
+	"innsbruck" : "https:///raw.githubusercontent.com/ffibk/ffapi/master/innsbruck.json",
 	"ippensen" : "http://ippensen-freifunk.net/FreifunkIppensen-api.json",
 	"iserlohn" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/iserlohn.json",
 	"jena" : "https://freifunk-jena.de/jena.json",
