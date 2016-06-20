@@ -251,6 +251,7 @@
 	"siegen" : "https://raw.githubusercontent.com/Freifunk-Siegerland/ff-api/master/siegen.json",
 	"siegburg" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/siegburg.json",
 	"soest" : "http://map.freifunk-moehne.de/api/soest.json",
+	"sprockhoevel" : "https://map.ff-en.de/sprockhoevel/sprockhoevel.json",
 	"stade" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/stade-api.json",
 	"st-wendel" : "https://mgmt.saar.freifunk.net/data/api-st-wendel.json",
 	"straelen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/straelen.json",
