@@ -19,6 +19,7 @@
 	"barnstorf" : "http://barnstorf.freifunk.net/api/freifunk.json",
 	"barntrup": "http://update.freifunk-nordlippe.de/ffapi_barntrup.json",
 	"basel" : "http://map.freifunk-3laendereck.net/api/ff3l-basel.json",
+	"beilngries" : "https://map.freifunk-altmuehltal.de/data/api/ffbei.json",
 	"bergischgladbach" : "http://api.gl.wupper.freifunk-rheinland.net/bgl.json",
 	"berlin" : "http://berlin.freifunk.net/static/berlin.json",
 	"bestwig" : "http://freifunk-bestwig.de/api/freifunk-api_json_wrapper.php",
