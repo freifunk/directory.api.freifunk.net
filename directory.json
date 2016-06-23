@@ -210,6 +210,7 @@
 	"oldenburg" : "https://ffnw.de/api_files/Freifunk-Oldenburg-Api.json",
 	"oschatz": "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkOschatz-api.json",
 	"osnabrueck" : "https://ffnw.de/Freifunk-Osnabrueck-Api.json",
+	"ostvest" : "https://freifunk-ostvest.de/FreifunkOstvest-api.json"
 	"overath" : "http://api.gl.wupper.freifunk-rheinland.net/ovr.json",
 	"quedlinburg" : "http://harz.freifunk.net/api.qlb.json",
 	"paderborn" : "https://hochstift.freifunk.net/ffapi-pad.json",
