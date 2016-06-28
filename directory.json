@@ -112,7 +112,7 @@
 	"helmstedt" : "http://freifunk-elm-lappwald.de/api/helmstedt.json",
 	"hemer": "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/hemer.json",
 	"hennef" : "http://www.freifunk-hennef.de/wp-content/api/ff-hennef-api.json",
-	"heppenheim" : "http://freie-infrastruktur.de/FreieInfrastrukturBergstraßee.V.-api.json",
+	"heppenheim" : "http://freie-infrastruktur.de/directory.api.net.json",
 	"herford" : "http://map.herford.freifunk.net/freifunk-api/herford.json",
 	"herne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herne.json",
 	"herten" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/herten.json",
