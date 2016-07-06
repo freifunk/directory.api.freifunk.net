@@ -267,6 +267,7 @@
 	"sundhausen" : "http://www.evernet-eg.de/evernet.json",
 	"sylt" : "https://mesh.nord.freifunk.net/nord-community-api/sylt-api.json",
 	"tarp" : "https://mesh.nord.freifunk.net/nord-community-api/tarp-api.json",
+	"tettnang" : "http://www.freifunk-tettnang.de/FreifunkTettnang-api.json",
 	"thale" : "http://harz.freifunk.net/api.thale.json",
 	"tressow" : "http://map.4830.org/mueritz/Tressow-api.json",
 	"treuchtlingen" : "https://netmon.freifunk-treuchtlingen.de/api/community.php",
