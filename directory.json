@@ -284,7 +284,7 @@
 	"treuchtlingen" : "https://netmon.freifunk-treuchtlingen.de/api/community.php",
 	"trier" : "https://freifunktrier.github.io/ffapi.json",
 	"troisdorf" : "https://raw.githubusercontent.com/Freifunk-Troisdorf/ff-api/master/ffapi.json",
-	"tuttlingen" : "https://map.fftut.de/api/community.php?city=Tuttlingen&country=DE&Community=fftut&main=1",
+	"tuttlingen" : "https://map.fftut.de/api/community.php?city=Tuttlingen&country=DE&community=fftut&main=1",
 	"uelzen" : "https://www.freifunk-uelzen.de/api/FreifunkUelzen-api.json",
 	"ulm" : "https://raw.githubusercontent.com/ffulm/api/master/api.json",
 	"unna" : "https://wiki.freifunk.net/images/6/6a/FreifunkUnna-api.json",
