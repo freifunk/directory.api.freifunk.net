@@ -172,6 +172,7 @@
 	"mannheim" : "http://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
 	"malente" : "https://mesh.nord.freifunk.net/nord-community-api/malente-api.json",
 	"marburg" : "https://api.marburg.freifunk.net/freifunk-marburg.json",
+	"marienheide" : "https://nodeapi.vfn-nrw.de/index.php/get/community/45/format/ffapi",
 	"markdorf" : "https://raw.githubusercontent.com/ffbsee/api/master/ffmarkdorf.json",
 	"marktoberdorf" : "http://www.freifunk-ostallgaeu.de/FreifunkOstallgaeu-api.json",
 	"maulburg" : "https://map.freifunk-3laendereck.net/api/community.php?city=Maulburg&country=DE&community=ff3l-wiese&main=1",
