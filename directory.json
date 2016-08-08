@@ -127,6 +127,7 @@
 	"hueckeswagen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/21/format/ffapi",
 	"huenxe" : "http://freifunk-huenxe.de/api/FreifunkHuenxe-api.json",
 	"ibbenbueren" : "https://raw.githubusercontent.com/ff-ibb/ff-api/master/FreifunkIbbenbueren.json",
+	"ilmenau" : "https://firmware.ilmenau.freifunk.net/.api/ffil.json",
 	"ingolstadt" : "https://freifunk-ingolstadt.de/ffapi.json",
 	"innsbruck" : "https://www.freifunk-innsbruck.at/innsbruck.json",
 	"ippensen" : "http://ippensen-freifunk.net/FreifunkIppensen-api.json",
