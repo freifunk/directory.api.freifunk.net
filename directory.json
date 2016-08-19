@@ -270,6 +270,7 @@
 	"siegen" : "https://raw.githubusercontent.com/Freifunk-Siegerland/ff-api/master/siegen.json",
 	"siegburg" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/siegburg.json",
 	"soest" : "http://map.freifunk-moehne.de/api/soest.json",
+	"solingen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/34/format/ffapi",
 	"st-wendel" : "https://mgmt.saar.freifunk.net/data/api-st-wendel.json",
 	"stade" : "https://mesh.nord.freifunk.net/nord-community-api/stade-api.json",
 	"steinburg" : "https://mesh.nord.freifunk.net/nord-community-api/steinburg-api.json",
