@@ -145,7 +145,7 @@
 	"koeln": "https://kbu.freifunk.net/api/koeln.json",
 	"koenigsee" : "http://freifunk.schwarzburg-rudolstadt.de/Koenigsee.Freifunk.net-api.json",
 	"koenigslutter" : "http://freifunk-elm-lappwald.de/api/koenigslutter.json",
-	"krefeld" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/krefeld.json",
+	"krefeld" : "https://raw.githubusercontent.com/ffniers/ffapi/master/krefeld.json",
 	"kuerten" : "https://nodeapi.vfn-nrw.de/index.php/get/community/37/format/ffapi",
 	"landshut" : "https://raw.githubusercontent.com/tecff/freifunk.net-API/master/landshut.freifunk.net.json",
 	"lauchringen" : "Https://map.freifunk-3laendereck.net/api/community.php?city=Lauchringen&country=DE&community=ff3l-wtk&main=1",
