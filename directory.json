@@ -242,6 +242,7 @@
 	"reinshagen" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-reinshagen.json",
 	"remscheid" : "https://nodeapi.vfn-nrw.de/index.php/get/community/9/format/ffapi",
 	"rendsburg-eckernfoerde" : "https://mesh.nord.freifunk.net/nord-community-api/rendsburg-eckernfoerde-api.json",
+	"Rhein-Erft-Kreis" : "https://raw.githubusercontent.com/ffrek/Freifunk_API/master/Freifunk_API.json",
 	"rheinfelden-ch" : "https://map.freifunk-3laendereck.net/api/community.php?city=Rheinfelden&country=CH&community=ff3l-hoho",
 	"rheinfelden-de" : "https://map.freifunk-3laendereck.net/api/community.php?city=Rheinfelden&country=DE&community=ff3l-hoho&main=1",
 	"rheinbach" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/rheinbach.json",
