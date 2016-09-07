@@ -317,7 +317,7 @@
 	"wiesenburg" : "http://wiki.freifunk.net/images/7/79/Wiesenburg_freifunk_api.json",
 	"wilhelmshaven" : "http://dev.ffnw.de/api_files/Freifunk-Wilhelmshaven-Api.json",
 	"willich" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/willich.json",
-	"winterberg" : "http://map.freifunk-moehne.de/api/winterberg.json",
+	"winterberg" : "http://map.freifunk-winterberg.net/api/winterberg.json",
 	"wipperfuerth" : "https://nodeapi.vfn-nrw.de/index.php/get/community/30/format/ffapi",
 	"wismar" : "http://www.opennet-initiative.de/freifunk/api.freifunk.net-wismar.json",
 	"wittmund" : "http://dev.ffnw.de/api_files/Freifunk-Wittmund-Api.json",
