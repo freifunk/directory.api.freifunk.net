@@ -234,7 +234,7 @@
 	"radevormwald" : "http://api.freifunk-radevormwald.de/ffrade-api.json",
 	"raesfeld" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/raesfeld.json",
 	"ratingen" : "http://paas.com-paas.com/FreifunkRatingen-api.json",
-	"recklinghausen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/recklinghausen.json",
+	"recklinghausen" : "https://raw.githubusercontent.com/FreifunkEmscherland/FF-API/master/recklinghausen-api.json",
 	"regensburg" : "https://regensburg.freifunk.net/api.json",
 	"rehau" : "http://passivhausmafia.de/FreifunkRehau-api.json",
         "reihen" : "http://freifunk.reihen.de/reihen.json",
