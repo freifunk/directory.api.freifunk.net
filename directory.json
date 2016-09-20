@@ -199,6 +199,7 @@
 	"moehnesee" : "http://map.freifunk-moehne.de/api/moehnesee.json",
 	"moenchengladbach" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/moenchengladbach.json",
 	"moers" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/moers.json",
+	"monheim" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/MonheimamRhein-api.json",
 	"montabaur" : "https://freifunk-westerwald.de/api.json",
 	"much" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/much.json",
 	"muelheim" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/muelheim.json",
