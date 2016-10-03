@@ -348,7 +348,6 @@
 	"weil-am-rhein" : "https://map.freifunk-3laendereck.net/api/community.php?city=Weil+am+Rhein&country=DE&community=ff3l-3land",
 	"weimarnetz" : "http://weimarnetz.de/weimarnetz.json",
 	"weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
-	"wentzwiller" : "http://map.freifunk-3laendereck.net/api/community.php?city=Wentzwiller&country=FR&community=ff3l-3land",
 	"werl" : "http://map.freifunk-moehne.de/api/werl.json",
 	"wermelskirchen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/3/format/ffapi",
 	"werne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/werne.json",
