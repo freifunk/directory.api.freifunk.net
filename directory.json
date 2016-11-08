@@ -77,7 +77,7 @@
 	"emskirchen" : "https://netmon.freifunk-emskirchen.de/api/community.php",
 	"engelskirchen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/42/format/ffapi",
 	"erfurt" : "https://api.erfurt.freifunk.net/freifunk-api.json",
-	"erzgebirge" : "http://wotan.cc/fferz.json",
+	"schwarzenberg" : "http://wotan.cc/fferz.json",
 	"erlangen" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/erlangen.json",
 	"essen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/essen.json",
 	"essingen" : "http://www.freifunk-essingen.de/wp-content/uploads/FreifunkEssingen-api.json",
