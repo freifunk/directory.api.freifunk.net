@@ -341,7 +341,6 @@
 	"waldshut" : "https://map.freifunk-3laendereck.net/api/community.php?city=Waldshut&country=DE&community=ff3l-wtk",
 	"wallbach" : "https://map.freifunk-3laendereck.net/api/community.php?city=Wallbach&country=DE&community=ff3l-hoho",
 	"waren-mueritz" : "http://map.4830.org/mueritz/Waren_Mueritz_-api.json",
-	"warendorf" : "https://raw.githubusercontent.com/ffmus/ffapi/master/warendorf.json",
 	"warmbach" : "https://map.freifunk-3laendereck.net/api/community.php?city=Warmbach&country=DE&community=ff3l-hoho",
 	"warstein" : "http://map.freifunk-moehne.de/api/warstein.json",
 	"weg" : "https://map.freifunk-3laendereck.net/api/community.php?city=Weg&country=DE&community=ff3l-wald",
