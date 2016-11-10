@@ -313,7 +313,7 @@
 	"straelen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/straelen.json",
 	"strittmatt" : "https://map.freifunk-3laendereck.net/api/community.php?city=Strittmatt&country=DE&community=ff3l-hoho",
 	"stuehlingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=St%C3%BChlingen&country=DE&community=ff3l-wald",
-	"stuttgart" : "http://gw01.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
+	"stuttgart" : "https://netinfo.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
 	"suhl" : "https://freifunk-suhl.de/content/api/FreifunkSuhl-api.json",
 	"sundern" : "http://map.freifunk-moehne.de/images/sundern/sundern-api.json",
 	"sundhausen" : "http://www.evernet-eg.de/evernet.json",
