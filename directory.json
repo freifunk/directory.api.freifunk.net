@@ -157,7 +157,7 @@
 	"kassel" : "http://api.ffks.de/api.json",
 	"kavelstorf" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-kavelstorf.json",
 	"kempen" : "http://www.freifunk-kempen.net/ff-kk-api.json",
-	"kiel" : "http://map.freifunk.in-kiel.de/json/ffapi.json",
+	"kiel" : "https://raw.githubusercontent.com/freifunk-kiel/ffki-api/master/FreifunkKiel-api.json",
 	"kitzingen" : "http://freifunk-kitzingen.de/Kitzingen-api.json",
 	"klein-basel" : "https://map.freifunk-3laendereck.net/api/community.php?city=Klein-Basel&country=CH&community=ff3l-3land",
 	"kleinhueningen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Kleinh%C3%BCningen&country=CH&community=ff3l-3land",
