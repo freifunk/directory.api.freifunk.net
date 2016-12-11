@@ -4,6 +4,7 @@
 	"altdorf" : "https://raw.githubusercontent.com/tecff/freifunk.net-API/master/altdorf.freifunk.net.json",
 	"altena" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/altena.json",
 	"alzey" : "http://svc.freifunk-weinstrasse.de/FreifunkAlzey-api.json",
+	"ambergsulzbach" : "https://www.ambergsulzbach-freifunk.de/AmbergSulzbach-api.json",
 	"ansbach" : "https://netmon.freifunk-ansbach.de/api/community.php",
 	"arnsberg" : "http://map.freifunk-moehne.de/images/arnsberg/arnsberg-api.json",
 	"aschaffenburg": "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/aschaffenburg.json",
