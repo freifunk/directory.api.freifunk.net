@@ -360,7 +360,6 @@
 	"wehr" : "https://map.freifunk-3laendereck.net/api/community.php?city=Wehr&country=DE&community=ff3l-hoho",
 	"weil-am-rhein" : "https://map.freifunk-3laendereck.net/api/community.php?city=Weil+am+Rhein&country=DE&community=ff3l-3land",
 	"weimarnetz" : "http://weimarnetz.de/weimarnetz.json",
-	"weingarten" : "https://raw.githubusercontent.com/ffbsee/api/master/ffweingarten.json",
 	"weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
 	"werl" : "http://map.freifunk-moehne.de/api/werl.json",
 	"wermelskirchen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/3/format/ffapi",
