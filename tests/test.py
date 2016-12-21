@@ -53,7 +53,10 @@ def read_url(url, queue):
         print(e)
         queue.put(url)
     except KeyError as e:
-        print('Invalid or unknown API version %s: %s' % (api_content['api'], url))
+        if api_content['api']:
+                print('Invalid or unknown API version %s: %s' % (api_content['api'], url))
+        else:
+                print('Invalid or unknown API version: %s' % (url))
         queue.put(url)
 #    else:
 #        print 'OK %s: %s' % (api_content['api'], url)
