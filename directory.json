@@ -240,7 +240,7 @@
 	"neunkirchen-seelscheid" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/neunkirchen.json",
 	"neuss" : "http://www.freifunk-neuss.de/api/neuss.json",
 	"neustadt-aisch" : "https://netmon.freifunk-neustadt-aisch.de/api/community.php",
-	"neustadt-weinstrasse" : "http://svc.freifunk-weinstrasse.de/FreifunkNeustadtWS-api.json",
+	"neustadt-weinstrasse" : "https://services.freifunk-suedwest.de/ffapi/FreifunkWeinstrasse-api.json",
 	"neuwied" : "https://freifunk-westerwald.de/api_neuwied.json",
 	"niedergebisbach" : "https://map.freifunk-3laendereck.net/api/community.php?city=Niedergebisbach&country=DE&community=ff3l-hoho",
 	"niederwihl" : "https://map.freifunk-3laendereck.net/api/community.php?city=Niederwihl&country=DE&community=ff3l-hoho",
