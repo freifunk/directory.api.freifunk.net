@@ -291,6 +291,7 @@
 	"roebel-mueritz" : "http://map.4830.org/mueritz/Roebel_Mueritz-api.json",
 	"rosswein" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkRosswein-api.json",
 	"rostock" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-rostock.json",
+	"rotenburg" : "https://www.freifunk-rotenburg.de/rotenburg-api.json",
 	"rothenburg" : "http://freifunk-rothenburg.de/rothenburg.json",
 	"ruppichteroth" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/ruppichteroth.json",
 	"saarbruecken" : "https://mgmt.saar.freifunk.net/data/api-saarbruecken.json",
