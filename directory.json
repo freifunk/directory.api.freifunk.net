@@ -270,6 +270,7 @@
 	"plauen" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-PL.json",
 	"ploen" : "https://mesh.nord.freifunk.net/nord-community-api/ploen-api.json",
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
+	"prignitz" : "http://www.freifunk-prignitz.de/ffapi.json",
 	"pulheim" : "http://api.freifunk-rhein-erft.de/FreifunkRhein-Erft-api.json",
 	"radevormwald" : "http://api.freifunk-radevormwald.de/ffrade-api.json",
 	"raesfeld" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/raesfeld.json",
