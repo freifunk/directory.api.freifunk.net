@@ -158,6 +158,7 @@
 	"iserlohn" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/iserlohn.json",
 	"jena" : "https://freifunk-jena.de/jena.json",
 	"juechen" : "http://api.freifunk-juechen.de/api.json",
+	"kaliningrad" : "http://www.meshbox.ru/Kaliningrad-api.json",
 	"karlsruhe" : "https://karlsruhe.freifunk.net/ffka.json",
 	"kassel" : "http://api.ffks.de/api.json",
 	"kavelstorf" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-kavelstorf.json",
