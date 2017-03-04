@@ -318,6 +318,7 @@
 	"selm" : "http://www.freifunk-selm.de/api/FreifunkSelm-api.json",
 	"siegen" : "https://raw.githubusercontent.com/Freifunk-Siegerland/ff-api/master/siegen.json",
 	"siegburg" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/siegburg.json",
+	"slfl" : "http://schleswig-flensburg.freifunk.net/slfl-api.json",
 	"soest" : "http://map.freifunk-moehne.de/api/soest.json",
 	"solingen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/34/format/ffapi",
 	"sprockhoevel" : "https://map.ff-en.de/ffapi/sprockhoevel.json",
