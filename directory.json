@@ -288,6 +288,7 @@
 	"rheinfelden-ch" : "https://map.freifunk-3laendereck.net/api/community.php?city=Rheinfelden&country=CH&community=ff3l-hoho",
 	"rheinfelden-de" : "https://map.freifunk-3laendereck.net/api/community.php?city=Rheinfelden&country=DE&community=ff3l-hoho",
 	"rheinbach" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/rheinbach.json",
+	"rheinberg" : "http://freifunk-rheinberg.de/FreifunkRheinberg-api.json",
 	"riedern-am-wald" : "https://map.freifunk-3laendereck.net/api/community.php?city=Riedern+am+Wald&country=DE&community=ff3l-wald",
 	"rodewisch" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-RDW.json",
 	"roebel-mueritz" : "http://map.4830.org/mueritz/Roebel_Mueritz-api.json",
