@@ -388,6 +388,7 @@
 	"wipperfuerth" : "https://nodeapi.vfn-nrw.de/index.php/get/community/30/format/ffapi",
 	"wismar" : "http://www.opennet-initiative.de/freifunk/api.freifunk.net-wismar.json",
 	"witten" : "https://map.ff-en.de/ffapi/witten.json",
+	"wetzlar" : "https://freifunk-wetzlar.de/ffwz-api.json",
 	"wittmund" : "http://dev.ffnw.de/api_files/Freifunk-Wittmund-Api.json",
 	"wokern" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-wokern.json",
 	"wuerzburg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/wuerzburg.json",
