@@ -198,7 +198,7 @@
 	"luedenscheid" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/luedenscheid.json",
 	"lueneburg" : "http://freifunk-lueneburg.de/lueneburg.json",
 	"luenen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/luenen.json",
-	"lohmar" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/lohmar.json",
+	"lohmar" : "http://freifunk-lohmar.de/api.json",
 	"luxembourg" : "https://api.freifunk.lu/",
 	"parchim" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-parchim.json",
 	"potrems" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-potrems.json",
