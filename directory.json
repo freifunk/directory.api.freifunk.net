@@ -119,6 +119,7 @@
 	"guennetsmaettle" : "https://map.freifunk-3laendereck.net/api/community.php?city=G%C3%BCnnetsm%C3%A4ttle&country=DE&community=ff3l-hoho",
 	"guetersloh" : "https://stats.guetersloh.freifunk.net/ffgt-api.json",
 	"gummersbach" : "https://nodeapi.vfn-nrw.de/index.php/get/community/43/format/ffapi",
+	"haan" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Haan-api.json",
 	"hagen" : "http://freifunk-hagen.de/hagen-api.json",
 	"halle" : "http://www.freifunk-halle.net/freifunk-api.json",
 	"halle_westfalen" : "https://stats.guetersloh.freifunk.net/ffapi-Halle.json",
