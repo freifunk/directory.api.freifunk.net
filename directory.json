@@ -124,6 +124,7 @@
 	"halle" : "http://www.freifunk-halle.net/freifunk-api.json",
 	"halle_westfalen" : "https://stats.guetersloh.freifunk.net/ffapi-Halle.json",
 	"hamburg" : "https://meta.hamburg.freifunk.net/ffhh.json",
+	"hameln" : "http://freifunk-hameln.de/hameln.json",
 	"hamm" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/hamm.json",
 	"hannover" : "http://hannover.freifunk.net/api/hannover-api.json",
 	"harpolingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Harpolingen&country=DE&community=ff3l-hoho",
