@@ -257,6 +257,7 @@
 	"nordheide" : "https://mesh.nord.freifunk.net/nord-community-api/nordheide-api.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"oberhausen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/oberhausen.json",
+	"oberlausitz" : "https://raw.githubusercontent.com/ff-oberlausitz/api/master/oberlausitz.freifunk.net.json",
 	"obernkirchen" : "http://freifunk-obernkirchen.de/FreifunkObernkirchen-api.json",
 	"odenthal" : "http://api.gl.wupper.freifunk-rheinland.net/ode.json",
 	"oelsnitz_vogtland" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-OEL.json",
