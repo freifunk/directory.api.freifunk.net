@@ -233,7 +233,7 @@
 	"much" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/much.json",
 	"muelheim" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/muelheim.json",
 	"muenchen" : "https://raw.githubusercontent.com/freifunkMUC/freifunk.net-API/master/freifunk.net.json",
-	"muenden" : "http://meta.ffhmue.de/muenden.json",
+	"muenden" : "https://freifunk-muenden.de/ffapi/muenden.json",
 	"muensterland" : "https://freifunk-muensterland.de/freifunk/ffapi.json",
 	"murg" : "https://map.freifunk-3laendereck.net/api/community.php?city=Murg&country=DE&community=ff3l-hoho",
 	"mutschellen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Mutschellen&country=CH&community=ff3l",
