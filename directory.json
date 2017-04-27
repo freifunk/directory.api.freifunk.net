@@ -157,6 +157,7 @@
 	"ingolstadt" : "https://freifunk-ingolstadt.de/ffapi.json",
 	"innsbruck" : "https://www.freifunk-innsbruck.at/innsbruck.json",
 	"ippensen" : "http://ippensen-freifunk.net/FreifunkIppensen-api.json",
+	"ireland" : "http://www.freemesh.ie/api.json",
 	"iserlohn" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/iserlohn.json",
 	"jena" : "https://freifunk-jena.de/jena.json",
 	"juechen" : "http://api.freifunk-juechen.de/api.json",
