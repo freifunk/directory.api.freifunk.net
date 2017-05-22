@@ -379,6 +379,7 @@
 	"wernigerode" : "https://harz.freifunk.net/api.wr.json",
 	"wesel" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/wesel.json",
 	"wetter" : "https://map.ff-en.de/ffapi/wetter.json",
+	"wetzlar" : "https://freifunk-wetzlar.json",
 	"kaiserslautern" : "https://api.freifunk-westpfalz.de/FreifunkWestpfalz-api.json",
 	"weyher" : "https://services.freifunk-suedwest.de/ffapi/FreifunkWeyher-api.json",
 	"widum" : "https://map.freifunk-3laendereck.net/api/community.php?city=Widum&country=CH&community=ff3l",
