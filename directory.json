@@ -265,7 +265,7 @@
 	"oelsnitz_vogtland" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-OEL.json",
 	"offenbach/queich" : "http://freifunk-suedpfalz.de/FreifunkSuedpfalz-offenbach-api.json",
 	"offenburg" : "https://ortenau.freifunk.net/ffortenau-api.json",
-	"oldenburg" : "http://dev.ffnw.de/api_files/Freifunk-Oldenburg-Api.json",
+	"oldenburg" : "https://dev.ffnw.de/api_files/Freifunk-Oldenburg-Api.json",
 	"oschatz": "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkOschatz-api.json",
 	"osnabrueck" : "http://dev.ffnw.de/api_files/Freifunk-Osnabrueck-Api.json",
 	"overath" : "http://api.gl.wupper.freifunk-rheinland.net/ovr.json",
