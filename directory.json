@@ -308,6 +308,7 @@
 	"salzwedel" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
 	"sanktaugustin" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/sankt-augustin.json",
 	"schleswig" : "https://nord.freifunk.net/api/schleswig-api.json",
+	"schloss-holte-stukenbrock" : "https://raw.githubusercontent.com/freifunk-shs/ff-api/master/shs.json",
 	"schmitzingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Schmitzingen&country=DE&community=ff3l-ref",
 	"schoeneck" : "http://storage.freifunk-vogtland.net/ffapi-schoeneck.json",
 	"schoeningen" : "http://freifunk-elm-lappwald.de/api/schoeningen.json",
