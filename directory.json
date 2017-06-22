@@ -249,6 +249,7 @@
 	"neuenrade" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/neuenrade.json",
 	"neuensalz" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-NSZ.json",
 	"neukirchen-vluyn" : "http://freifunk-nv.de/ff-api/neukirchen-vluyn.json",
+	"neumark" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-NMK.json",
 	"neumuenster" : "https://nord.freifunk.net/api/neumuenster-api.json",
 	"neunkirchen" : "https://mgmt.saar.freifunk.net/data/api-neunkirchen.json",
 	"neunkirchen-seelscheid" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/neunkirchen.json",
