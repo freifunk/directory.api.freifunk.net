@@ -309,7 +309,7 @@
 	"sanktaugustin" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/sankt-augustin.json",
 	"schleswig" : "https://nord.freifunk.net/api/schleswig-api.json",
 	"schmitzingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Schmitzingen&country=DE&community=ff3l-ref",
-	"schoeneck" : "http://storage.freifunk-vogtland.net/ffapi-schoeneck.json",
+	"schoeneck" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-S.json",
 	"schoeningen" : "http://freifunk-elm-lappwald.de/api/schoeningen.json",
 	"schoenau-im-schwarzwald" : "https://map.freifunk-3laendereck.net/api/community.php?city=Sch%C3%B6nau+im+Schwarzwald&country=DE&community=ff3l-wiese",
 	"schoeppenstedt" : "http://freifunk-elm-lappwald.de/api/schoeppenstedt.json",
