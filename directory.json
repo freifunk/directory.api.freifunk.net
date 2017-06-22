@@ -279,6 +279,7 @@
 	"pinneberg" : "https://pinneberg.freifunk.net/ffapi.json",
 	"plauen" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-PL.json",
 	"ploen" : "https://nord.freifunk.net/api/ploen-api.json",
+	"poehl" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-POE.json",
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
 	"pulheim" : "http://api.freifunk-rhein-erft.de/FreifunkRhein-Erft-api.json",
 	"radevormwald" : "http://api.freifunk-radevormwald.de/ffrade-api.json",
