@@ -247,6 +247,7 @@
 	"neuenburg-am-rhein" : "https://map.freifunk-3laendereck.net/api/community.php?city=Neuenburg+am+Rhein&country=DE&community=ff3l-loe",
 	"neuendettelsau" : "https://netmon.freifunk-neuendettelsau.de/api/community.php",
 	"neuenrade" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/neuenrade.json",
+	"neuensalz" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-NSZ.json",
 	"neukirchen-vluyn" : "http://freifunk-nv.de/ff-api/neukirchen-vluyn.json",
 	"neumuenster" : "https://nord.freifunk.net/api/neumuenster-api.json",
 	"neunkirchen" : "https://mgmt.saar.freifunk.net/data/api-neunkirchen.json",
