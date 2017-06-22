@@ -136,6 +136,7 @@
 	"hattingen" : "https://map.ff-en.de/ffapi/hattingen.json",
 	"heiligenhaus" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Heiligenhaus-api.json",
 	"heilsbronn": "https://netmon.freifunk-heilsbronn.de/api/community.php",
+	"heinsdorfergrund" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-HDG.json",
 	"helgoland" : "https://meta.helgoland.freifunk.net/Helgoland-api.json",
 	"helmstedt" : "http://freifunk-elm-lappwald.de/api/helmstedt.json",
 	"hemer": "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/hemer.json",
