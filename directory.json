@@ -335,6 +335,7 @@
 	"sprockhoevel" : "https://map.ff-en.de/ffapi/sprockhoevel.json",
 	"st-wendel" : "https://mgmt.saar.freifunk.net/data/api-st-wendel.json",
 	"stade" : "https://nord.freifunk.net/api/stade-api.json",
+	"steinberg" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-SBG.json",
 	"steinburg" : "https://nord.freifunk.net/api/steinburg-api.json",
 	"steinen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Steinen&country=DE&community=ff3l-wiese",
 	"stetten" : "https://map.freifunk-3laendereck.net/api/community.php?city=Stetten&country=DE&community=ff3l-loe",
