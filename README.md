@@ -24,6 +24,17 @@ Die Freifunk API soll die Metadaten der Communities dezentral sammeln und andere
 
 Weitere Informationen zur API sind in einem Blogartikel unter http://blog.freifunk.net/2013/die-neue-freifunk-api-aufruf-zum-mitmachen zusammengefasst.
 
+Qualitätssicherung
+==================
+
+* Die API-Datei sollten mit dem [API-Generator](http://freifunk.net/api-generator/) erstellt bzw. validiert worden sein.
+* Eine Community muss immer ortsbezogen sein. Ist eine Community überregional oder in mehreren Orten aktiv müssen für die verschiedenen Städte und Ortschaften mehrere Einträge erstellt werden. Um deutlich zu machen, das diese Ortgruppen zusammen gehören sollte im Feld `metacommunity` ein gemeinsamer Namen eingetragen werden. Alternativ kann der Communityname auch in allen Orten identisch sein.
+* Jede Community muss mindestens Kontaktdaten und eine Möglichkeit zur Teilnahme bereitstellen. Je mehr Daten desto besser.
+* Eine Freifunk-Community besteht aus einer Gruppe von min. 2-3 Personen, die auch bereits einige Freifunk-Knoten vor Ort betreibten.
+* Die Dateien müssen UTF8 codiert sein und so auch vom [Webserver ausgeliefert](http://serverfault.com/questions/581760/how-do-i-set-proper-headers-for-json-in-apache) werden.
+* Die API-Datei sollte möglichst aktuell gehalten werden. Stark veraltete oder ungültige Dateien werden nach Rückfrage wieder entfernt. 
+* Damit die API-Dateien verarbeitet werden können müssen diese in der [`directory.json`](directory.json) eingetragen werden.
+
 History
 =======
 
