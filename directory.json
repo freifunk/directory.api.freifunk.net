@@ -40,7 +40,7 @@
 	"bochum" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/bochum.json",
 	"boenen" : "https://raw.githubusercontent.com/hohlkl/FF_Boenen/master/B%C3%B6nen%2CeineGemeindevernetztsich!-api.json",
 	"bonn" : "https://kbu.freifunk.net/api/bonn.json",
-	"borken" : "http://ff-bor-api.hellmann.me/FreifunkBorken-api.json",
+	"borken" : "https://api.ff-bor.de/api.json",
 	"bottrop" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/bottrop.json",
 	"brakel" : "https://api.ffho.net/ffapi-bkk.json",
 	"brandenburg" : "https://freifunk-brandenburg.de/api/brandenburg.json",
