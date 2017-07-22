@@ -364,7 +364,6 @@
 	"suhl" : "https://freifunk-suhl.de/content/api/FreifunkSuhl-api.json",
 	"sundern" : "http://map.freifunk-moehne.de/images/sundern/sundern-api.json",
 	"sundhausen" : "http://www.evernet-eg.de/evernet.json",
-	"tarp" : "http://api.ffslfl.net/oeversee-api.json",
 	"sylt" : "https://nord.freifunk.net/api/sylt-api.json",
 	"tettnang" : "http://www.freifunk-tettnang.de/FreifunkTettnang-api.json",
 	"thale" : "http://harz.freifunk.net/api.thale.json",
