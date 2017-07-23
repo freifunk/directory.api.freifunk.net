@@ -90,7 +90,7 @@
 	"essen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/essen.json",
 	"essingen" : "http://www.freifunk-essingen.de/wp-content/uploads/FreifunkEssingen-api.json",
 	"eschweiler" : "https://www.freifunk-eschweiler.de/ffesc.json",
-	"euskirchen" : "http://freifunk-euskirchen.de/ffapi.json",
+	"euskirchen" : "https://ffeu.de/ffapi.json",
 	"falkenstein" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-FST.json",
 	"flensburg" : "http://freifunk-flensburg.de/api/api.json",
 	"forchheim" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/forchheim.json",
