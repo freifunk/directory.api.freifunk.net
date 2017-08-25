@@ -317,6 +317,7 @@
 	"riedern-am-wald" : "https://map.freifunk-3laendereck.net/api/community.php?city=Riedern+am+Wald&country=DE&community=ff3l-wald",
 	"rodewisch" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-RDW.json",
 	"roebel-mueritz" : "http://map.4830.org/mueritz/Roebel_Mueritz-api.json",
+	"rosbach" : "https://www.freifunk-rosbach.de/ffapi/ffrosbach.json",
 	"rosswein" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkRosswein-api.json",
 	"rostock" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-rostock.json",
 	"rotenburg" : "https://www.freifunk-rotenburg.de/rotenburg-api.json",
