@@ -412,6 +412,7 @@
 	"wiesenburg" : "http://wiki.freifunk.net/images/7/79/Wiesenburg_freifunk_api.json",
 	"wilhelmshaven" : "http://dev.ffnw.de/api_files/Freifunk-Wilhelmshaven-Api.json",
 	"willich" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/willich.json",
+	"winterbach" : "https://services.freifunk-suedwest.de/ffapi/FreifunkWinterbach-api.json",
 	"winterberg" : "http://map.freifunk-winterberg.net/api/winterberg.json",
 	"winsen" : "http://freifunk.winsener.net/pub/FreifunkWinsen-api.json",
 	"wipperfuerth" : "https://nodeapi.vfn-nrw.de/index.php/get/community/30/format/ffapi",
