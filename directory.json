@@ -75,6 +75,7 @@
 	"dueren" : "https://wiki.freifunk.net/images/6/69/Dnffapi.json",
 	"duesseldorf" : "https://freifunk-duesseldorf.de/api.json",
 	"duisburg" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/duisburg.json",
+	"ebermannstadt" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/ebermannstadt.json",
 	"eberswalde" : "http://ewifi.de/FreifunkEberswalde-api.json",
 	"efringen-kirchen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Efringen-Kirchen&country=DE&community=ff3l-loe",
 	"eggerbach" : "https://wiki.freifunk.net/images/9/9f/FreifunkEggerbach-api.json",
