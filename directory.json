@@ -402,7 +402,7 @@
 	"weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
 	"werl" : "http://map.freifunk-moehne.de/api/werl.json",
 	"wermelskirchen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/3/format/ffapi",
-	"werne" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/werne.json",
+	"werne" : "https://raw.githubusercontent.com/ffdo/ffapi/master/werne.json",
 	"wernigerode" : "https://harz.freifunk.net/api.wr.json",
 	"wesel" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/wesel.json",
 	"wetter" : "https://map.ff-en.de/ffapi/wetter.json",
