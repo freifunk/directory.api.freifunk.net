@@ -110,6 +110,7 @@
 	"gera" : "http://freifunk-gera-greiz.de/FreifunkGera-api.json",
 	"geroldshofstetten" : "https://map.freifunk-3laendereck.net/api/community.php?city=Geroldshofstetten&country=DE&community=ff3l-wald",
 	"gevelsberg" : "https://map.ff-en.de/ffapi/gevelsberg.json",
+	"giessen" : "http://freifunk-giessen.de/ffgi-api.json",
 	"gladbeck" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/gladbeck.json",
 	"gluecksburg" : "http://api.ffslfl.net/gluecksburg-api.json",
 	"goeldenitz" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-goeldenitz.json",
