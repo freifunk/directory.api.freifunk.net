@@ -298,7 +298,7 @@
 	"ploen" : "https://nord.freifunk.net/api/ploen-api.json",
 	"poehl" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-POE.json",
 	"potsdam" : "http://freifunk-potsdam.de/ffapi.json",
-	"ptawug-gh" : "http://shock.li/PTAWUG-GH-api.json",
+	"ptawug-gh" : "http://shock.li/ptawug-gh.json",
 	"pulheim" : "http://api.freifunk-rhein-erft.de/FreifunkRhein-Erft-api.json",
 	"radevormwald" : "http://api.freifunk-radevormwald.de/ffrade-api.json",
 	"raesfeld" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/raesfeld.json",
