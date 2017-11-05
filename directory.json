@@ -33,6 +33,7 @@
 	"bestwig" : "http://freifunk-bestwig.de/api/freifunk-api_json_wrapper.php",
 	"bettingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Bettingen&country=CH&community=ff3l-3land",
 	"beuggen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Beuggen&country=DE&community=ff3l-ref",
+	"beuren" : "http://eagleei.de/Freifunk/freifunk-beuren-api.json",
 	"bielefeld" : "http://freifunk-bielefeld.de/freifunk/ffapi.json",
 	"biggesee" : "http://www.freifunk-biggesee.de/wp-content/uploads/FreifunkBiggesee-api.json",
 	"bingen" : "https://www.freifunk-bingen.de/ffapi.json",
