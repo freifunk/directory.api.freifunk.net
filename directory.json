@@ -95,7 +95,7 @@
 	"falkenstein" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-FST.json",
 	"flensburg" : "http://freifunk-flensburg.de/api/api.json",
 	"forchheim" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/forchheim.json",
-	"frankenberg" : "https://api.freifunk-fkb.de/FreifunkFrankenberg-api.json",
+	"frankenberg" : "http://download.freifunk-fkb.de/api/FreifunkFrankenberg-api.json",
 	"frankfurt_am_main" : "https://api.ffm.freifunk.net/ff-frankfurt.json",
 	"freiburg" : "https://freiburg.freifunk.net/API-File",
 	"friedrichshafen" : "https://raw.githubusercontent.com/ffbsee/api/master/fffriedrichshafen.json",
