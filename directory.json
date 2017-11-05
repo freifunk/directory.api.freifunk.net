@@ -294,6 +294,7 @@
 	"quedlinburg" : "http://harz.freifunk.net/api.qlb.json",
 	"paderborn" : "https://api.ffho.net/ffapi-pad.json",
 	"pinneberg" : "https://pinneberg.freifunk.net/ffapi.json",
+	"plank-am-kamp" : "https://support.surf-kamptal.at/Surf.Kamptal-api.json",
 	"plauen" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-PL.json",
 	"ploen" : "https://nord.freifunk.net/api/ploen-api.json",
 	"poehl" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-POE.json",
