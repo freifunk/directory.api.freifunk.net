@@ -258,7 +258,7 @@
 	"muelheim an der ruhr" : "https://fapi.peer-hosting.de/api/FreifunkM%C3%BClheimanderRuhr-api.json",
 	"muenchen" : "https://raw.githubusercontent.com/freifunkMUC/freifunk.net-API/master/freifunk.net.json",
 	"muenden" : "https://freifunk-muenden.de/ffapi/muenden.json",
-	"muenster" : "https://freifunk-muensterland.de/freifunk/ffapi.json",
+	"muenster" : "https://karte.freifunk-muensterland.de/data/ffapi.json",
 	"murg" : "https://map.freifunk-3laendereck.net/api/community.php?city=Murg&country=DE&community=ff3l-hoho",
 	"mutschellen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Mutschellen&country=CH&community=ff3l",
 	"nettetal" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/nettetal.json",
