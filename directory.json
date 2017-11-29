@@ -12,7 +12,7 @@
 	"auerbach": "https://vpn01.freifunk-vogtland.net/ffv/ffapi-AE.json",
 	"augsburg": "http://www.wgaugsburg.de/ffapi/ffapi.json",
 	"badelster" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-BE.json",
-	"badgandersheim" : "http://argarh.de/ffgan/FreifunkBadGandersheim-api.json",
+	"badgandersheim" : "https://wiki.freifunk.net/images/8/84/FreifunkBadGandersheim-api.json",
 	"badoeynhausen" : "http://www.freifunk-badoeynhausen.de/ffapi/FreifunkBadOeynhausen-api.json",
 	"badoldesloe" : "https://raw.githubusercontent.com/ffod/api/master/badoldesloe.json",
 	"badreichenhall" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/badreichenhall.json",
