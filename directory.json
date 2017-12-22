@@ -101,6 +101,7 @@
 	"frankenberg" : "http://download.freifunk-fkb.de/api/FreifunkFrankenberg-api.json",
 	"frankfurt_am_main" : "https://api.ffm.freifunk.net/ff-frankfurt.json",
 	"freiburg" : "https://freiburg.freifunk.net/API-File",
+	"villingen-schwenningen" : "http://freifunk-vs.bplaced.net/Freifunk-VS-api.json",
 	"friedrichshafen" : "https://raw.githubusercontent.com/ffbsee/api/master/fffriedrichshafen.json",
 	"freudenberg" : "https://raw.githubusercontent.com/Freifunk-Siegerland/ff-api/master/freudenberg.json",
 	"fuerth" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/fuerth.json",
