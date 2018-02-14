@@ -293,7 +293,7 @@
 	"offenburg" : "https://ortenau.freifunk.net/ffortenau-api.json",
 	"oldenburg" : "https://dev.ffnw.de/api_files/Freifunk-Oldenburg-Api.json",
 	"oschatz": "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkOschatz-api.json",
-	"osnabrueck" : "http://dev.ffnw.de/api_files/Freifunk-Osnabrueck-Api.json",
+	"osnabrueck" : "https://dev.ffnw.de/api_files/Freifunk-Osnabrueck-Api.json",
 	"overath" : "http://api.gl.wupper.freifunk-rheinland.net/ovr.json",
 	"quedlinburg" : "http://harz.freifunk.net/api.qlb.json",
 	"paderborn" : "https://api.ffho.net/ffapi-pad.json",
