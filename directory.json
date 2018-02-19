@@ -245,7 +245,7 @@
 	"merzig-wadern" : "https://mgmt.saar.freifunk.net/data/api-merzig-wadern.json",
 	"meschede" : "http://www.freifunk-meschede.net/FreifunkMeschede-api.json",
 	"meckenheim" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/meckenheim.json",
-	"mettmann" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/MMettmann-api.json",
+	"mettmann" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Mettmann-api.json",
 	"michelbach-le-haut" : "https://map.freifunk-3laendereck.net/api/community.php?city=Michelbach-le-Haut&country=FR&community=ff3l-3land",
 	"minden" : "http://www.freifunk-minden.de/api.json",
 	"mittelangeln" : "http://api.ffslfl.net/mittelangeln-api.json",
