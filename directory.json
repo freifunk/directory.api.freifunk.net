@@ -374,7 +374,7 @@
 	"sundhausen" : "http://www.evernet-eg.de/evernet.json",
 	"tarp" : "http://api.ffslfl.net/oeversee-api.json",
 	"sylt" : "https://nord.freifunk.net/api/sylt-api.json",
-	"tettnang" : "http://www.freifunk-tettnang.de/FreifunkTettnang-api.json",
+	"tettnang" : "https://raw.githubusercontent.com/ffbsee/api/master/freifunk-tettnang.json",
 	"thale" : "http://harz.freifunk.net/api.thale.json",
 	"todtmoos" : "https://map.freifunk-3laendereck.net/api/community.php?city=Todtmoos&country=DE&community=ff3l-wald",
 	"tressow" : "http://map.4830.org/mueritz/Tressow-api.json",
