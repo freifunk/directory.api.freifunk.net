@@ -133,7 +133,7 @@
 	"gummersbach" : "https://nodeapi.vfn-nrw.de/index.php/get/community/43/format/ffapi",
 	"haddeby" : "http://api.ffslfl.net/haddeby-api.json",
 	"haan" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Haan-api.json",
-	"hagen" : "http://freifunk-hagen.de/hagen-api.json",
+	"hagen" : "https://freifunk-hagen.net/hagen-api.json",
 	"halle" : "http://www.freifunk-halle.net/freifunk-api.json",
 	"halle_westfalen" : "https://stats.guetersloh.freifunk.net/ffapi-Halle.json",
 	"hamburg" : "https://meta.hamburg.freifunk.net/ffhh.json",
