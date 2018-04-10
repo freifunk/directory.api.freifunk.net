@@ -61,7 +61,7 @@
 	"cottbus" : "https://freifunk-cottbus.de/FreifunkCottbus-api.json",
 	"crailsheim": "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/crailsheim.json",
 	"cuxhaven": "https://nord.freifunk.net/api/cuxhaven-api.json",
-	"darmstadt" : "https://api.darmstadt.freifunk.net/ffapi.json",
+	"darmstadt" : "https://darmstadt.freifunk.net/ffapi.json",
 	"datteln" : "https://freifunk-ostvest.de/FreifunkOstvest-api.json",
 	"detmold": "http://service.freifunk-lippe.de/freifunk/ffapi_dt.json",
 	"dillingen" : "http://freifunk-saar.de/ffs.json",
