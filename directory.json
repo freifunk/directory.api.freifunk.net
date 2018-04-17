@@ -216,6 +216,7 @@
 	"limburg" : "http://api.freifunk-limburg.de/",
 	"lindau" : "https://raw.githubusercontent.com/ffbsee/api/master/fflindau.json",
 	"lindlar" : "https://nodeapi.vfn-nrw.de/index.php/get/community/40/format/ffapi",
+	"lingen" : "https://freifunk-lingen.de/api.json",
 	"loerrach" : "https://map.freifunk-3laendereck.net/api/community.php?city=Loerrach&country=DE&community=ff3l-loe",
 	"ludwigslust" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-ludwigslust.json",
 	"luebeck" : "http://luebeck.freifunk.net/ffapi.json",
