@@ -175,7 +175,6 @@
 	"ippensen" : "http://ippensen-freifunk.net/FreifunkIppensen-api.json",
 	"iserlohn" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/iserlohn.json",
 	"jena" : "https://freifunk-jena.de/jena.json",
-	"juechen" : "http://api.freifunk-juechen.de/api.json",
 	"kappeln" : "http://api.ffslfl.net/kappeln-api.json",
 	"kappeln-land" : "http://api.ffslfl.net/kappeln-land-api.json",
 	"kalletal": "http://update.freifunk-nordlippe.de/ffapi_kalletal.json",
