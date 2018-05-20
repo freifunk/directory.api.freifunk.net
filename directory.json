@@ -325,6 +325,7 @@
 	"rodewisch" : "https://mapdata.freifunk-vogtland.net/ffapi-RDW.json",
 	"roebel-mueritz" : "http://map.4830.org/mueritz/Roebel_Mueritz-api.json",
 	"rosbach" : "https://www.freifunk-rosbach.de/ffapi/ffrosbach.json",
+	"rosenbach_vogtland" : "https://mapdata.freifunk-vogtland.net/ffapi-RBH.json",
 	"rosswein" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkRosswein-api.json",
 	"rostock" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-rostock.json",
 	"rotenburg" : "https://www.freifunk-rotenburg.de/rotenburg-api.json",
