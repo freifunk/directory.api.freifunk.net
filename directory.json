@@ -211,7 +211,7 @@
 	"leisnig" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkLeisnig-api.json",
 	"lemgo": "http://service.freifunk-lippe.de/freifunk/ffapi_le.json",
 	"lengenfeld_vogtland" : "https://vpn01.freifunk-vogtland.net/ffv/ffapi-LEN.json",
-	"leverkusen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/5/format/ffapi",
+	"leverkusen" : "https://map.fflev.de/data/api.json",
 	"limburg" : "http://api.freifunk-limburg.de/",
 	"lindau" : "https://raw.githubusercontent.com/ffbsee/api/master/fflindau.json",
 	"lindlar" : "https://nodeapi.vfn-nrw.de/index.php/get/community/40/format/ffapi",
