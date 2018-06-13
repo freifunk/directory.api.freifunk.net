@@ -368,7 +368,7 @@
 	"stuttgart" : "https://netinfo.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
 	"suedangeln" : "http://api.ffslfl.net/suedangeln-api.json",
 	"suederbrarup" : "http://api.ffslfl.net/suederbrarup-api.json",
-	"suhl" : "https://freifunk-suhl.de/content/api/FreifunkSuhl-api.json",
+	"suhl" : "http://freifunk-suhl.de/FreifunkSuhl-api.json",
 	"sundern" : "http://map.freifunk-moehne.de/images/sundern/sundern-api.json",
 	"sundhausen" : "http://www.evernet-eg.de/evernet.json",
 	"tarp" : "http://api.ffslfl.net/oeversee-api.json",
