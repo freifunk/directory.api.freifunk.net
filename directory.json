@@ -332,6 +332,7 @@
 	"salzwedel" : "http://feeds.leipzig.freifunk.net/ffapi/altmark.json",
 	"sanktaugustin" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/sankt-augustin.json",
 	"schafflund" : "http://api.ffslfl.net/schafflund-api.json",
+	"schermbeck" : "https://wiki.freifunk.net/images/c/cf/FreifunkSchermbeck-api.json",
 	"schleswig" : "http://api.ffslfl.net/schleswig-api.json",
 	"schmitzingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Schmitzingen&country=DE&community=ff3l-ref",
 	"schoeneck" : "https://mapdata.freifunk-vogtland.net/ffapi-S.json",
