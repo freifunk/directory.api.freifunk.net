@@ -203,7 +203,7 @@
 	"lauenburg" : "https://raw.githubusercontent.com/ffsh/api/master/lauenburg.json",
 	"landau" : "http://freifunk-suedpfalz.de/FreifunkSuedpfalz-landau-api.json",
 	"lauf_an_der_pegnitz" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/lauf_an_der_pegnitz.json",
-	"leer" : "http://www.leeraner-freifunk.de/LeeranerFreifunk-api.json",
+	"leer" : "https://www.leeraner-freifunk.de/LeeranerFreifunk-api.json",
 	"leichlingen" : "http://freifunk-leichlingen.net/api.json",
 	"leipzig" : "http://feeds.leipzig.freifunk.net/ffapi/leipzig.json",
 	"leisnig" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkLeisnig-api.json",
