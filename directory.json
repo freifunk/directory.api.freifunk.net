@@ -37,6 +37,7 @@
 	"bingen" : "https://www.freifunk-bingen.de/ffapi.json",
 	"binningen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Binningen&country=CH&community=ff3l-3land",
 	"bochum" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/bochum.json",
+	"bodman-ludwigshafen" : "https://raw.githubusercontent.com/ffbsee/api/master/bodman-ludwigshafen.json",
 	"boenen" : "https://raw.githubusercontent.com/hohlkl/FF_Boenen/master/B%C3%B6nen%2CeineGemeindevernetztsich!-api.json",
 	"bonn" : "https://kbu.freifunk.net/api/bonn.json",
 	"borken" : "https://api.ff-bor.de/api.json",
