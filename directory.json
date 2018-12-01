@@ -343,7 +343,7 @@
 	"schoeneck" : "https://mapdata.freifunk-vogtland.net/ffapi-S.json",
 	"schoeningen" : "http://freifunk-elm-lappwald.de/api/schoeningen.json",
 	"schoenau-im-schwarzwald" : "https://map.freifunk-3laendereck.net/api/community.php?city=Sch%C3%B6nau+im+Schwarzwald&country=DE&community=ff3l-wiese",
-	"schoeppenstedt" : "http://freifunk-elm-lappwald.de/api/schoeppenstedt.json",
+	"schoeppenstedt" : "http://freifunk-schoeppenstedt.de/api/schoeppenstedt.json",
 	"schopfheim" : "https://map.freifunk-3laendereck.net/api/community.php?city=Schopfheim&country=DE&community=ff3l-wiese",
 	"schwabach" : "https://netmon.freifunk-schwabach.de/api/community.php",
 	"schwarzenberg" : "https://erzgebirge.freifunk.net/fferz.json",
