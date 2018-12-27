@@ -412,6 +412,7 @@
 	"warstein" : "http://map.freifunk-moehne.de/api/warstein.json",
 	"weg" : "https://map.freifunk-3laendereck.net/api/community.php?city=Weg&country=DE&community=wald",
 	"wehr" : "https://map.freifunk-3laendereck.net/api/community.php?city=Wehr&country=DE&community=hoho",
+	"wels" : "http://leto.wels.funkfeuer.at:8080/meshviewer/data/FunkfeuerWels-api.json",
 	"weil-am-rhein" : "https://map.freifunk-3laendereck.net/api/community.php?city=Weil+am+Rhein&country=DE&community=loe",
 	"weimarnetz" : "https://weimarnetz.de/weimarnetz.json",
 	"weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
