@@ -383,6 +383,7 @@
 	"sylt" : "https://nord.freifunk.net/api/sylt-api.json",
 	"tettnang" : "https://raw.githubusercontent.com/ffbsee/api/master/freifunk-tettnang.json",
 	"thale" : "http://harz.freifunk.net/api.thale.json",
+	"timmendorfer_strand" : "https://ostholstein.freifunk.net/timmendorfer-strand-ffapi.json",
 	"todtmoos" : "https://map.freifunk-3laendereck.net/api/community.php?city=Todtmoos&country=DE&community=wald",
 	"tressow" : "http://map.4830.org/mueritz/Tressow-api.json",
 	"treuchtlingen" : "https://netmon.freifunk-treuchtlingen.de/api/community.php",
