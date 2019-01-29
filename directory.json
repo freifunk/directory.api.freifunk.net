@@ -417,6 +417,7 @@
 	"weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
 	"weischlitz" : "https://mapdata.freifunk-vogtland.net/ffapi-WEI.json",
 	"welden" : "https://holzwinkel.freifunk.net/api.holzwinkel.freifunk.net.json",
+	"wels" : "http://leto.wels.funkfeuer.at:8080/meshviewer/data/FunkfeuerWels-api.json",
 	"werl" : "http://map.freifunk-moehne.de/api/werl.json",
 	"wermelskirchen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/3/format/ffapi",
 	"werne" : "https://raw.githubusercontent.com/ffdo/ffapi/master/werne.json",
