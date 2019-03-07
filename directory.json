@@ -322,7 +322,7 @@
 	"rendsburg-eckernfoerde" : "https://nord.freifunk.net/api/rendsburg-eckernfoerde-api.json",
 	"rheinfelden-ch" : "https://map.freifunk-3laendereck.net/api/community.php?city=Rheinfelden&country=CH&community=3land",
 	"rheinfelden-de" : "https://map.freifunk-3laendereck.net/api/community.php?city=Rheinfelden&country=DE&community=rhf",
-	"rheinbach" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/rheinbach.json",
+	"rheinbach" : "https://freifunk-rheinbach.de/freifunk-rheinbach-api.json",
 	"rheinberg" : "http://freifunk-rheinberg.de/FreifunkRheinberg-api.json",
 	"riedern-am-wald" : "https://map.freifunk-3laendereck.net/api/community.php?city=Riedern+am+Wald&country=DE&community=sswo",
 	"rodewisch" : "https://mapdata.freifunk-vogtland.net/ffapi-RDW.json",
