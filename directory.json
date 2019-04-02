@@ -126,7 +126,6 @@
 	"grenzach" : "https://map.freifunk-3laendereck.net/api/community.php?city=Grenzach&country=DE&community=3land",
 	"grimma" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkGrimma-api.json",
 	"groembach" : "https://map.freifunk-3laendereck.net/api/community.php?community=ffng&country=DE&city=Gr%C3%B6mbach",
-	"gronau" : "https://nodeapi.vfn-nrw.de/index.php/get/community/1/format/ffapi",
 	"grossbasel" : "https://map.freifunk-3laendereck.net/api/community.php?city=Grossbasel&country=CH&community=3land",
 	"guennetsmaettle" : "https://map.freifunk-3laendereck.net/api/community.php?city=G%C3%BCnnetsm%C3%A4ttle&country=DE&community=hotz",
 	"guetersloh" : "https://stats.guetersloh.freifunk.net/ffgt-api.json",
