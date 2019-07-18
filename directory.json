@@ -367,7 +367,7 @@
 	"steinberg" : "https://mapdata.freifunk-vogtland.net/ffapi-SBG.json",
 	"steinburg" : "https://nord.freifunk.net/api/steinburg-api.json",
 	"steinen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Steinen&country=DE&community=wiese",
-	"steinhuder-meer" : "https://ff-steinhude.de/FreifunkamSteinhuderMeer-api.json",
+	"steinhude" : "https://ff-steinhude.de/FreifunkamSteinhuderMeer-api.json",
 	"stetten" : "https://map.freifunk-3laendereck.net/api/community.php?city=Stetten&country=DE&community=loe",
 	"straelen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/straelen.json",
 	"strittmatt" : "https://map.freifunk-3laendereck.net/api/community.php?city=Strittmatt&country=DE&community=hotz",
