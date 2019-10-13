@@ -421,6 +421,7 @@
 	"wetzlar" : "https://freifunk-wetzlar.de/ffwz-api.json",
 	"wittmund" : "https://dev.ffnw.de/api_files/Freifunk-Wittmund-Api.json",
 	"wokern" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-wokern.json",
+	"wolfen" : "https://raw.githubusercontent.com/Freifunk-Wolfen/api.freifunk.net-interface/master/api.json",
 	"wuelfrath" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Wuelfrath-api.json",
 	"wuerzburg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/wuerzburg.json",
 	"wyhlen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Wyhlen&country=DE&community=3land",
