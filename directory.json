@@ -165,7 +165,7 @@
 	"ibbenbueren" : "https://raw.githubusercontent.com/ff-ibb/ff-api/master/FreifunkIbbenbueren.json",
 	"igelschlatt" : "https://map.freifunk-3laendereck.net/api/community.php?city=Igelschlatt&country=DE&community=sswo",
 	"ilmenau" : "https://firmware.ilmenau.freifunk.net/.api/ffil.json",
-	"ingolstadt" : "https://freifunk-ingolstadt.de/ffapi.json",
+	"ingolstadt" : "https://api.freifunk-ingolstadt.de/api.json",
 	"innsbruck" : "https://www.freifunk-innsbruck.at/innsbruck.json",
 	"ippensen" : "http://ippensen-freifunk.net/FreifunkIppensen-api.json",
 	"iserlohn" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/iserlohn.json",
