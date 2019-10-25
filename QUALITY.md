@@ -67,12 +67,12 @@ Sollte die Issue-Bearbeitung von Seiten des Freifunk Community Directory Teams i
 erst mit einigen Tagen Verspätung bekannt gegeben. Diese Verzögerung sind "geschenkte Tage", die zu der Regel Wartezeit hinzugezählt werden (z.B. dann 33 Tage). 
 Der Prozess endet also nicht mit 28 Tagen, nur weil wir zu langsam waren. 
 
-Gelöschte Einträge
+Gelöschte Einträge / erneut eintragen
 -------------
 Es gibt viele Gründe warum ein Eintrag gelöscht wurde (siehe oben).
 Ein gelöschter Eintrag darf jederzeit erneut per Pull Request eingereicht werden - z.B. wenn das Problem beseitigt wurde. 
 
-Einträge die auf Grund eines Beschlusses des Freifunk Advisory Council gelöscht wurden, können nur durch einen neuen Beschluss des Councils wiederaufgenommen werden.
+Einträge die auf Grund eines Beschlusses des Freifunk Forum gelöscht wurden, können nur durch einen neuen Beschluss des Freifunk Forums wieder aufgenommen werden.
 
 Was nicht geprüft wird
 -------------
@@ -82,6 +82,14 @@ Optional geben wir Tips, die über o.g. Qualitätskriterien hinausgehen, aber ke
 
 Das Freifunk Community Direcory Team ist sich dessen bewusst, dass das Freifunk Community Directory ein zentraler Dienst ist und das zur Freifunk-Philosophie gehört, dass wir bestrebt sind Dienste dezentral zu gestalten. Aus diesem Grund möchten wir das Freifunk Community Directory ausschließlich als technischen Dienst umsetzen und bewerten daher keine nicht-technische Kriterien - wie z.B. ob die Community eine "echte" Freifunk Community ist.
 
-Wir gehen initial davon aus, dass Ihr sowohl die [Freifunk Vision](https://freifunk.net/worum-geht-es/vision/)  als auch das [Freifunk Memorandum of Understanding](https://blog.freifunk.net/2015/05/15/memorandum-understanding/) unterstützt. Wir prüfen nicht, ob Ihr alle Punkte der Freifunk Vision mittragt bzw. wie Ihr diese "auslegt".
+Wir gehen initial davon aus, dass Ihr sowohl die [Freifunk Vision](https://freifunk.net/worum-geht-es/vision/)  als auch das [Freifunk Memorandum of Understanding](https://blog.freifunk.net/2015/05/15/memorandum-understanding/) unterstützt und bitten den PR-Ersteller dieses im Pull Request zu bestätigen. Diese Selbsterklärung wird - ähnlich wie eine CE-Konformitätserklärung von Hardware-Herstellern - ohne (externe) Prüfung akzeptiert.
 
-Die Gemeinschaft aller Freifunk Communities kann über das gewählte [Freifunk Advisory Council](https://wiki.freifunk.net/Freifunk_Advisory_Council) im Nachgang klären lassen, ob eine Community dieser Anforderung gerecht wird. Löschanträge / Beschlüsse vom Freifunk Advisory Council werden ohne weitere Prüfungen technisch vom Freifunk Community Directory Team umgesetzt. 
+Nachprüfung / Anlassbezogene Prüfung / Löschen von Einträgen
+-------------
+Die Gemeinschaft aller Freifunk Communities kann über das Freifunk Forum im Nachgang klären lassen, ob eine Community der Freifunk Vision und dem Freifunk Memorandum of Understanding folgt oder zu unrecht eingetragen wurde.
+
+Hierzu ist ein Forum Topic mit dem Titel "API: Löschung der Community FREIFUNK COMMUNITY ID HERE" in der Kategorie [Community](https://forum.freifunk.net/c/community) zu erstellen. Im Text muss beschrieben werden, warum man glaubt, dass es sich nicht um eine Freifunk Community im Sinne der Vision und des Memorandum of Understanding handelt.
+
+Die betreffende Community muss am selben Tag, auf mindestens einer in der API Datei angegebenen Kontaktmöglichkeit, auf dieses Forum Topic aufmerksam gemacht werden und kann selbstverständlich auch Stellung nehmen. Nach 30 Tagen ist die Abstimmung beendet, egal, wie viele Stimmen abgegeben wurden. Wenn in einfacher Mehrheit der Abstimmungsteilnehmer eine Löschung beschlossen wurde, dann soll ein Github Issue mit Link zum Forum Topic erstellt werden. Bei Unentschieden oder 0 Stimmen wird der Eintrag nicht gelöscht. 
+
+Lösch-Beschlüsse vom Freifunk Forum werden vom Freifunk Community Directory Team zeitnah umgesetzt. 
