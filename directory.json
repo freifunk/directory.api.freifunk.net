@@ -52,7 +52,6 @@
 	"bruenlisbach" : "https://map.freifunk-3laendereck.net/api/community.php?city=Br%C3%BCnlisbach&country=DE&community=sswo",
 	"butzbach" : "https://www.freifunk-butzbach.de/download/freifunk-butzbach-api.json",
 	"calw" : "https://map.freifunk-3laendereck.net/api/community.php?community=ffng&country=DE&city=Calw",
-	"castrop" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/castrop.json",
 	"chemnitz" : "https://api.chemnitz.freifunk.net/chemnitz.json",
 	"coburg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/coburg.json",
 	"colditz" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkColditz-api.json",
