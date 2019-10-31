@@ -270,7 +270,7 @@
 	"niederwihl" : "https://map.freifunk-3laendereck.net/api/community.php?city=Niederwihl&country=DE&community=hotz",
 	"niex" : "https://www.opennet-initiative.de/freifunk/api.freifunk.net-niex.json",
 	"nordfriesland" : "https://nord.freifunk.net/api/nordfriesland-api.json",
-	"nordheide" : "https://raw.githubusercontent.com/freifunk-nordheide/community-api/master/FreifunkNordheide-API.json",
+	"nordheide" : "http://map.freifunk-nordheide.de/api/FreifunkNordheide-api.json",
 	"nordhorn" : "https://freifunk-nordhorn.de/FreifunkNordhorn-api.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"oberhausen" : "https://images.ffob.net/FF-OB/api/FreifunkOberhausen-api.json",
