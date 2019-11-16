@@ -222,7 +222,7 @@
 	"markneukirchen" : "https://mapdata.freifunk-vogtland.net/ffapi-MKN.json",
 	"marktoberdorf" : "http://www.freifunk-ostallgaeu.de/FreifunkOstallgaeu-api.json",
 	"maulburg" : "https://map.freifunk-3laendereck.net/api/community.php?city=Maulburg&country=DE&community=wiese&main=1",
-	"mayen-koblenz" : "https://map.freifunk-myk.de/hopglass/ffapi.json",
+	"mayen-koblenz" : "https://map.freifunk-myk.de/ffapi.json",
 	"meinerzhagen" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/meinerzhagen.json",
 	"meiningen" : "http://www.freifunk-meiningen.de/FreifunkMeiningen-api.json",
 	"menden" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/menden.json",
