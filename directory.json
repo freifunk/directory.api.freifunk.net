@@ -106,6 +106,7 @@
 	"fuerth" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/fuerth.json",
 	"fulda" : "https://fulda.freifunk.net/FreifunkFulda-api.json",
 	"gadow" : "http://feeds.leipzig.freifunk.net/ffapi/gadow.json",
+	"gaildorf" : "http://freifunk-gaildorf.53rv3r.de/ffs-gaildorf-api.json",
 	"gardelegen" : "https://rawgit.com/FreifunkGardelegen/FreifunkGardelegenAPI/master/FreifunkGardelegen.json",
 	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json",
 	"gelsenkirchen": "http://freifunk-gelsenkirchen.de/api.json",
