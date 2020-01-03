@@ -266,7 +266,7 @@
 	"nordfriesland" : "https://nord.freifunk.net/api/nordfriesland-api.json",
 	"nordhorn" : "https://freifunk-nordhorn.de/FreifunkNordhorn-api.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
-	"oberhausen" : "https://images.ffob.net/FF-OB/api/FreifunkOberhausen-api.json",
+	"oberhausen" : "https://map.freifunk.ruhr/data/FreifunkOberhausen-api.json",
 	"obernkirchen" : "http://freifunk-obernkirchen.de/FreifunkObernkirchen-api.json",
 	"oelsnitz_vogtland" : "https://mapdata.freifunk-vogtland.net/ffapi-OEL.json",
 	"oeversee" : "http://api.ffslfl.net/oeversee-api.json",
