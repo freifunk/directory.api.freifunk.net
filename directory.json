@@ -358,6 +358,7 @@
 	"uelzen" : "https://www.freifunk-uelzen.de/api/FreifunkUelzen-api.json",
 	"ulm" : "https://raw.githubusercontent.com/ffulm/api/master/api.json",
 	"unna" : "https://wiki.freifunk.net/images/6/6a/FreifunkUnna-api.json",
+	"uslar" : "https://files.freifunk-uslar.de/Freifunk-Uslar-api.json",
 	"velbert" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Velbert-api.json",
 	"viersen" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/viersen.json",
 	"villingen-schwenningen" : "https://map.freifunk-3laendereck.net/api/community.php?community=swb&country=DE&city=Schwenningen%20am%20Neckar",
