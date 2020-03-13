@@ -208,7 +208,7 @@
 	"magdeburg" : "http://md.freifunk.net/community.json",
 	"mainz" : "https://api.freifunk-mainz.de/ffapi_mz.json",
 	"malente" : "https://nord.freifunk.net/api/malente-api.json",
-	"mannheim" : "http://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
+	"mannheim" : "https://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
 	"marburg" : "https://api.marburg.freifunk.net/freifunk-marburg.json",
 	"markdorf" : "https://raw.githubusercontent.com/ffbsee/api/master/ffmarkdorf.json",
 	"markneukirchen" : "https://mapdata.freifunk-vogtland.net/ffapi-MKN.json",
