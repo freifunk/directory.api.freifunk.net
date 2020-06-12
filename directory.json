@@ -330,7 +330,7 @@
 	"stetten" : "https://map.freifunk-3laendereck.net/api/community.php?city=Stetten&country=DE&community=loe",
 	"strittmatt" : "https://map.freifunk-3laendereck.net/api/community.php?city=Strittmatt&country=DE&community=hotz",
 	"stuehlingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=St%C3%BChlingen&country=DE&community=wtk",
-	"stuttgart" : "https://netinfo.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
+	"stuttgart" : "https://map.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
 	"suedangeln" : "http://api.ffslfl.net/suedangeln-api.json",
 	"suederbrarup" : "http://api.ffslfl.net/suederbrarup-api.json",
 	"sundern" : "http://map.freifunk-moehne.de/images/sundern/sundern-api.json",
