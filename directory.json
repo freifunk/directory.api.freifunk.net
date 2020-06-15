@@ -102,7 +102,6 @@
 	"fulda" : "https://fulda.freifunk.net/FreifunkFulda-api.json",
 	"gadow" : "http://feeds.leipzig.freifunk.net/ffapi/gadow.json",
 	"gardelegen" : "https://rawgit.com/FreifunkGardelegen/FreifunkGardelegenAPI/master/FreifunkGardelegen.json",
-	"gebrazhofen" : "http://www.almeida.de/docs/gebrazhof.json",
 	"geltinger_bucht" : "http://api.ffslfl.net/geltinger_bucht-api.json",
 	"gera" : "https://www.freifunk-gera-greiz.de/FreifunkGera-api.json",
 	"geroldshofstetten" : "https://map.freifunk-3laendereck.net/api/community.php?city=Geroldshofstetten&country=DE&community=sswo",
