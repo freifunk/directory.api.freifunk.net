@@ -128,7 +128,7 @@
 	"hamburg" : "https://meta.hamburg.freifunk.net/ffhh.json",
 	"hamm" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/hamm.json",
 	"handewitt" : "http://api.ffslfl.net/handewitt-api.json",
-	"hannover" : "http://hannover.freifunk.net/api/hannover-api.json",
+	"hannover" : "https://hannover.freifunk.net/api/hannover-api.json",
 	"harpolingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Harpolingen&country=DE&community=saek",
 	"harrislee" : "http://api.ffslfl.net/harrislee-api.json",
 	"hartha" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkHartha-Api.json",
