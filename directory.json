@@ -157,7 +157,6 @@
 	"ingolstadt" : "https://api.freifunk-ingolstadt.de/api.json",
 	"ippensen" : "http://ippensen-freifunk.net/FreifunkIppensen-api.json",
 	"iserlohn" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/iserlohn.json",
-	"jena" : "https://freifunk-jena.de/jena.json",
 	"kaiserslautern" : "https://api.freifunk-westpfalz.de/FreifunkWestpfalz-api.json",
 	"kalletal" : "http://update.freifunk-nordlippe.de/ffapi_kalletal.json",
 	"kappeln" : "http://api.ffslfl.net/kappeln-api.json",
