@@ -118,6 +118,7 @@
 	"grimma" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkGrimma-api.json",
 	"groembach" : "https://map.freifunk-3laendereck.net/api/community.php?community=ffng&country=DE&city=Gr%C3%B6mbach",
 	"grossbasel" : "https://map.freifunk-3laendereck.net/api/community.php?city=Grossbasel&country=CH&community=3land",
+	"gross-gerau" : "https://raw.githubusercontent.com/freifunkgg/ff-api/master/gross-gerau.json",
 	"guennetsmaettle" : "https://map.freifunk-3laendereck.net/api/community.php?city=G%C3%BCnnetsm%C3%A4ttle&country=DE&community=hotz",
 	"guetersloh" : "http://stats.guetersloh.freifunk.net/ffgt-api.json",
 	"gutach-im-breisgau" : "https://map.freifunk-3laendereck.net/api/community.php?city=Gutach+im+Breisgau&country=DE&community=ffem",
