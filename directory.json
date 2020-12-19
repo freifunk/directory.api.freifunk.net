@@ -176,6 +176,7 @@
 	"koblenz-ch" : "https://map.freifunk-3laendereck.net/api/community.php?city=Koblenz&country=CH&community=wtk",
 	"koeln" : "https://kbu.freifunk.net/api/koeln.json",
 	"koenigsee" : "http://freifunk.schwarzburg-rudolstadt.de/Koenigsee.Freifunk.net-api.json",
+	"koenigswinter" : "https://ffkwkarte.freifunk-koenigswinter.de/api.json",
 	"kollnau" : "https://map.freifunk-3laendereck.net/api/community.php?city=Kollnau&country=DE&community=ffem",
 	"konstanz" : "https://raw.githubusercontent.com/ffbsee/api/master/ffkonstanz.json",
 	"krefeld" : "https://raw.githubusercontent.com/ffniers/ffapi/master/krefeld.json",
