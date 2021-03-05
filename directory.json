@@ -93,7 +93,7 @@
 	"falkenstein" : "https://mapdata.freifunk-vogtland.net/ffapi-FST.json",
 	"flensburg" : "http://freifunk-flensburg.de/api/api.json",
 	"forchheim" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/forchheim.json",
-	"frankenberg" : "http://download.freifunk-fkb.de/api/FreifunkFrankenberg-api.json",
+	"frankenberg" : "https://freifunk-frankenberg.de/FreifunkFrankenberg-api.json",
 	"frankfurt_am_main" : "https://api.ffm.freifunk.net/ff-frankfurt.json",
 	"freiburg" : "https://map.freifunk-3laendereck.net/api/community.php?city=Freiburg&country=DE&community=fffr",
 	"freudenberg" : "https://raw.githubusercontent.com/Freifunk-Siegerland/ff-api/master/freudenberg.json",
