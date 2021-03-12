@@ -1,6 +1,7 @@
 {
 	"aachen" : "https://raw.githubusercontent.com/ffac/api-file/master/acffapi.json",
 	"adorf" : "https://mapdata.freifunk-vogtland.net/ffapi-A.json",
+	"allendorf" : "https://freifunk-frankenberg.de/FreifunkEderbergland-api.json",
 	"altdorf" : "https://raw.githubusercontent.com/tecff/freifunk.net-API/master/altdorf.freifunk.net.json",
 	"altenkirchen": "https://freifunk-westerwald.de/api-ak.json",
 	"altena" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/altena.json",
@@ -77,7 +78,6 @@
 	"duisburg" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/duisburg.json",
 	"ebermannstadt" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/ebermannstadt.json",
 	"eberswalde" : "http://ewifi.de/FreifunkEberswalde-api.json",
-	"ederbergland" : "https://freifunk-frankenberg.de/FreifunkEderbergland-api.json",
 	"efringen-kirchen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Efringen-Kirchen&country=DE&community=loe",
 	"eggebek" : "http://api.ffslfl.net/eggebek-api.json",
 	"eggerbach" : "https://wiki.freifunk.net/images/9/9f/FreifunkEggerbach-api.json",
@@ -255,7 +255,6 @@
 	"niederwihl" : "https://map.freifunk-3laendereck.net/api/community.php?city=Niederwihl&country=DE&community=hotz",
 	"niex" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-niex.json",
 	"nordfriesland" : "https://nord.freifunk.net/api/nordfriesland-api.json",
-	"nordhessen" : "https://freifunk-frankenberg.de/FreifunkNordhessene.V.-api.json",
 	"nordhorn" : "https://freifunk-nordhorn.de/FreifunkNordhorn-api.json",
 	"nuernberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/nuernberg.json",
 	"oberhausen" : "https://map.freifunk.ruhr/data/FreifunkOberhausen-api.json",
