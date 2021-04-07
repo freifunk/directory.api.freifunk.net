@@ -233,6 +233,7 @@
 	"moers" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/moers.json",
 	"moessingen" : "https://map.freifunk-3laendereck.net/api/community.php?community=nalb&country=DE&city=M%C3%B6ssingen",
 	"monheim" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/MonheimamRhein-api.json",
+	"montabaur" : "https://freifunk-westerwald.de/api-mt.json",
 	"much" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/much.json",
 	"muehlental" : "https://mapdata.freifunk-vogtland.net/ffapi-MTL.json",
 	"muellheim" : "https://map.freifunk-3laendereck.net/api/community.php?city=M%C3%BCllheim&country=DE&community=bh",
