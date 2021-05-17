@@ -204,7 +204,6 @@
 	"luebeck" : "http://luebeck.freifunk.net/ffapi.json",
 	"luedenscheid" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/luedenscheid.json",
 	"lueneburg" : "https://raw.githubusercontent.com/FreifunkLueneburg/community-api/master/FreifunkLueneburg-api.json",
-	"luenen" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/luenen.json",
 	"luxembourg" : "https://api.freifunk.lu/",
 	"magdeburg" : "http://md.freifunk.net/community.json",
 	"mainz" : "https://api.freifunk-mainz.de/ffapi_mz.json",
