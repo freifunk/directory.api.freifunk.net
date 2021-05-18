@@ -311,7 +311,6 @@
 	"schopfheim" : "https://map.freifunk-3laendereck.net/api/community.php?city=Schopfheim&country=DE&community=wiese",
 	"schwabach" : "https://map.freifunk-schwabach.de/data/ffapi.json",
 	"schwerin" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-schwerin.json",
-	"schwerte" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/schwerte.json",
 	"segeberg" : "https://nord.freifunk.net/api/segeberg-api.json",
 	"segeten" : "https://map.freifunk-3laendereck.net/api/community.php?city=Segeten&country=DE&community=hotz",
 	"selm" : "http://www.freifunk-selm.de/api/FreifunkSelm-api.json",
