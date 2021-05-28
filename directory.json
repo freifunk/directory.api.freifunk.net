@@ -382,7 +382,6 @@
 	"wiesbaden" : "https://api.wiesbaden.freifunk.net/ffapi_wi.json",
 	"wiesenburg" : "http://wiki.freifunk.net/images/7/79/Wiesenburg_freifunk_api.json",
 	"wilhelmshaven" : "https://dev.ffnw.de/api_files/Freifunk-Wilhelmshaven-Api.json",
-	"willich" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/willich.json",
 	"winsen" : "http://freifunk.winsener.net/pub/FreifunkWinsen-api.json",
 	"winterbach" : "https://services.freifunk-suedwest.de/ffapi/FreifunkWinterbach-api.json",
 	"winterberg" : "http://map.freifunk-winterberg.net/api/winterberg.json",
