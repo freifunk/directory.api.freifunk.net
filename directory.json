@@ -219,7 +219,6 @@
 	"meinerzhagen" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/meinerzhagen.json",
 	"menden" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/menden.json",
 	"merzig-wadern" : "https://mgmt.saar.freifunk.net/data/api-merzig-wadern.json",
-	"meschede" : "http://www.freifunk-meschede.net/FreifunkMeschede-api.json",
 	"mettmann" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Mettmann-api.json",
 	"michelbach-le-haut" : "https://map.freifunk-3laendereck.net/api/community.php?city=Michelbach-le-Haut&country=FR&community=3land",
 	"mittelangeln" : "http://api.ffslfl.net/mittelangeln-api.json",
