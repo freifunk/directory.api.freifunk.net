@@ -237,7 +237,6 @@
 	"muenster" : "https://karte.freifunk-muensterland.de/data/ffapi.json",
 	"murg" : "https://map.freifunk-3laendereck.net/api/community.php?city=Murg&country=DE&community=saek",
 	"mutschellen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Mutschellen&country=CH&community=ff3l",
-	"nettetal" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/nettetal.json",
 	"neuenburg-am-rhein" : "https://map.freifunk-3laendereck.net/api/community.php?city=Neuenburg+am+Rhein&country=DE&community=bh",
 	"neuendettelsau" : "https://map.freifunk-neuendettelsau.de/data/ffapi.json",
 	"neuenrade" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/neuenrade.json",
