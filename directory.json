@@ -180,7 +180,6 @@
 	"kollnau" : "https://map.freifunk-3laendereck.net/api/community.php?city=Kollnau&country=DE&community=ffem",
 	"konstanz" : "https://raw.githubusercontent.com/ffbsee/api/master/ffkonstanz.json",
 	"korbach" : "https://freifunk-nordhessen.de/FreifunkKorbach-api.json",
-	"krefeld" : "https://raw.githubusercontent.com/ffniers/ffapi/master/krefeld.json",
 	"kressbronn" : "https://raw.githubusercontent.com/ffbsee/api/master/ffkressbronn.json",
 	"kropp-stapelholm" : "http://api.ffslfl.net/kropp-stapelholm-api.json",
 	"landau" : "http://freifunk-suedpfalz.de/FreifunkSuedpfalz-landau-api.json",
