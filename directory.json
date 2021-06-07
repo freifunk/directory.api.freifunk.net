@@ -171,7 +171,6 @@
 	"kitzingen" : "http://freifunk-kitzingen.de/Kitzingen-api.json",
 	"klein-basel" : "https://map.freifunk-3laendereck.net/api/community.php?city=Klein-Basel&country=CH&community=3land",
 	"kleinhueningen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Kleinh%C3%BCningen&country=CH&community=3land",
-	"kleve" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/kleve.json",
 	"koblenz" : "https://map.freifunk-myk.de/ffapi.json",
 	"koblenz-ch" : "https://map.freifunk-3laendereck.net/api/community.php?city=Koblenz&country=CH&community=wtk",
 	"koeln" : "https://kbu.freifunk.net/api/koeln.json",
