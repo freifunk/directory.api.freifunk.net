@@ -221,7 +221,6 @@
 	"mittelangeln" : "http://api.ffslfl.net/mittelangeln-api.json",
 	"mittweida" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkMittweida-api.json",
 	"moehnesee" : "http://map.freifunk-moehne.de/api/moehnesee.json",
-	"moenchengladbach" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/moenchengladbach.json",
 	"moessingen" : "https://map.freifunk-3laendereck.net/api/community.php?community=nalb&country=DE&city=M%C3%B6ssingen",
 	"monheim" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/MonheimamRhein-api.json",
 	"montabaur" : "https://freifunk-westerwald.de/api-mt.json",
