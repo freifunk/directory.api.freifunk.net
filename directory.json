@@ -243,6 +243,7 @@
 	"niedergebisbach" : "https://map.freifunk-3laendereck.net/api/community.php?city=Niedergebisbach&country=DE&community=hotz",
 	"niederkassel" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/niederkassel.json",
 	"niederwihl" : "https://map.freifunk-3laendereck.net/api/community.php?city=Niederwihl&country=DE&community=hotz",
+	"niersufer" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/niersufer.json",
 	"niex" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-niex.json",
 	"nordfriesland" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/nordfriesland-api.json",
 	"nordhorn" : "https://freifunk-nordhorn.de/FreifunkNordhorn-api.json",
