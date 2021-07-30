@@ -184,7 +184,6 @@
 	"landshut" : "https://raw.githubusercontent.com/tecff/freifunk.net-API/master/landshut.freifunk.net.json",
 	"langballig" : "http://api.ffslfl.net/langballig-api.json",
 	"langenfeld" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Langenfeld-api.json",
-	"langweid" : "https://ffapi.freifunk-langweid.de/freifunk-langweid-api.json",
 	"lauchringen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Lauchringen&country=DE&community=wtk",
 	"lauenburg" : "https://raw.githubusercontent.com/ffsh/api/main/lauenburg.json",
 	"lauf_an_der_pegnitz" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/lauf_an_der_pegnitz.json",
