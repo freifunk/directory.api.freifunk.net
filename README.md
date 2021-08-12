@@ -47,5 +47,30 @@ The freifunk API is designed to collect metadata of communities in a decentral w
 Licence
 =======
 
-Please feel free to use this data in any (usefull) way you want. 
-We assume it to be in the [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
+Please feel free to use this data in any (usefull) way you want.
+All code and content in this git repository is proviced unter [Creative Commons Zero 1.0 Universal](LICENSE) license to you.
+
+Contribution
+=======
+Feel free to contribute to this project by creating a pull request. 
+Please sign-off your git commits before pushing it to your repository.
+
+You confirm that you are allowed to contribute all code and content of your commit to this repository by simply adding 
+a sign-off to your commit message. 
+
+Please ensure that the sign-off is done with the same e-mail address as your committer e-mail address.
+
+Easyest way to do this is to use the git sign-off feature:
+
+**Sign-off your commit (directly)**
+
+```git commit --signoff -m "Commit message here"```
+
+**Sign-off your last commit (if you forgot to sign-off)**
+
+```git commit --amend --signoff ```
+
+**Force pushing last commit (if already pushed before sign-off)**
+
+```git push --force-with-lease origin your-branch-name-here ```
+
