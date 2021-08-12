@@ -68,7 +68,7 @@ Easyest way to do this is to use the git sign-off feature:
 
 **Sign-off your last commit (if you forgot to sign-off)**
 
-```git commit --amend --signoff ```
+```git commit --amend --no-edit --signoff ```
 
 **Force pushing last commit (if already pushed before sign-off)**
 
