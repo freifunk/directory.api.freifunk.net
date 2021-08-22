@@ -48,7 +48,7 @@ Licence
 =======
 
 Please feel free to use this data in any (usefull) way you want.
-All code and content in this git repository is proviced unter [Creative Commons Zero 1.0 Universal](LICENSE) license to you.
+All code and content in this git repository is provided under [Creative Commons Zero 1.0 Universal](LICENSE) license to you.
 
 Contribution
 =======
