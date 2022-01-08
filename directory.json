@@ -224,7 +224,7 @@
 	"murg" : "https://map.freifunk-3laendereck.net/api/community.php?city=Murg&country=DE&community=saek",
 	"mutschellen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Mutschellen&country=CH&community=ff3l",
 	"neuenburg-am-rhein" : "https://map.freifunk-3laendereck.net/api/community.php?city=Neuenburg+am+Rhein&country=DE&community=bh",
-	"neuendettelsau" : "https://map.freifunk-neuendettelsau.de/data/ffapi.json",
+	"neuendettelsau" : "https://karte.freifunk-neuendettelsau.de/data/ffapi.json",
 	"neuensalz" : "https://mapdata.freifunk-vogtland.net/ffapi-NSZ.json",
 	"neumuenster" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/neumuenster-api.json",
 	"neunkirchen" : "https://mgmt.saar.freifunk.net/data/api-neunkirchen.json",
