@@ -87,7 +87,7 @@
 	"erlangen" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/erlangen.json",
 	"essen" : "https://raw.githubusercontent.com/FFEssen/ffapi/main/essen.json",
 	"essingen" : "http://www.freifunk-essingen.de/wp-content/uploads/FreifunkEssingen-api.json",
-	"euskirchen" : "https://ffeu.de/ffapi.json",
+	"euskirchen" : "https://www.roots-at-eifel.net/ffapi.json",
 	"falkenstein" : "https://mapdata.freifunk-vogtland.net/ffapi-FST.json",
 	"flensburg" : "http://freifunk-flensburg.de/api/api.json",
 	"forchheim" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/forchheim.json",
