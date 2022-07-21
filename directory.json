@@ -183,7 +183,7 @@
 	"lauf_an_der_pegnitz" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/lauf_an_der_pegnitz.json",
 	"leer" : "https://www.leeraner-freifunk.de/LeeranerFreifunk-api.json",
 	"leichlingen" : "http://freifunk-leichlingen.net/api.json",
-	"leipzig" : "http://feeds.leipzig.freifunk.net/ffapi/leipzig.json",
+	"leipzig" : "https://freifunk-leipzig.de/meta/freifunk-leipzig.json",
 	"leisnig" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkLeisnig-api.json",
 	"lemgo" : "http://api.freifunk-lippe.de/freifunk/ffapi_le.json",
 	"lengenfeld_vogtland" : "https://mapdata.freifunk-vogtland.net/ffapi-LE.json",
