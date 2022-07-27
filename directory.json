@@ -81,7 +81,6 @@
 	"eltville" : "https://www.freifunk-rtk.de/ffapi_rtk.json",
 	"emmendingen" : "https://api.freifunkkarte.de/ffem/de/emmendingen/0/json",
 	"emskirchen" : "https://karte.freifunk-emskirchen.de/data/ffapi.json",
-	"enkreis" : "https://karte.ff-en.de/ffapi/en.json",
 	"erfurt" : "https://api.erfurt.freifunk.net/freifunk-api.json",
 	"erkrath" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Erkrath-api.json",
 	"erlangen" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/erlangen.json",
