@@ -134,7 +134,6 @@
 	"hartha" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkHartha-Api.json",
 	"hasel" : "https://api.freifunkkarte.de/wiese/de/hasel/0/json",
 	"hassberge" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/hassberge.json",
-	"hassloch" : "https://www.freifunk-hassloch.de/freifunk-hassloch.json",
 	"heiligenhaus" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Heiligenhaus-api.json",
 	"heilsbronn" : "https://karte.freifunk-heilsbronn.de/data/ffapi.json",
 	"heitersheim" : "https://api.freifunkkarte.de/bh/de/heitersheim/0/json",
