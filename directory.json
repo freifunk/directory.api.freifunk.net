@@ -189,7 +189,7 @@
 	"lingen" : "https://freifunk-lingen.de/api.json",
 	"loerrach" : "https://api.freifunkkarte.de/loe/de/loerrach/0/json",
 	"ludwigslust" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-ludwigslust.json",
-	"luebeck" : "http://luebeck.freifunk.net/ffapi.json",
+	"luebeck" : "https://luebeck.freifunk.net/ffapi.json",
 	"lueneburg" : "https://raw.githubusercontent.com/FreifunkLueneburg/community-api/master/FreifunkLueneburg-api.json",
 	"luxembourg" : "https://api.freifunk.lu/",
 	"magdeburg" : "http://md.freifunk.net/community.json",
