@@ -68,7 +68,6 @@
 	"donauwoerth" : "http://services.ffdon.de/freifunk/FreifunkDonauwoerth.json",
 	"dortmund" : "https://raw.githubusercontent.com/ffdo/ffapi/master/dortmund.json",
 	"dresden" : "http://api.freifunk-dresden.de/freifunk-info.json",
-	"duelmen" : "https://www.freifunk-kreis-coesfeld.de/FreifunkDuelmen-api.json",
 	"dueren" : "https://wiki.freifunk.net/images/6/69/Dnffapi.json",
 	"duesseldorf" : "https://freifunk-duesseldorf.de/api.json",
 	"ebermannstadt" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/ebermannstadt.json",
