@@ -171,7 +171,6 @@
 	"kressbronn" : "https://raw.githubusercontent.com/ffbsee/api/master/ffkressbronn.json",
 	"kropp-stapelholm" : "http://api.ffslfl.net/kropp-stapelholm-api.json",
 	"landau" : "http://freifunk-suedpfalz.de/FreifunkSuedpfalz-landau-api.json",
-	"landshut" : "https://raw.githubusercontent.com/tecff/freifunk.net-API/master/landshut.freifunk.net.json",
 	"langballig" : "http://api.ffslfl.net/langballig-api.json",
 	"langenfeld" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Langenfeld-api.json",
 	"lauchringen" : "https://api.freifunkkarte.de/wtk/de/lauchringen/0/json",
