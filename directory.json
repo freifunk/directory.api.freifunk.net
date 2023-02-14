@@ -47,7 +47,7 @@
 	"bremen" : "https://bremen.freifunk.net/ffapi/bremen.json",
 	"brombach" : "https://api.freifunkkarte.de/loe/de/brombach/0/json",
 	"bruenlisbach" : "https://api.freifunkkarte.de/sswo/de/bruenlisbach/0/json",
-	"buchholz" : "https://gitlab.freifunk-nordheide.de/ffnh-public/freifunk-directory-entry/-/raw/main/public/FreifunkNordheide.freifunk-api.json",
+	"buchholz" : "https://map-api.freifunk-nordheide.de/FreifunkNordheide.freifunk-api.json",
 	"burgwald" : "https://freifunk-nordhessen.de/FreifunkBurgwald-api.json",
 	"butzbach" : "https://www.freifunk-butzbach.de/download/freifunk-butzbach-api.json",
 	"calw" : "https://api.freifunkkarte.de/ffng/de/calw/0/json",
