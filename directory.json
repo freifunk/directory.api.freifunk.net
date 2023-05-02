@@ -52,6 +52,7 @@
 	"butzbach" : "https://www.freifunk-butzbach.de/download/freifunk-butzbach-api.json",
 	"calw" : "https://api.freifunkkarte.de/ffng/de/calw/0/json",
 	"chemnitz" : "https://api.chemnitz.freifunk.net/chemnitz.json",
+	"chemnitz_umland" : "https://api.chemnitz.freifunk.net/umland.json",
 	"coburg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/coburg.json",
 	"colditz" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkColditz-api.json",
 	"cottbus" : "https://freifunk-cottbus.de/FreifunkCottbus-api.json",
