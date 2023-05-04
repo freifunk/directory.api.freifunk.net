@@ -1,4 +1,4 @@
-name: Pylint
+name: Check api directory
 
 on: [push]
 
