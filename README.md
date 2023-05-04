@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/freifunk/directory.api.freifunk.net.svg?branch=master)](https://app.travis-ci.com/freifunk/directory.api.freifunk.net)
+[![Check api directory](https://github.com/freifunk/directory.api.freifunk.net/actions/workflows/check_directory.yml/badge.svg)](https://github.com/freifunk/directory.api.freifunk.net/actions/workflows/check_directory.yml)
 
 Entstehung
 ==========
