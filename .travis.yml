@@ -1,8 +1,0 @@
-language: python
-python:
-  - "3.8"
-before_script: "git clone https://github.com/freifunk/api.freifunk.net.git"
-install: 
-  - pip3 install -r requirements.txt
-# command to run tests
-script: python tests/test3.py
