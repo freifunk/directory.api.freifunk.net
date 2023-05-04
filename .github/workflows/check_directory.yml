@@ -7,6 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+      name: checkout directory
+    - uses: actions/checkout@v3
+      name: checkout api specs
+      with:
+        repository: freifunk/api.freifunk.net
+        path: api.freifunk.net
     - name: Set up Python
       uses: actions/setup-python@v3
     - name: Install dependencies
