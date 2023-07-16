@@ -242,6 +242,7 @@
 	"osnabrueck" : "https://dev.ffnw.de/api_files/Freifunk-Osnabrueck-Api.json",
 	"paderborn" : "https://api.ffho.net/ffapi-pad.json",
 	"parchim" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-parchim.json",
+	"petershagen-eggersdorf" : "https://raw.githubusercontent.com/HaCraFu/freifunk-public/main/api.freifunk.net-petershagen-eggersdorf.json",
 	"pinneberg" : "https://pinneberg.freifunk.net/ffapi.json",
 	"plauen" : "https://mapdata.freifunk-vogtland.net/ffapi-PL.json",
 	"ploen" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/ploen-api.json",
