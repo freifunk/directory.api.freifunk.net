@@ -1,6 +1,7 @@
 name: Check api directory
 
 on:
+  workflow_dispatch: {}
   push:
     branches: [ master ]
   pull_request:
