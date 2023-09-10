@@ -184,6 +184,7 @@
 	"lindau" : "https://raw.githubusercontent.com/ffbsee/api/master/fflindau.json",
 	"lingen" : "https://freifunk-lingen.de/api.json",
 	"loerrach" : "https://api.freifunkkarte.de/loe/de/loerrach/0/json",
+	"lohmar" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/lohmar.json",
 	"ludwigslust" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-ludwigslust.json",
 	"luebeck" : "https://luebeck.freifunk.net/ffapi.json",
 	"lueneburg" : "https://raw.githubusercontent.com/FreifunkLueneburg/community-api/master/FreifunkLueneburg-api.json",
