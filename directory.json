@@ -248,6 +248,7 @@
 	"plauen" : "https://mapdata.freifunk-vogtland.net/ffapi-PL.json",
 	"ploen" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/ploen-api.json",
 	"poehl" : "https://mapdata.freifunk-vogtland.net/ffapi-POE.json",
+	"porz" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/porz.json",
 	"potrems" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-potrems.json",
 	"potsdam" : "https://freifunk-potsdam.de/ffapi.json",
 	"puderbach": "https://freifunk-westerwald.de/api-pdb.json",
