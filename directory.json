@@ -57,7 +57,7 @@
 	"crailsheim" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/crailsheim.json",
 	"cuxhaven" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/cuxhaven-api.json",
 	"darmstadt" : "https://darmstadt.freifunk.net/ffapi.json",
-	"datteln" : "https://freifunk-ostvest.de/FreifunkOstvest-api.json",
+	"datteln" : "https://raw.githubusercontent.com/ffov/api/master/FreifunkOstvest-api.json",
 	"detmold" : "http://api.freifunk-lippe.de/freifunk/ffapi_dt.json",
 	"diemelsee" : "https://freifunk-nordhessen.de/FreifunkDiemelsee-api.json",
 	"dillingen" : "https://freifunk-saar.de/ffs.json",
