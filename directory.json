@@ -138,7 +138,6 @@
 	"hof" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/hof.json",
 	"huenxe" : "https://freifunk-huenxe.de/api/FreifunkHuenxe-api.json",
 	"huerup" : "http://api.ffslfl.net/huerup-api.json",
-	"ibbenbueren" : "https://raw.githubusercontent.com/ff-ibb/ff-api/master/FreifunkIbbenbueren.json",
 	"igelschlatt" : "https://api.freifunkkarte.de/sswo/de/igelschlatt/0/json",
 	"ilmenau" : "https://raw.githubusercontent.com/freifunk-ilmenau/freifunk-api-file/master/ffil.json",
 	"ingolstadt" : "https://api.freifunk-ingolstadt.de/api.json",
