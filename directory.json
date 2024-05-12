@@ -187,7 +187,7 @@
 	"lohmar" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/lohmar.json",
 	"ludwigslust" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-ludwigslust.json",
 	"luebeck" : "https://luebeck.freifunk.net/ffapi.json",
-	"lueneburg" : "https://raw.githubusercontent.com/FreifunkLueneburg/community-api/master/FreifunkLueneburg-api.json",
+	"lueneburg" : "https://stats.4830.org/freifunk-l%C3%BCneburg.json",
 	"luxembourg" : "https://api.freifunk.lu/",
 	"magdeburg" : "https://md.freifunk.net/community.json",
 	"mainz" : "https://api.freifunk-mainz.de/ffapi_mz.json",
