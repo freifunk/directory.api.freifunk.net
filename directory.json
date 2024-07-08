@@ -39,6 +39,7 @@
 	"boenen" : "https://raw.githubusercontent.com/hohlkl/FF_Boenen/master/B%C3%B6nen%2CeineGemeindevernetztsich!-api.json",
 	"bonn" : "https://kbu.freifunk.net/api/bonn.json",
 	"borken" : "https://api.ff-bor.de/api.json",
+	"bpmesh" : "https://raw.githubusercontent.com/BPMesh/api-file/main/bpmesh.json",
 	"brakel" : "https://api.ffho.net/ffapi-bkk.json",
 	"brandenburg" : "https://freifunk-brandenburg.de/api/brandenburg.json",
 	"braunlage" : "https://harz.freifunk.net/api.brl.json",
