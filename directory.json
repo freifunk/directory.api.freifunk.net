@@ -329,7 +329,6 @@
 	"uehlingen-birkendorf" : "https://api.freifunkkarte.de/sswo/de/uehlingen-birkendorf/0/json",
 	"uelzen" : "https://www.freifunk-uelzen.de/api/FreifunkUelzen-api.json",
 	"ulm" : "https://raw.githubusercontent.com/freifunkMUC/freifunk.net-API/master/ulm.json",
-	"unna" : "https://wiki.freifunk.net/images/6/6a/FreifunkUnna-api.json",
 	"velbert" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Velbert-api.json",
 	"voerde" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/voerde.json",
 	"wachtberg" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/wachtberg.json",
