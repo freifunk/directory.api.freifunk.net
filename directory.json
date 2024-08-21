@@ -303,6 +303,7 @@
 	"suedangeln" : "http://api.ffslfl.net/suedangeln-api.json",
 	"suederbrarup" : "http://api.ffslfl.net/suederbrarup-api.json",
 	"sundern" : "https://map.freifunk-moehne.de/images/sundern/sundern-api.json",
+	"sundhausen" : "http://www.evernet-eg.de/evernet.json",
 	"schwenningen-am-neckar" : "https://api.freifunkkarte.de/swb/de/schwenningen-am-neckar/0/json",
 	"sylt" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/sylt-api.json",
 	"talheim" : "https://api.freifunkkarte.de/nalb/de/talheim/0/json",
