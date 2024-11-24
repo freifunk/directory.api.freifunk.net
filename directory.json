@@ -247,7 +247,7 @@
 	"potsdam" : "https://freifunk-potsdam.de/ffapi.json",
 	"puderbach": "https://freifunk-westerwald.de/api-pdb.json",
 	"quedlinburg" : "https://harz.freifunk.net/api.qlb.json",
-	"radevormwald" : "http://api.freifunk-radevormwald.de/ffrade-api.json",
+	"radevormwald" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/Radevormwald-api.json",
 	"ransbach-baumbach": "https://freifunk-westerwald.de/api-raba.json",
 	"ratingen" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Ratingen-api.json",
 	"ratzeburg" : "https://raw.githubusercontent.com/ffsh/api/main/ratzeburg.json",
