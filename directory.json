@@ -133,7 +133,7 @@
 	"herten-baden" : "https://api.freifunkkarte.de/rhf/de/herten/0/json",
 	"hilchenbach" : "https://raw.githubusercontent.com/Freifunk-Siegerland/ff-api/master/hilchenbach.json",
 	"hilden" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Hilden-api.json",
-	"hildesheim" : "https://wiki.freieslabor.org/w/images/d/d4/Freifunkhildesheim.json",
+	"hildesheim" : "http://api.freifunk-hildesheim.de/api/data",
 	"himmelpfort" : "https://hksc.de/freifunk.himmelpfort.json",
 	"hoechenschwand" : "https://api.freifunkkarte.de/sswo/de/hoechenschwand/0/json",
 	"hof" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/hof.json",
