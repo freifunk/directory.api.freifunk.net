@@ -13,6 +13,7 @@
 	"bad-arolsen" : "https://freifunk-nordhessen.de/FreifunkBadArolsen-api.json",
 	"bad-bellingen" : "https://api.freifunkkarte.de/loe/de/bad-bellingen/0/json",
 	"bad-krozingen" : "https://api.freifunkkarte.de/bh/de/bad-krozingen/0/json",
+	"bad-laasphe" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/BadLaasphe-api.json",
 	"bad-nauheim" : "https://raw.githubusercontent.com/kurfunk/ffapi/master/Kurfunk-api.json",
 	"bad-saeckingen" : "https://api.freifunkkarte.de/saek/de/bad-saeckingen/0/json",
 	"badgandersheim" : "https://wiki.freifunk.net/images/8/84/FreifunkBadGandersheim-api.json",
