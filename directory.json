@@ -132,6 +132,7 @@
 	"heiligenhaus" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Heiligenhaus-api.json",
 	"heilsbronn" : "https://karte.freifunk-heilsbronn.de/data/ffapi.json",
 	"heitersheim" : "https://api.freifunkkarte.de/bh/de/heitersheim/0/json",
+	"helgoland" : "https://helgoland.freifunk.net/freifunk-api.json",
 	"herford" : "http://map.herford.freifunk.net/freifunk-api/herford.json",
 	"herten-baden" : "https://api.freifunkkarte.de/rhf/de/herten/0/json",
 	"hilchenbach" : "https://raw.githubusercontent.com/Freifunk-Siegerland/ff-api/master/hilchenbach.json",
