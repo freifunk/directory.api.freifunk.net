@@ -197,6 +197,7 @@
 	"marburg" : "https://api.marburg.freifunk.net/freifunk-marburg.json",
 	"markdorf" : "https://raw.githubusercontent.com/ffbsee/api/master/ffmarkdorf.json",
 	"markneukirchen" : "https://mapdata.freifunk-vogtland.net/ffapi-MKN.json",
+	"marienheide" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/Marienheide-api.json",
 	"maulburg" : "https://api.freifunkkarte.de/wiese/de/maulburg/1/json",
 	"meckenheim" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/meckenheim.json",
 	"merzig-wadern" : "https://mgmt.saar.freifunk.net/data/api-merzig-wadern.json",
