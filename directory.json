@@ -112,6 +112,7 @@
 	"groembach" : "https://api.freifunkkarte.de/ffng/de/groembach/0/json",
 	"grossbasel" : "https://api.freifunkkarte.de/3land/ch/grossbasel/0/json",
 	"gross-gerau" : "https://raw.githubusercontent.com/freifunkgg/ff-api/master/gross-gerau.json",
+	"gummersbach" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/Gummersbach-api.json",
 	"guennetsmaettle" : "https://api.freifunkkarte.de/hotz/de/guennetsmaettle/0/json",
 	"guetersloh" : "https://stats.4830.org/freifunk-gütersloh.json",
 	"gutach-im-breisgau" : "https://api.freifunkkarte.de/ffem/de/gutach-im-breisgau/0/json",
