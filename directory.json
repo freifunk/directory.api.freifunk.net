@@ -192,7 +192,6 @@
 	"luebeck" : "https://luebeck.freifunk.net/ffapi.json",
 	"lueneburg" : "http://stats.4830.org/freifunk-l%C3%BCneburg.json",
 	"luxembourg" : "https://api.freifunk.lu/",
-	"magdeburg" : "https://md.freifunk.net/community.json",
 	"mainz" : "https://api.freifunk-mainz.de/ffapi_mz.json",
 	"malente" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/malente-api.json",
 	"mannheim" : "https://ffapi.freifunk-rhein-neckar.de/rhein-neckar.json",
