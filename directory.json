@@ -1,6 +1,7 @@
 {
 	"aachen" : "https://raw.githubusercontent.com/ffac/api-file/master/acffapi.json",
 	"adorf" : "https://mapdata.freifunk-vogtland.net/ffapi-A.json",
+	"aalen" : "https://gitlab.com/sfz.aalen/hackwerk/freifunk/website/-/blob/main/src/.well-known/api/freifunk-aalen.json"
 	"allendorf" : "https://freifunk-nordhessen.de/FreifunkEderbergland-api.json",
 	"altdorf" : "https://raw.githubusercontent.com/tecff/freifunk.net-API/master/altdorf.freifunk.net.json",
 	"altenkirchen": "https://freifunk-westerwald.de/api-ak.json",
