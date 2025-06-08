@@ -112,7 +112,6 @@
 	"grimma" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkGrimma-api.json",
 	"groembach" : "https://api.freifunkkarte.de/ffng/de/groembach/0/json",
 	"grossbasel" : "https://api.freifunkkarte.de/3land/ch/grossbasel/0/json",
-	"gross-gerau" : "https://raw.githubusercontent.com/freifunkgg/ff-api/master/gross-gerau.json",
 	"gummersbach" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/Gummersbach-api.json",
 	"guennetsmaettle" : "https://api.freifunkkarte.de/hotz/de/guennetsmaettle/0/json",
 	"guetersloh" : "http://stats.4830.org/freifunk-gütersloh.json",
