@@ -213,7 +213,7 @@
 	"muehlental" : "https://mapdata.freifunk-vogtland.net/ffapi-MTL.json",
 	"muellheim" : "https://api.freifunkkarte.de/bh/de/muellheim/0/json",
 	"muenchen" : "https://raw.githubusercontent.com/freifunkMUC/freifunk.net-API/master/freifunk.net.json",
-	"muenster" : "https://karte.freifunk-muensterland.de/data/ffapi.json",
+	"muenster" : "https://api.freifunk-muensterland.de/api.json",
 	"murg" : "https://api.freifunkkarte.de/saek/de/murg/0/json",
 	"mutschellen" : "https://api.freifunkkarte.de/ff3l/ch/mutschellen/0/json",
 	"neubrandenburg": "http://stats.4830.org/freifunk-neubrandenburg.json",
