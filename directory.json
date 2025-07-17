@@ -37,7 +37,7 @@
 	"bochum" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/bochum.json",
 	"bodman-ludwigshafen" : "https://raw.githubusercontent.com/ffbsee/api/master/bodman-ludwigshafen.json",
 	"boenen" : "https://raw.githubusercontent.com/hohlkl/FF_Boenen/master/B%C3%B6nen%2CeineGemeindevernetztsich!-api.json",
-	"borken" : "https://api.ff-bor.de/api.json",
+	"borken" : "https://freifunk-borken.de/api.json",
 	"brakel" : "https://api.ffho.net/ffapi-bkk.json",
 	"brandenburg" : "https://freifunk-brandenburg.de/api/brandenburg.json",
 	"braunlage" : "https://harz.freifunk.net/api.brl.json",
