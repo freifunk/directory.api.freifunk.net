@@ -328,7 +328,7 @@
 	"tuellingen" : "https://api.freifunkkarte.de/loe/de/tuellingen/0/json",
 	"ueberlingen" : "https://raw.githubusercontent.com/ffbsee/api/master/ffueberlingen.json",
 	"uehlingen-birkendorf" : "https://api.freifunkkarte.de/sswo/de/uehlingen-birkendorf/0/json",
-	"uelzen" : "https://www.freifunk-uelzen.de/api/FreifunkUelzen-api.json",
+	"uelzen" : "http://stats.4830.org/freifunk-uelzen.json",
 	"ulm" : "https://raw.githubusercontent.com/freifunkMUC/freifunk.net-API/master/ulm.json",
 	"velbert" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Velbert-api.json",
 	"voerde" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/voerde.json",
