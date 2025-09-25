@@ -1,5 +1,38 @@
 [![Check api directory](https://github.com/freifunk/directory.api.freifunk.net/actions/workflows/check_directory.yml/badge.svg)](https://github.com/freifunk/directory.api.freifunk.net/actions/workflows/check_directory.yml)
 
+Freifunk Community Directory
+==========
+
+Dieses Github Repository enthält das [Community Directory](https://freifunk.net/blog/2013/12/die-freifunk-api/) der [Freifunk Initiative](https://freifunk.net/).
+Das Community Directory wird von zahlreichen Anwendungen / Apps verwendet, z.B. von der [Freifunk Karte](https://www.freifunk-karte.de/), der [Community Website](http://community.freifunk.net) oder der [App Freifunk](https://apps.apple.com/de/app/freifunk/id687078875)) für das iPhone oder das iPad.
+
+Dein Source Code Beitrag
+==========
+
+Erstelle einfach einen Pull Request, wenn Du Deine Community hier eintragen oder einen bestehenden Eintrag ändern bzw. löschen willst.
+
+Voraussetzungen:
+----------------
+1. Wir können nur Einträge annehmen, bei denen sichergestellt ist, dass diese langfristig gepflegt werden. Deine Community hat mindestens. 2-3 aktive Personen die diesen Ort betreuen (sie müssen keine Anwohner dieses Ortes sein).
+2. Deine Community hat mehrere Router in diesem Ort online.
+3. Dein Eintrag im Community Directory entspricht den [Qualitätskriterien](QUALITY.md)
+4. Deine Community API Datei entspricht den [Qualitätskriterien](QUALITY.md)
+5. Organisatorisch stellt Deine Community sicher, dass die Ansprechpartner (Team) binnen 7 Tagen auf Anfragen antworten und binnen 28 Tagen Probleme beheben können. 
+
+Zu Punkt 5 empfehlen wir:
+- E-Mail-Verteiler statt persönliche E-Mail-Adressen in der Community API Datei hinterlegen
+- Mehrere Kontakt-Kanäle in der Community API Datei hinterlegen, um nicht von einem Kanal abhängig zu sein (Mailserver down, Postfach voll)
+- Wissen und Zugriffsrechte im Team entsprechend verteilen
+- Urlaubsvertretung und Zuständigkeiten klar absprechen 
+- Regelmäßig das Freifunk Forum besuchen, oder sicherstellen das Euch einen Eintrag bzgl. Community API Datei weiterleiten wird
+
+Mit Deinem Pull Request bestätigst Du, dass Du oben genannte Voraussetzungen aktuell und in Zukunft erfüllst / gewährleisten kannst.
+
+Hilfe
+==========
+
+Zur Erstellung des Pull Requests oder der Community API Datei kannst Du im Freifunk Forum Hilfe finden.
+
 Entstehung
 ==========
 
@@ -23,17 +56,6 @@ lokale Ansprechpartner zu vermitteln.
 Die Freifunk API soll die Metadaten der Communities dezentral sammeln und anderen Nutzern zur Verfügung stellen. Die API ist nicht zu verwechseln mit einer Datenbank für Freifunkknoten oder als Verzeichnis von Firmwareeinstellungen einzelner Communities.
 
 Weitere Informationen zur API sind in einem Blogartikel unter https://blog.freifunk.net/2013/die-neue-freifunk-api-aufruf-zum-mitmachen zusammengefasst.
-
-Qualitätssicherung
-==================
-
-* Die API-Datei sollten mit dem [API-Generator](https://freifunk.net/api-generator/) erstellt bzw. validiert worden sein.
-* Eine Community muss immer ortsbezogen sein. Ist eine Community überregional oder in mehreren Orten aktiv müssen für die verschiedenen Städte und Ortschaften mehrere Einträge erstellt werden. Um deutlich zu machen, das diese Ortgruppen zusammen gehören sollte im Feld `metacommunity` ein gemeinsamer Namen eingetragen werden. Alternativ kann der Communityname auch in allen Orten identisch sein.
-* Jede Community muss mindestens Kontaktdaten und eine Möglichkeit zur Teilnahme bereitstellen. Je mehr Daten desto besser.
-* Eine Freifunk-Community besteht aus einer Gruppe von min. 2-3 Personen, die auch bereits einige Freifunk-Knoten vor Ort betreibten.
-* Die Dateien müssen UTF8 codiert sein und so auch vom [Webserver ausgeliefert](https://serverfault.com/questions/581760/how-do-i-set-proper-headers-for-json-in-apache) werden.
-* Die API-Datei sollte möglichst aktuell gehalten werden. Stark veraltete oder ungültige Dateien werden nach Rückfrage wieder entfernt. 
-* Damit die API-Dateien verarbeitet werden können müssen diese in der [`directory.json`](directory.json) eingetragen werden.
 
 History
 =======
