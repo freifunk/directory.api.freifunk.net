@@ -257,7 +257,7 @@
 	"poehl" : "https://mapdata.freifunk-vogtland.net/ffapi-POE.json",
 	"porz" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/porz.json",
 	"potrems" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-potrems.json",
-	"potsdam" : "https://freifunk-potsdam.de/ffapi.json",
+	"potsdam" : "https://status.freifunk-potsdam.de/ffapi.json",
 	"puderbach": "https://freifunk-westerwald.de/api-pdb.json",
 	"quedlinburg" : "https://harz.freifunk.net/api.qlb.json",
 	"radevormwald" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/Radevormwald-api.json",
