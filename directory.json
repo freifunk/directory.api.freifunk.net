@@ -378,4 +378,5 @@
 	"xanten" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/xanten.json",
 	"zell-im-wiesental" : "https://api.freifunkkarte.de/wiese/de/zell-im-wiesental/0/json",
 	"zuerich" : "https://api.freifunkkarte.de/ff3l/ch/zuerich/0/json"
+    "dillingen-donau" : "https://freifunk-dillingen-donau.de/api/freifunk-dillingen-donau.json",
 }
