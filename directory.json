@@ -63,6 +63,7 @@
 	"detmold" : "http://api.freifunk-lippe.de/freifunk/ffapi_dt.json",
 	"diemelsee" : "https://freifunk-nordhessen.de/FreifunkDiemelsee-api.json",
 	"dillingen" : "https://freifunk-saar.de/ffs.json",
+	"dillingen-donau" : "https://freifunk-dillingen-donau.de/api/freifunk-dillingen-donau.json",
 	"dithmarschen" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/dithmarschen-api.json",
 	"doebeln" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkDoebeln-api.json",
 	"dortmund" : "https://raw.githubusercontent.com/ffdo/ffapi/master/dortmund.json",
@@ -378,5 +379,4 @@
 	"xanten" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/xanten.json",
 	"zell-im-wiesental" : "https://api.freifunkkarte.de/wiese/de/zell-im-wiesental/0/json",
 	"zuerich" : "https://api.freifunkkarte.de/ff3l/ch/zuerich/0/json"
-    "dillingen-donau" : "https://freifunk-dillingen-donau.de/api/freifunk-dillingen-donau.json",
 }
