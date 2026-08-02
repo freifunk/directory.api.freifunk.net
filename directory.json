@@ -150,6 +150,7 @@
 	"igelschlatt" : "https://api.freifunkkarte.de/sswo/de/igelschlatt/0/json",
 	"ilmenau" : "https://raw.githubusercontent.com/freifunk-ilmenau/freifunk-api-file/master/ffil.json",
 	"ingolstadt" : "https://api.freifunk-ingolstadt.de/api.json",
+	"innsbruck" : "https://freifunk-innsbruck.at/api/innsbruck.json",
 	"ippensen" : "https://ippensen-freifunk.net/FreifunkIppensen-api.json",
 	"iserlohn" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/fichtenfunk.json",
 	"kaiserslautern" : "https://api.freifunk-westpfalz.de/FreifunkWestpfalz-api.json",
