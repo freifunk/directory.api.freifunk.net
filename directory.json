@@ -44,6 +44,7 @@
 	"braunlage" : "https://harz.freifunk.net/api.brl.json",
 	"braunschweig" : "http://freifunk-bs.de/api.json",
 	"bremen" : "https://bremen.freifunk.net/ffapi/bremen.json",
+	"brilon" : "http://stats.4830.org/freifunk-brilon.json",
 	"brombach" : "https://api.freifunkkarte.de/loe/de/brombach/0/json",
 	"bruenlisbach" : "https://api.freifunkkarte.de/sswo/de/bruenlisbach/0/json",
 	"buchholz" : "https://map-api.freifunk-nordheide.de/FreifunkNordheide.freifunk-api.json",
