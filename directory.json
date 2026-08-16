@@ -100,7 +100,7 @@
 	"gardelegen" : "https://rawgit.com/FreifunkGardelegen/FreifunkGardelegenAPI/master/FreifunkGardelegen.json",
 	"gera" : "https://www.freifunk-gera-greiz.de/FreifunkGera-api.json",
 	"geroldshofstetten" : "https://api.freifunkkarte.de/sswo/de/geroldshofstetten/0/json",
-	"gluecksburg" : "http://api.ffslfl.net/gluecksburg-api.json",
+	"gifhorn" : "http://stats.4830.org/freifunk-gifhorn.json",
 	"goeldenitz" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-goeldenitz.json",
 	"goerwihl" : "https://api.freifunkkarte.de/hotz/de/goerwihl/0/json",
 	"goettingen" : "https://cccgoe.de/freifunk-goe.json",
