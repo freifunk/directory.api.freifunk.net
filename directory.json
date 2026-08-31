@@ -335,7 +335,6 @@
 	"werl" : "https://stats.4830.org/freifunk-werl.json",
 	"werne" : "https://raw.githubusercontent.com/ffdo/ffapi/master/werne.json",
 	"wernigerode" : "https://harz.freifunk.net/api.wr.json",
-	"wesel" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/wesel.json",
 	"weyher" : "https://services.freifunk-suedwest.de/ffapi/FreifunkWeyher-api.json",
 	"widum" : "https://api.freifunkkarte.de/ff3l/ch/widum/0/json",
 	"wien" : "https://wien.funkfeuer.at/ffapi.json",
