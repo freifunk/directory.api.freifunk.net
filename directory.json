@@ -122,6 +122,7 @@
 	"herten-baden" : "https://api.freifunkkarte.de/rhf/de/herten/0/json",
 	"hilchenbach" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/Hilchenbach-api.json",
 	"hilden" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Hilden-api.json",
+	"hildesheim" : "https://karte.freifunk-hildesheim.de/ffapi.json",
 	"himmelpfort" : "https://hksc.de/freifunk.himmelpfort.json",
 	"hoechenschwand" : "https://api.freifunkkarte.de/sswo/de/hoechenschwand/0/json",
 	"hof" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/hof.json",
